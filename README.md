@@ -28,6 +28,10 @@ You can choose from one of the following four methods to install:
 
 Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
 
+Note: to install Hugo on Linux these are super helpful:
+https://hostadvice.com/how-to/how-to-install-hugo-on-ubuntu-18-04/
+https://github.com/gohugoio/hugo/releases
+
 ## Ecosystem
 
 * **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
