@@ -30,19 +30,38 @@ date_format = "Jan 2006"
   role = "Head Teaching Fellow (Head TA)"
   url = ""
   semester = "Fall 2017, 2018"
-  description = ""
+  description = [
+    "Received the Derek Bok Center Distinction in Teaching Award in both 2017 and 2018",
+    "Ran a team of 11 teaching fellows to ensure that: sections and office hours were held, exams and homework assignments were graded, and student questions on the online forum were answered in a timely manner",
+    "Designed and gave two lectures: 'Introduction to Robotics and Path Planning I/II'",
+    "Aided in the development of course assignments, and course infrastructure/tools (e.g., autograders)"
+  ]
+
+[[item]]
+  course = "MIT MAS.863: How to Make Almost Anything"
+  role = "Teaching Assistant for the Harvard Section"
+  url = "http://fab.cba.mit.edu/classes/863.18/"
+  semester = "Fall 2017, 2018"
+  description = [
+    "Led introductory sessions for various pieces of software and hardware used in the course (e.g., embedded programming for Atmel microcontrollers, CAD in Solidworks and Eagle)",
+    "Held office hours, aided students in lab work, machine usage, and project design"
+  ]
 
 [[item]]
   course = "MIT Beaverworks Summer Institute: Autonomous RACECAR Grad Prix"
   role = "Associate Instructor"
   url = "https://beaverworks.ll.mit.edu/CMS/bw/bwsi"
   semester = "Summer 2016, 2017, 2018"
-  description = ""
+  description = [
+    "Worked with 9-12 teams of 4-6 students to teach programming concepts and robotic algorithm design through the completion of autonomous tasks in a Python/ROS environment using the MIT RACECAR hardware platform"
+  ]
 
 [[item]]
   course = "Harvard Math 1a/b: Introduction to Calculus I/II"
   role = "Course Assistant"
   url = ""
   semester = "Fall/Spring 2010"
-  description = ""
+  description = [
+    "Taught a weekly breakout section, staffed the Math Question Center to aid students in problem sets, and graded problem sets"
+  ]
 +++

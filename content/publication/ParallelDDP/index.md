@@ -34,20 +34,20 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: 'https://agile.seas.harvard.edu/files/agile/files/gpu-ddp.pdf'
+url_pdf: 'files/GPU_DDP_WAFR_paper.pdf'
 url_code: 'http://bitly.com/ParallelDDP'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'files/GPU_DDP_WAFR_presentation.pdf'
 url_source: ''
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).

@@ -24,7 +24,7 @@ organizations:
 bio:
 
 interests:
-- Realtime Robotics
+- Robot Manipulation and Locomotion
 - Model Predictive Control
 - Parallel Algorithms
 - High Performance Computing
@@ -74,4 +74,4 @@ user_groups: []
 #- Visitors
 ---
 
-I am a PhD student studying Robotics and Controls at Harvard University working with [Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) and [Scott Kuindersma](https://www.linkedin.com/in/scott-kuindersma-06a38152). My research is focused on developing and implementing algorithms for **realtime model predictive control** for complex high dimmensional robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such my reserach spans Robotics, Controls, System Design, and Computer Architecture. I have a passion for teaching and enjoy spending my free time with my wife and [puppy](https://www.instagram.com/alvinkplancher/) and [ski racing](http://nemasters.org/) in the winters.
+I am a PhD student studying Robotics and Controls at Harvard University working with [Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) and [Scott Kuindersma](https://scottk.seas.harvard.edu). My research is focused on developing and implementing algorithms for **realtime model predictive control** for complex high dimmensional robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such my reserach spans Robotics, Controls, System Design, and Computer Architecture. I have a passion for teaching and enjoy spending my free time with my wife and [puppy](https://www.instagram.com/alvinkplancher/) and [ski racing](http://nemasters.org/) in the winters.

@@ -34,10 +34,10 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: ''
+url_pdf: 'files/GPU_DDP_ICRA_abstract.pdf'
 url_code: 'http://bitly.com/ParallelDDP'
 url_dataset: ''
-url_poster: ''
+url_poster: 'files/GPU_DDP_ICRA_poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
@@ -46,8 +46,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).

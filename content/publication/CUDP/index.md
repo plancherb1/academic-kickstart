@@ -32,22 +32,22 @@ tags:
 featured: true
 
 links:
-#- name: Custom Link
-#  url: http://example.org
-url_pdf: 'https://ieeexplore.ieee.org/document/8206457'
+- name: Publication
+  url: https://ieeexplore.ieee.org/document/8206457
+url_pdf: 'files/CUDP_IROS_paper.pdf'
 url_code: 'http://bitly.com/ConstrainedUDP'
 url_dataset: ''
-url_poster: ''
+url_poster: 'files/CUDP_IROS_poster.pdf'
 url_project: ''
-url_slides: ''
+url_slides: 'files/CUDP_IROS_presentation.pdf'
 url_source: ''
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).

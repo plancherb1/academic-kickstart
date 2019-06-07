@@ -1,15 +1,16 @@
 ---
 # Display name
-name: Scott Kuindersma
+name: Ariel Anders
 
 # Username (this should match the folder name)
 authors:
-- Scott Kuindersma
+- Ariel Anders
 
 # Is this the primary user of the site?
 superuser: false
 
 # Custom link to external flag
-link_to_external_url: https://scottk.seas.harvard.edu
+link_to_external_url: https://arii.github.io/
+
 
 ---

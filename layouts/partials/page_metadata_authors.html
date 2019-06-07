@@ -10,8 +10,10 @@
       {{- with $profile_page -}}
         {{ if $profile_page.Params.link_to_external_url }}
           <a href="{{$profile_page.Params.link_to_external_url}}" target="_blank">{{$name}}</a>
-        {{ else }}
+        {{ else if $profile_page.Params.superuser}}
           <b>{{$name}}</b>
+        {{ else }}
+          {{$name}}
         {{end}}
       {{- else -}}
         {{$name}}

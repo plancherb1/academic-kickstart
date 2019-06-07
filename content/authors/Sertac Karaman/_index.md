@@ -1,15 +1,16 @@
 ---
 # Display name
-name: Scott Kuindersma
+name: Sertac Karaman
 
 # Username (this should match the folder name)
 authors:
-- Scott Kuindersma
+- Sertac Karaman
 
 # Is this the primary user of the site?
 superuser: false
 
 # Custom link to external flag
-link_to_external_url: https://scottk.seas.harvard.edu
+link_to_external_url: http://karaman.mit.edu/
+
 
 ---
