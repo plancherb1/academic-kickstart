@@ -53,13 +53,16 @@ social:
 #   link: files/cv.pdf
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=Hys8HdsAAAAJ
+  link: 'mailto:brian_plancher@g.harvard.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/plancherb1
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=Hys8HdsAAAAJ
+#- icon: researchgate
+#  icon_pack: fab
+#  link: https://www.researchgate.net/profile/Brian_Plancher
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/brianplancher
@@ -74,4 +77,4 @@ user_groups: []
 #- Visitors
 ---
 
-I am a PhD student studying Robotics and Controls at Harvard University working with [Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) and [Scott Kuindersma](https://scottk.seas.harvard.edu). My research is focused on developing and implementing algorithms for **realtime model predictive control** for complex high dimmensional robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such my reserach spans Robotics, Controls, System Design, and Computer Architecture. I have a passion for teaching and enjoy spending my free time with my wife and [puppy](https://www.instagram.com/alvinkplancher/) and [ski racing](http://nemasters.org/) in the winters.
+I am a PhD student studying Robotics and Controls at Harvard University working with [Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) and [Scott Kuindersma](https://scottk.seas.harvard.edu). My research is focused on developing and implementing algorithms for **realtime model predictive control** for complex high dimensional robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such my reserach spans Robotics, Controls, and Computer Architecture. I have a passion for teaching and enjoy spending my free time with my wife and [puppy](https://www.instagram.com/alvinkplancher/) and [ski racing](http://nemasters.org/) in the winters.

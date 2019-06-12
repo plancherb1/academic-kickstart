@@ -32,8 +32,8 @@ tags:
 featured: true
 
 links:
-#- name: Custom Link
-#  url: http://example.org
+- name: Video
+  url: 'https://www.youtube.com/watch?v=9FgTHw2vdt8'
 url_pdf: 'files/GPU_DDP_ICRA_abstract.pdf'
 url_code: 'http://bitly.com/ParallelDDP'
 url_dataset: ''
