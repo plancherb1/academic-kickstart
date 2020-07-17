@@ -3,7 +3,7 @@
 widget = "teaching"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 25  # Order that this section will appear.
 
 title = "Teaching"
 subtitle = ""
@@ -20,10 +20,15 @@ date_format = "Jan 2006"
 
 [[item]]
   course = "Harvard CS 249r: Special Topics in Edge Computing: Autonomous Machines"
-  role = "Teaching Fellow (TA)"
+  role = "Head Teaching Fellow (Head TA)"
   url = ""
   semester = "Fall 2019"
-  description = ""
+  description = [
+    "Received the Derek Bok Center Distinction in Teaching Award",
+    "Co-designed a new course at the intersection of robotics and computer architecture / systems serving as the robotics expert and instructor",
+    "Designed and gave lectures for the robotics section of the course",
+    "Co-developed course assignments and course infrastructure/tools (e.g., the online paper discussion forum)"
+  ]
 
 [[item]]
   course = "Harvard CS 182: Introduction to Artificial Intelligence"
@@ -40,8 +45,8 @@ date_format = "Jan 2006"
 [[item]]
   course = "MIT MAS.863: How to Make Almost Anything"
   role = "Teaching Assistant for the Harvard Section"
-  url = "http://fab.cba.mit.edu/classes/863.18/"
-  semester = "Fall 2017, 2018"
+  url = "http://fab.cba.mit.edu/classes/863.19/"
+  semester = "Fall 2017, 2018, 2019"
   description = [
     "Led introductory sessions for various pieces of software and hardware used in the course (e.g., embedded programming for Atmel microcontrollers, CAD in Solidworks and Eagle)",
     "Held office hours, aided students in lab work, machine usage, and project design"
@@ -51,7 +56,7 @@ date_format = "Jan 2006"
   course = "MIT Beaverworks Summer Institute: Autonomous RACECAR Grad Prix"
   role = "Associate Instructor"
   url = "https://beaverworks.ll.mit.edu/CMS/bw/bwsi"
-  semester = "Summer 2016, 2017, 2018"
+  semester = "Summer 2016, 2017, 2018, 2019"
   description = [
     "Worked with 9-12 teams of 4-6 students to teach programming concepts and robotic algorithm design through the completion of autonomous tasks in a Python/ROS environment using the MIT RACECAR hardware platform"
   ]
