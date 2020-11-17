@@ -26,7 +26,7 @@ bio:
 interests:
 - Robot Manipulation and Locomotion
 - Model Predictive Control
-- Computer Architecture / Systems
+- Computer Architecture / Embedded Systems
 - Numerical Optimization
 - Machine Learning
 
