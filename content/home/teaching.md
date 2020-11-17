@@ -19,15 +19,41 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  course = "HarvardX: Tiny Machine Learning"
+  role = "Teaching Staff Lead"
+  url = "https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning"
+  semester = "Fall 2020 and ongoing"
+  description = [
+    "Co-designed a new MOOC specialization in three 5-week courses on the EdX platform covering the emerging field of [Tiny Machine Learning](https://towardsdatascience.com/tiny-machine-learning-the-next-ai-revolution-495c26463868) (deploying machine learning onto microcontrollers for machine learning at the extreme edge) with the aim of democratizing access to this developing field",
+    "Over 5,000 students enrolled since the September launch",
+    "Managed the 9-person course staff to ensure that content was created, reviewed, and produced in a timely manner",
+    "Led and managed external relations for the course team coordinating with edX, Google, and Arduino",
+    "Co-designed course materials including short video lectures, readings, code walkthroughs, assessments, and discussion forums"
+  ]
+
+[[item]]
+  course = "Harvard CS 249r: Special Topics in Edge Computing: Tiny Machine Learning"
+  role = "Head Teaching Fellow (Head TA)"
+  url = ""
+  semester = "Fall 2020"
+  description = [
+    "Co-designed a new 40 student course on the emerging field of [Tiny Machine Learning](https://towardsdatascience.com/tiny-machine-learning-the-next-ai-revolution-495c26463868) (deploying machine learning onto microcontrollers for machine learning at the extreme edge)",
+    "Designed and gave lectures for the introduction to machine learning section of the course",
+    "Co-developed hands-on project-based assignments training TinyML models with Google Colab and deploying on Arduinos",
+    "Mentored student teams pursuing research-based final projects"
+  ]
+
+[[item]]
   course = "Harvard CS 249r: Special Topics in Edge Computing: Autonomous Machines"
   role = "Head Teaching Fellow (Head TA)"
   url = ""
   semester = "Fall 2019"
   description = [
     "Received the Derek Bok Center Distinction in Teaching Award",
-    "Co-designed a new course at the intersection of robotics and computer architecture / systems serving as the robotics expert and instructor",
+    "Co-designed a new 45 student course at the intersection of robotics and computer architecture / systems serving as the robotics expert and instructor",
     "Designed and gave lectures for the robotics section of the course",
-    "Co-developed course assignments and course infrastructure/tools (e.g., the online paper discussion forum)"
+    "Co-developed course assignments and course infrastructure/tools (e.g., the online paper discussion forum)",
+    "Mentored student teams pursuing research-based final projects"
   ]
 
 [[item]]
@@ -39,7 +65,8 @@ date_format = "Jan 2006"
     "Received the Derek Bok Center Distinction in Teaching Award in both 2017 and 2018",
     "Ran a team of 11 teaching fellows to ensure that: sections and office hours were held, exams and homework assignments were graded, and student questions on the online forum were answered in a timely manner",
     "Designed and gave two lectures: 'Introduction to Robotics and Path Planning I/II'",
-    "Aided in the development of course assignments, and course infrastructure/tools (e.g., autograders)"
+    "Aided in the development of course assignments, and course infrastructure/tools (e.g., autograders)",
+    "Mentored student teams pursuing research-based final projects"
   ]
 
 [[item]]
@@ -58,7 +85,9 @@ date_format = "Jan 2006"
   url = "https://beaverworks.ll.mit.edu/CMS/bw/bwsi"
   semester = "Summer 2016, 2017, 2018, 2019"
   description = [
-    "Worked with 9-12 teams of 4-6 students to teach programming concepts and robotic algorithm design through the completion of autonomous tasks in a Python/ROS environment using the MIT RACECAR hardware platform"
+    "Worked with 9-12 teams of 4-6 students to teach programming concepts and robotic algorithm design through the completion of autonomous tasks in a Python/ROS environment using the MIT RACECAR hardware platform",
+    "Co-designed weekly challenges to ensure all teams developed the technical skills needed for the final race",
+    "Co-designed and co-built the final race track spanning an entire ice hockey rink"
   ]
 
 [[item]]

@@ -26,12 +26,13 @@ bio:
 interests:
 - Robot Manipulation and Locomotion
 - Model Predictive Control
-- Parallel Algorithms
-- High Performance Computing
+- Computer Architecture / Systems
+- Numerical Optimization
+- Machine Learning
 
 education:
   courses:
-  - course: MEng in Robotics and Controls
+  - course: MEng in Robotics
     institution: Harvard University
     year: 2018
   - course: Advanced Study Non-Degree Student
@@ -77,4 +78,4 @@ user_groups: []
 #- Visitors
 ---
 
-I am a PhD student studying Robotics and Controls at Harvard University working with [Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) and [Scott Kuindersma](https://scottk.seas.harvard.edu). My research is focused on developing and implementing algorithms for **realtime model predictive control** for complex high dimensional robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such my research spans Robotics, Controls, and Computer Architecture. I have a passion for teaching and designing new interdisciplinary courses and enjoy spending my free time with my wife and [puppy](https://www.instagram.com/alvinkplancher/) and [ski racing](http://nemasters.org/) in the winters.
+I am a PhD student studying Robotics at Harvard University working with [Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) and [Scott Kuindersma](https://scottk.seas.harvard.edu). My research is focused on developing and implementing algorithms for **dynamic motion planning and control** of complex high dimensional robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such my research is focused at the intersection of Robotics and Numerical Optimization, Computer Architecture / Embedded Systems, and Machine Learning. I have a passion for teaching and designing new interdisciplinary, project based courses and enjoy spending my free time with my wife and [puppy](https://www.instagram.com/alvinkplancher/) and [ski racing](http://nemasters.org/) in the winters.
