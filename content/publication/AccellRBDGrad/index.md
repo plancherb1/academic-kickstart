@@ -1,5 +1,5 @@
 ---
-title: "Accelerating Robot Dynamics Gradients: Hardware-Software Co-Design on a CPU, GPU, and FPGA"
+title: "Accelerating Robot Dynamics Gradients on a CPU, GPU, and FPGA"
 authors:
 - admin
 - Sabrina Neuman
@@ -7,11 +7,11 @@ authors:
 - Scott Kuindersma
 - Srini Devadas
 - Vijay Janapa Reddi
-date: "2020-12-31T00:00:00Z"
+date: "2021-12-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-12-31T00:00:00Z"
+publishDate: "2021-12-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,16 +20,16 @@ publishDate: "2020-12-31T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *[Robotics and Automation Letters](https://www.ieee-ras.org/publications/ra-l)*
-publication_short: In *RAL*
+publication: In *[Robotics and Automation Letters](https://www.ieee-ras.org/publications/ra-l)* 2021
+publication_short: In *RAL* 2021
 
-abstract: Computing the gradient of rigid body dynamics is a central operation in many state-of-the-art planning and control algorithms in robotics. Parallel computing platforms such as GPUs and FPGAs can offer significant performance gains for algorithms with hardware-compatible computational structures. However, the process of making design decisions that reveal these structures, and implementing performance-critical kernels that exploit them, can be challenging. In this paper, we describe the process of *hardware-software co-design* to create high-performance implementations of the gradient of rigid body dynamics for different parallel hardware architectures. We find that these co-designed FPGA and GPU implementations can provide as much as a 3.0x end-to-end speedup over an optimized CPU implementation. Furthermore, this design process can serve as a road map for future GPU and FPGA development for other robotics algorithms.
+abstract: Computing the gradient of rigid body dynamics is a central operation in many state-of-the-art planning and control algorithms in robotics. Parallel computing platforms such as GPUs and FPGAs can offer significant performance gains for algorithms with hardware-compatible computational structures. However, the process of refactoring the underlying algorithm to reveal these structures, and implementing performance-critical kernels that exploit them, can be challenging. In this paper, we detail our designs of faster than state-of-the-art implementations of the gradient of rigid body dynamics on a CPU, GPU, and FPGA. We find that our optimized FPGA and GPU implementations provide as much as a 3.0x end-to-end speedup over an optimized CPU implementation and that the relative performance across hardware platforms depends on the number of gradient evaluations required.
 
 # Summary. An optional shortened abstract. Can also be used as a summary for an extended abstract or poster etc.
-summary: We describe the process of *hardware-software co-design* to create high-performance implementations of the gradient of rigid body dynamics for different parallel hardware architectures. We find that these co-designed FPGA and GPU implementations can provide as much as a 3.0x end-to-end speedup over an optimized CPU implementation. Furthermore, this design process can serve as a road map for future GPU and FPGA development for other robotics algorithms.
+summary: In this paper, we detail our designs of faster than state-of-the-art implementations of the gradient of rigid body dynamics on a CPU, GPU, and FPGA. We find that our optimized FPGA and GPU implementations provide as much as a 3.0x end-to-end speedup over an optimized CPU implementation and that the relative performance across hardware platforms depends on the number of gradient evaluations required.
 
 tags:
-- Hardware-Software Co-Design
+- Hardware Acceleration
 - Parallel Computing
 - GPU
 - FPGA
@@ -40,8 +40,8 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: 'files/DynGradCoDesign_paper.pdf'
-url_code: 'https://bitly.com/rbd-codesign'
+url_pdf: ''
+url_code: 'https://bitly.com/fast-rbd-grad'
 url_dataset: ''
 url_poster: ''
 url_project: ''

@@ -7,11 +7,11 @@ authors:
 - Thierry Tambe
 - Srini Devadas
 - Vijay Janapa Reddi
-date: "2020-12-31T00:00:00Z"
+date: "2021-12-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-12-31T00:00:00Z"
+publishDate: "2021-12-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,7 @@ publication_types: ["1"]
 publication: In *[2021 Architectural Support for Programming Languages and Operating Systems](https://asplos-conference.org/)*
 publication_short: In *ASPLOS 2021*
 
-abstract: Robotics applications have hard time constraints and heavy computational burdens that can greatly benefit from domain-specific hardware accelerators. For the latency-critical problem of robot motion planning and control, there exists a performance gap of at least an order of magnitude between joint actuator response rates and state-of-the-art software solutions. Hardware acceleration can close this gap, but it is essential to define automated hardware design flows to keep the design process agile as applications and robot platforms evolve. To address this challenge, we introduce robomorphic computing; a methodology to transform robot morphology into a customized hardware accelerator morphology. In this work, we (i) present this design methodology, using robot topology and structure to exploit parallelism and matrix sparsity patterns in accelerator hardware; (ii) use the methodology to generate a parameterized accelerator design for the gradient of rigid body dynamics, a key kernel in motion planning; (iii) evaluate FPGA and synthesized ASIC implementations of this accelerator for an industrial manipulator robot; and (iv) describe how the design can be automatically customized for other robot models. Using robomorphic computing, our FPGA accelerator achieves speedups of 8x and 86x over CPU and GPU latency, and maintains an overall speedup of 1.9x to 2.9x deployed in an end-to-end coprocessor system. ASIC synthesis indicates an additional factor of 7.2x. We describe how this principled approach generalizes to more complex robot platforms, such as quadrupeds and humanoids, as well as to other computational kernels in robotics, outlining a path forward for future robomorphic computing accelerators.
+abstract: Robotics applications have hard time constraints and heavy computational burdens that can greatly benefit from domain-specific hardware accelerators. For the latency-critical problem of robot motion planning and control, there exists a performance gap of at least an order of magnitude between joint actuator response rates and state-of-the-art software solutions. Hardware acceleration can close this gap, but it is essential to define automated hardware design flows to keep the design process agile as applications and robot platforms evolve. To address this challenge, we introduce robomorphic computing; a methodology to transform robot morphology into a customized hardware accelerator morphology. In this work, we (i) present this design methodology, using robot topology and structure to exploit parallelism and matrix sparsity patterns in accelerator hardware; (ii) use the methodology to generate a parameterized accelerator design for the gradient of rigid body dynamics, a key kernel in motion planning; (iii) evaluate FPGA and synthesized ASIC implementations of this accelerator for an industrial manipulator robot; and (iv) describe how the design can be automatically customized for other robot models. Our FPGA accelerator achieves speedups of 8x and 86x over CPU and GPU when executing a single dynamics gradient computation. It maintains speedups of 1.9x to 2.9x over CPU and GPU, including computation and I/O round-trip latency, when deployed as a coprocessor to a host CPU and processing multiple dynamics gradient computations. ASIC synthesis indicates an additional 7.2x factor. We describe how this principled approach generalizes to more complex robot platforms, such as quadrupeds and humanoids, as well as to other computational kernels in robotics, outlining a path forward for future robomorphic computing accelerators.
 
 # Summary. An optional shortened abstract. Can also be used as a summary for an extended abstract or poster etc.
 summary: We introduce robomorphic computing; a methodology to transform robot morphology into a customized hardware accelerator morphology. In this work, we (i) present this design methodology; (ii) use the methodology to generate a parameterized accelerator design for the gradient of rigid body dynamics; (iii) evaluate FPGA and synthesized ASIC implementations; and (iv) describe how the design can be automatically customized for other robot models. Our FPGA accelerator achieves speedups of 8x and 86x over CPU and GPU latency, and maintains an overall speedup of 1.9x to 2.9x deployed in an end-to-end coprocessor system. ASIC synthesis indicates an additional factor of 7.2x.
@@ -36,9 +36,9 @@ tags:
 featured: false
 
 links:
-#- name: Custom Link
-#  url: http://example.org
-url_pdf: 'files/Robomorphic_paper.pdf'
+- name: Extended Abstract
+  url: 'files/robomorphic_abstract.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Custom link to external flag
-link_to_external_url: https://people.csail.mit.edu/devadas/
+link_to_external_url: https://scholar.harvard.edu/sneuman
 
 
 ---
