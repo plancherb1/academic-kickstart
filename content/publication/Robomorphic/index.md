@@ -37,7 +37,7 @@ featured: false
 
 links:
 - name: Extended Abstract
-  url: 'files/robomorphic_abstract.pdf'
+  url: 'https://asplos-conference.org/abstracts/asplos21-paper857-extended_abstract.pdf'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
