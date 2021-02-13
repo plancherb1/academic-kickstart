@@ -1,12 +1,12 @@
 ---
 title: "Robomorphic Computing: A Design Methodology for Domain-Specific Accelerators Parameterized by Robot Morphology"
 authors:
-- Sabrina Neuman
+- SabrinaNeuman
 - admin
-- Thomas Bourgeat
-- Thierry Tambe
-- Srini Devadas
-- Vijay Janapa Reddi
+- ThomasBourgeat
+- ThierryTambe
+- SriniDevadas
+- VijayJanapaReddi
 date: "2021-12-31T00:00:00Z"
 doi: ""
 

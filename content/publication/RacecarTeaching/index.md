@@ -1,8 +1,8 @@
 ---
 title: "Project-based, collaborative, algorithmic robotics for high school students: Programming self-driving race cars at MIT"
 authors:
-- Sertac Karaman
-- Ariel Anders
+- SertacKaraman
+- ArielAnders
 - Michael Boulet
 - Jane Connor
 - Kenneth Gregson

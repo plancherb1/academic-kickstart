@@ -2,7 +2,7 @@
 title: "Realtime Model Predictive Control using Parallel DDP on a GPU"
 authors:
 - admin
-- Scott Kuindersma
+- ScottKuindersma
 date: "2019-05-24T00:00:00Z"
 doi: ""
 

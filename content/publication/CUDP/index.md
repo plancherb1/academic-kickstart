@@ -2,8 +2,8 @@
 title: "Constrained Unscented Dynamic Programming"
 authors:
 - admin
-- Zachary Manchester
-- Scott Kuindersma
+- ZacharyManchester
+- ScottKuindersma
 date: "2017-09-28T00:00:00Z"
 doi: ""
 

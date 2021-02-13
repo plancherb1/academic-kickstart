@@ -2,12 +2,12 @@
 title: "Accelerating Robot Dynamics Gradients on a CPU, GPU, and FPGA"
 authors:
 - admin
-- Sabrina Neuman
-- Thomas Bourgeat
-- Scott Kuindersma
-- Srini Devadas
-- Vijay Janapa Reddi
-date: "2021-12-31T00:00:00Z"
+- SabrinaNeuman
+- ThomasBourgeat
+- ScottKuindersma
+- SriniDevadas
+- VijayJanapaReddi
+date: "2021-1-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,26 +21,26 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *[Robotics and Automation Letters](https://www.ieee-ras.org/publications/ra-l)* 2021
-publication_short: In *RAL* 2021
+publication_short: In *RA-L* 2021
 
-abstract: Computing the gradient of rigid body dynamics is a central operation in many state-of-the-art planning and control algorithms in robotics. Parallel computing platforms such as GPUs and FPGAs can offer significant performance gains for algorithms with hardware-compatible computational structures. However, the process of refactoring the underlying algorithm to reveal these structures, and implementing performance-critical kernels that exploit them, can be challenging. In this paper, we detail our designs of faster than state-of-the-art implementations of the gradient of rigid body dynamics on a CPU, GPU, and FPGA. We find that our optimized FPGA and GPU implementations provide as much as a 3.0x end-to-end speedup over an optimized CPU implementation and that the relative performance across hardware platforms depends on the number of gradient evaluations required.
+abstract: Computing the gradient of rigid body dynamics is a central operation in many state-of-the-art planning and control algorithms in robotics. Parallel computing platforms such as GPUs and FPGAs can offer performance gains for algorithms with hardware-compatible computational structures. In this paper, we detail the designs of three faster than state-of-the-art implementations of the gradient of rigid body dynamics on a CPU, GPU, and FPGA. Our optimized FPGA and GPU implementations provide as much as a 3.0x end-to-end speedup over our optimized CPU implementation by refactoring the algorithm to exploit its computational features, e.g., parallelism at different granularities. We also find that the relative performance across hardware platforms depends on the number of parallel gradient evaluations required.
 
 # Summary. An optional shortened abstract. Can also be used as a summary for an extended abstract or poster etc.
-summary: In this paper, we detail our designs of faster than state-of-the-art implementations of the gradient of rigid body dynamics on a CPU, GPU, and FPGA. We find that our optimized FPGA and GPU implementations provide as much as a 3.0x end-to-end speedup over an optimized CPU implementation and that the relative performance across hardware platforms depends on the number of gradient evaluations required.
+summary: In this paper, we detail the designs of three faster than state-of-the-art implementations of the gradient of rigid body dynamics on a CPU, GPU, and FPGA. Our optimized FPGA and GPU implementations provide as much as a 3.0x end-to-end speedup over our optimized CPU implementation by refactoring the algorithm to exploit its computational features, e.g., parallelism at different granularities.
 
 tags:
 - Hardware Acceleration
 - Parallel Computing
 - GPU
 - FPGA
-- Model Predictive Control
+- Rigid Body Dynamics
 
 featured: true
 
 links:
-#- name: Custom Link
-#  url: http://example.org
-url_pdf: ''
+- name: Publication
+  url: https://ieeexplore.ieee.org/document/9350173/
+url_pdf: 'files/Accelerating_Dynamics_Gradients.pdf'
 url_code: 'https://bitly.com/fast-rbd-grad'
 url_dataset: ''
 url_poster: ''

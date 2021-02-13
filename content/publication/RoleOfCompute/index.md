@@ -1,16 +1,16 @@
 ---
 title: "The Role of Compute in Autonomous Aerial Vehicles"
 authors:
-- Behzad Boroujerdian
-- Hasan Genc
-- Srivatsan Krishnan
+- BehzadBoroujerdian
+- HasanGenc
+- SrivatsanKrishnan
 - Pieter Bardienus
-- Bardienus Duisterhof
+- BardienusDuisterhof
 - admin
 - Kayvan Mansoorshahi
 - Marcelino Almeida
-- Aleksandra Faust
-- Vijay Janapa Reddi
+- AleksandraFaust
+- VijayJanapaReddi
 date: "2019-06-01T00:00:00Z"
 doi: ""
 

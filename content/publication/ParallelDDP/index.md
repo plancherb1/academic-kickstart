@@ -2,7 +2,7 @@
 title: "A Performance Analysis of Parallel Differential Dynamic Programming on a GPU"
 authors:
 - admin
-- Scott Kuindersma
+- ScottKuindersma
 date: "2018-12-11T00:00:00Z"
 doi: ""
 

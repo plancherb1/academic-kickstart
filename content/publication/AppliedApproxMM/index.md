@@ -2,11 +2,11 @@
 title: "Application of Approximate Matrix Multiplication to Neural Networks and Distributed SLAM"
 authors:
 - admin
-- Camelia D. Brumar 
-- Iulian Brumar
-- Lilliam Pentecost
-- Saketh Rama
-- David Brooks
+- CameliaBrumar 
+- IulianBrumar
+- LilliamPentecost
+- SakethRama
+- DavidBrooks
 date: "2019-09-26T00:00:00Z"
 doi: ""
 
