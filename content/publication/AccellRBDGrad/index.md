@@ -20,8 +20,8 @@ publishDate: "2021-2-13T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *[Robotics and Automation Letters](https://www.ieee-ras.org/publications/ra-l)* 2021
-publication_short: In *RA-L* 2021
+publication: In *[Robotics and Automation Letters](https://www.ieee-ras.org/publications/ra-l)* 2021 and presented at the 2021 *[IEEE International Conference on Robotics and Automation](http://www.icra2021.org/)*
+publication_short: In *RA-L* and at *ICRA* 2021
 
 abstract: Computing the gradient of rigid body dynamics is a central operation in many state-of-the-art planning and control algorithms in robotics. Parallel computing platforms such as GPUs and FPGAs can offer performance gains for algorithms with hardware-compatible computational structures. In this paper, we detail the designs of three faster than state-of-the-art implementations of the gradient of rigid body dynamics on a CPU, GPU, and FPGA. Our optimized FPGA and GPU implementations provide as much as a 3.0x end-to-end speedup over our optimized CPU implementation by refactoring the algorithm to exploit its computational features, e.g., parallelism at different granularities. We also find that the relative performance across hardware platforms depends on the number of parallel gradient evaluations required.
 
