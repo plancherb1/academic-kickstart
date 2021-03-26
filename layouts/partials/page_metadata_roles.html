@@ -1,0 +1,12 @@
+{{/* Display roles list. */}}
+
+<ul>
+{{ $taxonomy := "roles" }}
+{{ with .Param $taxonomy }}
+  {{ range $index, $value := . }}
+    <li>
+     {{ $value | markdownify }}
+    </li>
+  {{- end -}}
+{{ end }}
+</ul>

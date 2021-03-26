@@ -1,0 +1,33 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  {{ with .Content }}
+  <div class="article-style" itemprop="articleBody">{{ . }}</div>
+  {{ end }}
+
+  {{ $pages := .Data.Pages }}
+  {{ $sorted := ($pages.ByParam "semesterCode").Reverse }}
+  {{ $paginator := .Paginate $sorted }}
+  {{ range $paginator.Pages }}
+  <div>
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <h4> {{ .Params.position | markdownify }} 
+         <span style="float:right;">{{ .Params.semesters | markdownify }}</span>
+         <br/>
+         {{ partial "page_metadata_awards.html" . }}
+    </h4>
+    <div class="article-style">
+      {{ .Params.summary }}
+      <h4> My Roles </h4>
+      {{ partial "page_metadata_roles.html" . }}
+    </div>
+    <div class="space-below"></div>
+  </div>
+  {{ end }}
+  {{ partial "pagination" . }}
+</div>
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}

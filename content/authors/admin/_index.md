@@ -18,17 +18,17 @@ role: brian_plancher@g.harvard.edu
 # Organizations/Affiliations
 organizations:
 - name: Harvard University
-  url: "https://agile.seas.harvard.edu"
+  url: "https://edge.seas.harvard.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
 - Robot Manipulation and Locomotion
-- Model Predictive Control
 - Computer Architecture / Embedded Systems
+- (Tiny) Machine Learning
+- Model Predictive Control
 - Numerical Optimization
-- Machine Learning
 
 education:
   courses:

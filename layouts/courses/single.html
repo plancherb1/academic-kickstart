@@ -1,0 +1,45 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  {{ partial "course_header.html" . }}
+
+  <div class="article-container">
+
+    {{ if .Params.abstract }}
+      <h3>Course Overview</h3>
+      <p class="pub-abstract" itemprop="text">{{ .Params.abstract | markdownify }}</p>
+      {{ if .Params.abstract2 }}
+        <p class="pub-abstract" itemprop="text">{{ .Params.abstract2 | markdownify }}</p>
+      {{ end }}
+      {{ if .Params.abstract3 }}
+        <p class="pub-abstract" itemprop="text">{{ .Params.abstract3 | markdownify }}</p>
+      {{ end }}
+    {{ else if .Params.summary }}
+      <h3>Course Overview</h3>
+      <p class="pub-abstract" itemprop="text">{{ .Params.summary | markdownify }}</p>
+    {{ end }}
+
+    {{ partial "page_links_div.html" . }}
+
+    <h3>My Roles</h3>
+    {{ partial "page_metadata_roles.html" . }}
+
+    <div class="space-below"></div>
+
+    <div class="article-style">{{ .Content }}</div>
+
+    {{ partial "tags.html" . }}
+    {{ partial "page_author.html" . }}
+
+  </div>
+</div>
+
+{{ if site.Params.section_pager }}
+<div class="article-container article-widget">
+  {{ partial "section_pager.html" . }}
+</div>
+{{ end }}
+
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}

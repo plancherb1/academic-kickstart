@@ -1,0 +1,13 @@
+{{/* Display Awards list. */}}
+
+{{ if isset .Params "awards" }}
+{{ $awards := .Param "awards" }}
+{{ if len $awards }}
+	{{ with $awards }}
+	  {{ range $index, $value := . }}
+	     {{ $value | markdownify }}
+	    <br/>
+	  {{- end -}}
+	{{ end }}
+{{ end }}
+{{ end }}
