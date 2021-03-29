@@ -43,6 +43,8 @@ links:
   url: 'files/CS182_F18_SoftwareInstall.pdf'
 - name: Robot Motion Planning Lecture Slides
   url: 'files/CS182_F18_RobotLectures.pdf'
+- name: Section Notes
+  url: https://github.com/Harvard-CS182-F18/courseware
 
 # Featured image -- named `featured.jpg/png` in this folder. 
 image:
