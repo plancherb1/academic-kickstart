@@ -5,7 +5,7 @@ authors:
 - ZacharyManchester
 - ScottKuindersma
 date: "2017-09-28T00:00:00Z"
-doi: ""
+doi: "10.1109/IROS.2017.8206457"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-05-31T00:00:00Z"
@@ -32,8 +32,8 @@ tags:
 featured: true
 
 links:
-- name: Publication
-  url: https://ieeexplore.ieee.org/document/8206457
+#- name: Publication
+#  url: https://ieeexplore.ieee.org/document/8206457
 url_pdf: 'files/CUDP_IROS_paper.pdf'
 url_code: 'http://bitly.com/ConstrainedUDP'
 url_dataset: ''

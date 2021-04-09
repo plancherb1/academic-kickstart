@@ -7,8 +7,8 @@ authors:
 - ScottKuindersma
 - SriniDevadas
 - VijayJanapaReddi
-date: "2021-01-19T00:00:00Z"
-doi: ""
+date: "2021-02-08T00:00:00Z"
+doi: "10.1109/LRA.2021.3057845"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-2-13T00:00:00Z"
@@ -38,8 +38,8 @@ tags:
 featured: true
 
 links:
-- name: Publication
-  url: https://ieeexplore.ieee.org/document/9350173/
+#- name: Publication
+#  url: https://ieeexplore.ieee.org/document/9350173/
 url_pdf: 'files/Accelerating_Dynamics_Gradients.pdf'
 url_code: 'https://bitly.com/fast-rbd-grad'
 url_dataset: ''

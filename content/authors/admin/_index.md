@@ -24,11 +24,12 @@ organizations:
 bio:
 
 interests:
-- Robot Manipulation and Locomotion
+- Robot Locomotion and Manipulation
 - Computer Architecture / Embedded Systems
 - (Tiny) Machine Learning
 - Model Predictive Control
 - Numerical Optimization
+- GPUs
 
 education:
   courses:

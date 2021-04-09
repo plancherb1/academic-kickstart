@@ -4,7 +4,7 @@ authors:
 - admin
 - ScottKuindersma
 date: "2018-12-11T00:00:00Z"
-doi: ""
+doi: "10.1007/978-3-030-44051-0_38"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-05-31T00:00:00Z"
@@ -32,8 +32,8 @@ tags:
 featured: true
 
 links:
-#- name: Custom Link
-#  url: http://example.org
+#- name: Publication
+#  url: https://link.springer.com/chapter/10.1007/978-3-030-44051-0_38
 url_pdf: 'files/GPU_DDP_WAFR_paper.pdf'
 url_code: 'http://bitly.com/ParallelDDP'
 url_dataset: ''

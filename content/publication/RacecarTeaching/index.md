@@ -13,7 +13,7 @@ authors:
 - Robert Shin
 - John Vivilecchia
 date: "2017-09-28T00:00:00Z"
-doi: ""
+doi: "10.1109/ISECon.2017.7910242"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-05-31T00:00:00Z"
@@ -38,8 +38,8 @@ tags:
 featured: false
 
 links:
-- name: Publication
-  url: https://dspace.mit.edu/handle/1721.1/114816
+#- name: Publication
+#  url: https://dspace.mit.edu/handle/1721.1/114816
 url_pdf: 'files/RACECAR_STEM_paper.pdf'
 url_code: ''
 url_dataset: ''

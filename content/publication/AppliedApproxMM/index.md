@@ -8,7 +8,7 @@ authors:
 - SakethRama
 - DavidBrooks
 date: "2019-09-26T00:00:00Z"
-doi: ""
+doi: "10.1109/HPEC.2019.8916468"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-09-26T00:00:00Z"
