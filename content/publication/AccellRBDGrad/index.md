@@ -45,9 +45,9 @@ url_code: 'https://bitly.com/fast-rbd-grad'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'files/AccelDynGrad_ICRA_presentation.pdf'
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=vFP9MXOHvNo'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
