@@ -3,7 +3,7 @@ title: "RoboRun: A Robot Runtime to Exploit Spatial Heterogeneity"
 authors:
 - BehzadBoroujerdian
 - RadhikaGhosal
-- JonCruz
+- Jon Cruz
 - admin
 - VijayJanapaReddi
 date: "2021-12-31T00:00:00Z"

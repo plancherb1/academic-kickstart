@@ -33,10 +33,14 @@ tags:
 - TinyML
 - Machine Learning
 - Embedded Systems
+- MOOC
+- STEM Education
 
 featured: true
 
 links:
+- name: Course White Paper
+  url: '/publication/wideningaccesswithtinyml/'
 - name: MOOC Website
   url: https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning
 - name: Course Materials
