@@ -23,21 +23,3 @@
   name = "CV"
   url = "files/Brian_Plancher_CV.pdf"
   weight = 40
-
-# Link to a PDF of your teaching statement
-[[main]]
-  name = "Teaching Statement"
-  url = "files/Brian_Plancher_Teaching_Statement.pdf"
-  weight = 50
-
-# Link to a PDF of your teaching statement
-[[main]]
-  name = "Research Statement"
-  url = "files/Brian_Plancher_Research_Statement.pdf"
-  weight = 60
-
-# Link to a PDF of your DIB statement
-#[[main]]
-#  name = "DIB Statement"
-#  url = "files/Brian_Plancher_DIB_Statement.pdf"
-#  weight = 70
