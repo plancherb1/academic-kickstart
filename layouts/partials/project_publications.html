@@ -1,0 +1,17 @@
+{{/* Display Publications with this Project. */}}
+
+<h3>Publications</h3>
+
+{{ $projectName := .Params.projectCode}}
+{{ $pubs := where site.RegularPages "Type" "publication" }}
+{{ $pubs := where $pubs ".Params.projects" "intersect" (slice $projectName) }}
+{{ $sort_by := "Date" }}
+{{ $pubs = sort $pubs $sort_by "desc" }}
+
+<ul>
+{{ range $index, $value := $pubs }}
+  <li>
+    {{ partial "li_citation" $value }}
+  </li>
+{{- end -}}
+</ul>

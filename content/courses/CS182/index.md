@@ -31,6 +31,8 @@ tags:
 - Machine Learning
 
 featured: true
+outreach: false
+projects: []
 
 links:
 - name: Syllabus

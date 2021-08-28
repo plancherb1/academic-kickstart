@@ -32,6 +32,8 @@ tags:
 - Arduino
 
 featured: false
+outreach: false
+projects: [TinyMLx]
 
 links:
 - name: Syllabus

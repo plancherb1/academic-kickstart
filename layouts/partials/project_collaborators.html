@@ -1,0 +1,32 @@
+{{/* Display collaborators associated with this Project. */}}
+
+<h3>Collaborators</h3>
+
+{{ $projectName := .Params.projectCode}}
+{{ $pubs := where site.RegularPages "Type" "publication" }}
+{{ $pubs := where $pubs ".Params.projects" "intersect" (slice $projectName) }}
+
+{{ $collaborators := slice }}
+{{ range $index, $value := $pubs }}
+    {{ $collaborators = $collaborators | append $value.Params.authors }}
+{{ end }}
+
+{{ $collaborators = $collaborators | uniq }}
+{{ $collaborators = sort $collaborators}}
+
+<ul>
+{{ range $index, $value := $collaborators }}
+    {{ if eq $value "admin" }}
+    {{ else }}
+        {{- $profile_page := site.GetPage (printf "/%s/%s" "authors" (. | urlize)) -}}
+        {{- $name := $profile_page.Params.name | default ($value|markdownify) -}}
+        <li><span itemprop="author name" itemtype="http://schema.org/Person">
+        {{- with $profile_page -}}
+            <a href="{{.RelPermalink}}">{{$name}}</a>
+        {{- else -}}
+            {{$name}}
+        {{- end -}}
+        </span></li>
+    {{- end -}}
+{{- end -}}
+</ul>

@@ -34,6 +34,8 @@ tags:
 - Autonomous Vehicles
 
 featured: false
+outreach: true
+projects: []
 
 links:
 - name: Website

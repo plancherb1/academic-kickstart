@@ -1,6 +1,6 @@
 +++
-# A Featured Publications section created with the Featured Content widget.
-# This section displays publications from `content/publication/` which have
+# A Featured Courses section created with the Featured Content widget.
+# This section displays publications from `content/courses/` which have
 # `featured = true` in their front matter.
 
 widget = "featured_courses"  # See https://sourcethemes.com/academic/docs/page-builder/

@@ -28,6 +28,8 @@ tags:
 - Circuit Design
 
 featured: false
+outreach: false
+projects: []
 
 links:
 - name: 2019 Course Website

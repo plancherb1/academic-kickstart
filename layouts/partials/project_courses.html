@@ -1,0 +1,18 @@
+{{/* Display Coureses with this Project. */}}
+
+<h3>Courses</h3>
+
+{{ $projectName := .Params.projectCode}}
+{{ $courses := where site.RegularPages "Type" "courses" }}
+{{ $courses := where $courses ".Params.projects" "intersect" (slice $projectName) }}
+{{ $sort_by := "Date" }}
+{{ $courses = sort $courses $sort_by "desc" }}
+
+<ul>
+{{ range $index, $value := $courses }}
+  <li>
+    <a href="{{ $value.RelPermalink }}" itemprop="url"><span itemprop="name">{{ $value.Title | markdownify }}</span></a>
+    <p>{{ $value.Params.semesters }}</br>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
+  </li>
+{{- end -}}
+</ul>

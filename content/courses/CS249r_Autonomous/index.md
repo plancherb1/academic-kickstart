@@ -36,6 +36,8 @@ tags:
 - Control
 
 featured: true
+outreach: false
+projects: [AcceleratingRobotics]
 
 links:
 - name: Syllabus

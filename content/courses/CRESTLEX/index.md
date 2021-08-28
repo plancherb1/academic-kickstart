@@ -12,7 +12,7 @@ abstract: Are you curious about how Artificial Intelligence (AI) can be used to 
 
 abstract2: This first-of-its-kind, 1-week, hands-on/virtual course for high school teachers and students will give you experience in developing a real-world application of ML through hands-on examples of Tiny Machine Learning (TinyML). TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to small low-power computing devices. This course will expose participants to the applications, algorithms, hardware, and software of TinyML. Participants will learn how to use the Edge Impulse platform to quickly and easily, collect data, train their own machine learning models, and deploy those models on their own mobile phones!
 
-abstract3: This program is a collaboration between Navajo Technical University, Harvard John A. Paulson School of Engineering and Applied Sciences, Google, and Edge Impulse, and will be run virtually from June 22 to June 25, 2021. We will be accepting up to 50 students and teachers. Deadline to apply is May 15, 2021. We look forward to exploring TinyML with you this summer.
+abstract3: This program is a collaboration between Navajo Technical University, Harvard John A. Paulson School of Engineering and Applied Sciences, Google, and Edge Impulse, and ran virtually from June 22 to June 25, 2021.
 
 # Summary. An optional shortened abstract.
 summary: CRESTLEX 3.0 is the first-of-its-kind, 4-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence through hands-on examples of Tiny Machine Learning (TinyML). This program is a collaboration between Navajo Technical University, the Harvard John A. Paulson School of Engineering and Applied Sciences, Google, and Edge Impulse.
@@ -34,6 +34,8 @@ tags:
 - Artificial Intelligence
 
 featured: false
+outreach: true
+projects: [TinyMLx]
 
 links:
 - name: Website

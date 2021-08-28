@@ -37,6 +37,8 @@ tags:
 - STEM Education
 
 featured: true
+outreach: false
+projects: [TinyMLx]
 
 links:
 - name: Course White Paper
