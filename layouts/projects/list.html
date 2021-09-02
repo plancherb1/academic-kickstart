@@ -9,13 +9,36 @@
   {{ end }}
 
   {{ $pages := .Data.Pages }}
-  {{ $sorted := ($pages.ByParam "semesterCode").Reverse }}
+  {{ $sorted := ($pages.ByParam "listPriority") }}
   {{ $paginator := .Paginate $sorted }}
   {{ range $paginator.Pages }}
+  {{ $page := . }}
   <div>
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <table style="border-collapse: collapse; border: none;">
+      <tr style="border: none;">
+        <td style="border: none; vertical-align:middle;">
+          <div class="ml-3">
+            {{ $resource := (.Resources.ByType "image").GetMatch "*featured*" }}
+            {{ with $resource }}
+            {{ $image := .Resize "200x" }}
+            <a href="{{ $page.RelPermalink }}">
+              <img src="{{ $image.RelPermalink }}" itemprop="image">
+            </a>
+            {{end}}
+          </div>
+        </td>
+        <td style="border: none; vertical-align:middle;">
+          <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        </td>
+      </tr>
+    </table>
+    <div class="space-below"></div>
     <div class="article-style">
-      {{ .Params.summary }}
+      {{ if .Params.summary }}
+        {{ .Params.summary | markdownify }}
+      {{ else }}
+        {{ .Params.abstract | markdownify }}
+      {{ end }}
     </div>
     <div class="space-below"></div>
   </div>

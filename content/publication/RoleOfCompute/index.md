@@ -11,7 +11,7 @@ authors:
 - Marcelino Almeida
 - AleksandraFaust
 - VijayJanapaReddi
-date: "2019-06-01T00:00:00Z"
+date: "2021-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,12 +20,13 @@ publishDate: "2019-09-26T00:00:00Z"
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
+# 7 = Thesis; 8 = Patent; 9 = Workshop
 publication_types: ["3"]
+underReviewFlag: True
 
 # Publication name and optional abbreviated publication name.
-publication: In *[arXiv](https://arxiv.org/abs/1906.10513)*
-publication_short: In *arXiv*
+publication:
+publication_short:
 
 abstract: "Autonomous and mobile cyber-physical machines are becoming an inevitable part of our future. In particular, unmanned aerial vehicles have seen a resurgence in activity. With multiple use cases, such as surveillance, search and rescue, package delivery, and more, these unmanned aerial systems are on the cusp of demonstrating their full potential. Despite such promises, these systems face many challenges, one of the most prominent of which is their low endurance caused by their limited onboard energy. Since the success of a mission depends on whether the drone can finish it within such duration and before it runs out of battery, improving both the time and energy associated with the mission are of high importance. Such improvements have traditionally arrived at through the use of better algorithms. But our premise is that more powerful and efficient onboard compute can also address the problem. In this paper, we investigate how the compute subsystem, in a cyber-physical mobile machine, such as a Micro Aerial Vehicle (MAV), can impact mission time and energy. Specifically, we pose the question as 'what is the role of computing for cyber-physical mobile robots?' We show that compute and motion are tightly intertwined, and as such a close examination of cyber and physical processes and their impact on one another is necessary. We show different 'impact paths' through which compute impacts mission metrics and examine them using a combination of analytical models, simulation, micro and end-to-end benchmarking. To enable similar studies, we open sourced MAVBench, our tool-set, which consists of (1) a closed-loop real-time feedback simulator and (2) an end-to-end benchmark suite comprised of state-of-the-art kernels. By combining MAVBench, analytical modeling, and an understanding of various compute impacts, we show up to 2X and 1.8X improvements for mission time and mission energy for two optimization case studies. Our investigations, as well as our optimizations, show that cyber-physical co-design, a methodology with which both the cyber and physical processes/quantities of the robot are developed with consideration of one another, similar to hardware-software co-design, is necessary for arriving at the design of the optimal robot."
 

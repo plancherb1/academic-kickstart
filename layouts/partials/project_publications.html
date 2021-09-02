@@ -1,12 +1,14 @@
 {{/* Display Publications with this Project. */}}
 
-<h3>Publications</h3>
-
 {{ $projectName := .Params.projectCode}}
 {{ $pubs := where site.RegularPages "Type" "publication" }}
 {{ $pubs := where $pubs ".Params.projects" "intersect" (slice $projectName) }}
 {{ $sort_by := "Date" }}
 {{ $pubs = sort $pubs $sort_by "desc" }}
+
+{{ if $pubs }}
+
+<h3>Publications</h3>
 
 <ul>
 {{ range $index, $value := $pubs }}
@@ -15,3 +17,5 @@
   </li>
 {{- end -}}
 </ul>
+
+{{ end }}

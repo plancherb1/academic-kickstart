@@ -1,0 +1,30 @@
+{{ range $index, $element := .Pages.ByDate.Reverse }}
+
+  {{ if eq $index 0 }}
+    {{ if ($.Scratch.Get "typename") }}
+    <div class="grid-sizer col-lg-12 isotope-item pubtype-{{ $.Scratch.Get "typecode" }}"><h2><b>{{ $.Scratch.Get "typename" }}</b></h2></div>
+    {{ end }}
+  {{ end }}
+
+  {{ $myWork := in .Params.authors "admin"}}
+  {{ $correctType := eq (index .Params.publication_types 0) ($.Scratch.Get "typecode") }}
+  {{ $correctMyWork := and $myWork $correctType }}
+
+  {{ $advisedWork := .Params.advisedByMe | default 0}}
+  {{ $typeAdvised := $.Scratch.Get "advised" | default 0}}
+
+  {{ if or (and $correctMyWork (not $typeAdvised)) (and $advisedWork $typeAdvised) }}
+    <div class="grid-sizer col-lg-12 isotope-item pubtype-{{ $.Scratch.Get "typecode" }} year-{{ .Date.Format "2006" }}">
+      {{ if eq $.Params.view 1 }}
+        {{ partial "li_list" . }}
+      {{ else if eq $.Params.view 3 }}
+        {{ partial "li_card" . }}
+      {{ else if eq $.Params.view 4 }}
+        {{ partial "li_citation" . }}
+      {{ else }}
+        {{ partial "li_compact" . }}
+      {{ end }}
+    </div>
+  {{ end }}
+
+{{ end }}

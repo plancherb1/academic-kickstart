@@ -1,0 +1,87 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  <div class="row">
+    <div class="col-lg-12">
+
+      {{ with .Content }}
+      <div class="article-style" itemprop="articleBody">{{ . }}</div>
+      {{ end }}
+
+      {{/* Array of distinct years. */}}
+      {{ range .Pages.ByDate.Reverse }}
+        {{ $year := print (.Date.Format "2006") }}
+        {{ $.Scratch.SetInMap "years" $year $year }}
+      {{ end }}
+
+      <div class="form-row mb-4">
+        <div class="col-auto">
+          <input type="search" class="filter-search" placeholder="{{ i18n "search_placeholder" }}" autocapitalize="off"
+          autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
+        </div>
+        <div class="col-auto">
+          <select class="pub-filters pubtype-select form-control form-control-sm" data-filter-group="pubtype">
+            <option value="*">{{ i18n "publication_type" }}</option>
+            {{ $pub_types := partial "functions/get_pub_types" $ }}
+            {{ range $index, $taxonomy := site.Taxonomies.publication_types }}
+            <option value=".pubtype-{{ (int $index) }}">
+              {{ index $pub_types (int $index) }}
+            </option>
+            {{ end }}
+          </select>
+        </div>
+        <div class="col-auto">
+          <select class="pub-filters form-control form-control-sm" data-filter-group="year">
+            <option value="*">{{ i18n "date" }}</option>
+            {{ $years_sorted := $.Scratch.GetSortedMapValues "years" }}
+            {{ if $years_sorted }}
+            {{ range $year := sort $years_sorted "" "desc" }}
+            <option value=".year-{{ $year }}">
+              {{ $year }}
+            </option>
+            {{ end }}
+            {{ end }}
+          </select>
+        </div>
+      </div>
+
+      <div id="container-publications">
+
+        {{ $.Scratch.Set "typename" "Preprints" }}
+        {{ $.Scratch.Set "typecode" "3" }}
+        {{ partial "publication_list_by_type" . }}
+
+        {{ $.Scratch.Set "typename" "Journal Articles" }}
+        {{ $.Scratch.Set "typecode" "2" }}
+        {{ partial "publication_list_by_type" . }}
+
+        {{ $.Scratch.Set "typename" "Conference Papers" }}
+        {{ $.Scratch.Set "typecode" "1" }}
+        {{ partial "publication_list_by_type" . }}
+
+        {{ $.Scratch.Set "typename" "Workshop Papers" }}
+        {{ $.Scratch.Set "typecode" "9" }}
+        {{ partial "publication_list_by_type" . }}
+
+        {{ $.Scratch.Set "typename" "Theses" }}
+        {{ $.Scratch.Set "typecode" "7" }}
+        {{ partial "publication_list_by_type" . }}
+
+        {{/*
+        {{ $.Scratch.Set "typename" "Advised Theses" }}
+        {{ $.Scratch.Set "typecode" "3" }}
+        {{ $.Scratch.Set "advised" 1 }}
+        {{ partial "publication_list_by_type" . }}
+        */}}
+        
+      </div>
+
+    </div>
+  </div>
+</div>
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}
+

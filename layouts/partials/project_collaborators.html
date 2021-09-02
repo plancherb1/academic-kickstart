@@ -1,18 +1,20 @@
 {{/* Display collaborators associated with this Project. */}}
 
-<h3>Collaborators</h3>
-
 {{ $projectName := .Params.projectCode}}
 {{ $pubs := where site.RegularPages "Type" "publication" }}
 {{ $pubs := where $pubs ".Params.projects" "intersect" (slice $projectName) }}
 
-{{ $collaborators := slice }}
+{{ $collaborators := .Params.collaborators }}
 {{ range $index, $value := $pubs }}
     {{ $collaborators = $collaborators | append $value.Params.authors }}
 {{ end }}
 
 {{ $collaborators = $collaborators | uniq }}
 {{ $collaborators = sort $collaborators}}
+
+{{ if $collaborators }}
+
+<h3>Collaborators</h3>
 
 <ul>
 {{ range $index, $value := $collaborators }}
@@ -22,7 +24,7 @@
         {{- $name := $profile_page.Params.name | default ($value|markdownify) -}}
         <li><span itemprop="author name" itemtype="http://schema.org/Person">
         {{- with $profile_page -}}
-            <a href="{{.RelPermalink}}">{{$name}}</a>
+            <a href="{{$profile_page.Params.link_to_external_url}}" target="_blank">{{$name}}</a>
         {{- else -}}
             {{$name}}
         {{- end -}}
@@ -30,3 +32,5 @@
     {{- end -}}
 {{- end -}}
 </ul>
+
+{{ end }}

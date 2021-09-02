@@ -1,12 +1,14 @@
 {{/* Display Coureses with this Project. */}}
 
-<h3>Courses</h3>
-
 {{ $projectName := .Params.projectCode}}
 {{ $courses := where site.RegularPages "Type" "courses" }}
 {{ $courses := where $courses ".Params.projects" "intersect" (slice $projectName) }}
 {{ $sort_by := "Date" }}
 {{ $courses = sort $courses $sort_by "desc" }}
+
+{{ if $courses }}
+
+<h3>Courses</h3>
 
 <ul>
 {{ range $index, $value := $courses }}
@@ -16,3 +18,5 @@
   </li>
 {{- end -}}
 </ul>
+
+{{ end }}

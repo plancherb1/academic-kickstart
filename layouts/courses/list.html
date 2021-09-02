@@ -12,13 +12,35 @@
   {{ $sorted := ($pages.ByParam "semesterCode").Reverse }}
   {{ $paginator := .Paginate $sorted }}
   {{ range $paginator.Pages }}
+  {{ $page := . }}
   <div>
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    <h4> {{ .Params.position | markdownify }} 
-         <span style="float:right;">{{ .Params.semesters | markdownify }}</span>
-         <br/>
-         {{ partial "page_metadata_awards.html" . }}
-    </h4>
+    <table style="border-collapse: collapse; border: none;">
+      <tr style="border: none;">
+        <td style="border: none; vertical-align:middle;">
+          <div class="ml-3">
+            {{ $resource := (.Resources.ByType "image").GetMatch "*featured*" }}
+            {{ with $resource }}
+            {{ $image := .Resize "200x" }}
+            <a href="{{ $page.RelPermalink }}">
+              <img src="{{ $image.RelPermalink }}" itemprop="image">
+            </a>
+            {{end}}
+          </div>
+        </td>
+        <td style="border: none;">
+          <div>
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <h4> 
+              {{ .Params.position | markdownify }} 
+              <span style="float:right;">{{ .Params.semesters | markdownify }}</span>
+              <br/>
+              {{ partial "page_metadata_awards.html" . }}
+            </h4>
+          </div>
+        </td>
+      </tr>
+    </table>
+    <div class="space-below" ></div>
     <div class="article-style">
       {{ .Params.summary }}
       <h4> My Roles </h4>

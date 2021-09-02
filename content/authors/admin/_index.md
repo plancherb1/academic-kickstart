@@ -24,11 +24,11 @@ organizations:
 bio:
 
 interests:
-- Robot Locomotion and Manipulation
-- Parallel Computing on CPUs, GPUs and FPGAs
-- Realtime Optimal Control
-- Embedded Machine Learning
 - STEM Education
+- Realtime Optimal Control
+- Parallel Computing on CPUs, GPUs and FPGAs
+- Robot Locomotion and Manipulation
+- Embedded Machine Learning
 
 education:
   courses:
