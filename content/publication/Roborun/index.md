@@ -6,11 +6,11 @@ authors:
 - Jon Cruz
 - admin
 - VijayJanapaReddi
-date: "2021-12-31T00:00:00Z"
+date: "2021-12-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-12-31T00:00:00Z"
+publishDate: "2021-08-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -35,7 +35,7 @@ tags:
 featured: false
 
 links:
-url_pdf: 'files/Roborun.pdf'
+url_pdf: 'https://arxiv.org/pdf/2108.13354.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -2,7 +2,6 @@
 type: "projects"
 title: "Hardware Acceleration for Robotics"
 listPriority: "1" # Code used for list order
-date: "2021-08-01T00:00:00Z"
 projectCode: AcceleratingRobotics
 
 # Course Overiew Abstract.

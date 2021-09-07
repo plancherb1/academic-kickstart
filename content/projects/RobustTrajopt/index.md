@@ -2,7 +2,6 @@
 type: "projects"
 title: "Robust Nonlinear Trajectory Optimization"
 listPriority: "3" # Code used for list order
-date: "2021-08-01T00:00:00Z"
 projectCode: RobustTrajopt
 
 # Course Overiew Abstract.

@@ -2,7 +2,6 @@
 type: "projects"
 title: "The Tiny Machine Learning Open Education Initiative (TinyMLx)"
 listPriority: "2" # Code used for list order
-date: "2021-08-01T00:00:00Z"
 projectCode: TinyMLx
 
 # Course Overiew Abstract.
