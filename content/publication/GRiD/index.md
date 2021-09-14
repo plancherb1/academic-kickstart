@@ -1,5 +1,5 @@
 ---
-title: "GRiD: GPU Accelerated Rigid Body Dynamics with Analytical Gradients"
+title: "GRiD: GPU-Accelerated Rigid Body Dynamics with Analytical Gradients"
 authors:
 - admin
 - SabrinaNeuman
@@ -25,10 +25,10 @@ publication:
 publication_short:
 # In *ICRA* 2022
 
-abstract: We introduce GRiD - a GPU accelerated library for computing rigid body dynamics with analytical gradients. GRiD was designed to accelerate the nonlinear trajectory optimization subproblem used in state-of-the-art robotic planning, control, and machine learning algorithms. Each iteration of these algorithms requires tens to hundreds of naturally parallel computations of rigid body dynamics algorithms and their gradients. GRiD leverages URDF parsing and code generation to deliver optimized dynamics kernels that not only expose GPU-friendly computational patterns, but also take advantage of both fine grained parallelism within each computation and coarse-grained parallelism between computations. Through this approach, GRiD provides as much as a 7.6x speedup over a state-of-the-art, multi-threaded CPU implementation. GRiD can also turn the GPU into a rigid body physics accelerator for algorithms that are computed on the CPU, maintaining as much as a 2.6x speedup when accounting for I/O overhead.
+abstract: We introduce GRiD, a GPU-accelerated library for computing rigid body dynamics with analytical gradients. GRiD was designed to accelerate the nonlinear trajectory optimization subproblem used in state-of-the-art robotic planning, control, and machine learning. Each iteration of nonlinear trajectory optimization requires tens to hundreds of naturally parallel computations of rigid body dynamics and their gradients. GRiD leverages URDF parsing and code generation to deliver optimized dynamics kernels that not only expose GPU-friendly computational patterns, but also take advantage of both fine-grained parallelism within each computation and coarse-grained parallelism between computations. Through this approach, when performing multiple computations of rigid body dynamics algorithms, GRiD provides as much as a 7.6x speedup over a state-of-the-art, multi-threaded CPU implementation, and maintains as much as a 2.6x speedup when accounting for I/O overhead. We release GRiD as an open-source library, so that it can be leveraged by the robotics community to easily and efficiently accelerate rigid body dynamics on the GPU.
 
 # Summary. An optional shortened abstract. Can also be used as a summary for an extended abstract or poster etc.
-summary: We introduce GRiD - a GPU accelerated library for computing rigid body dynamics with analytical gradients. GRiD was designed to accelerate nonlinear trajectory optimization. Through optimized code generation, GRiD provides as much as a 7.6x speedup over a state-of-the-art, multi-threaded CPU implementation and maintains as much as a 2.6x speedup when accounting for I/O overhead.
+summary:  We introduce and release GRiD, an open-source, GPU-accelerated library for computing rigid body dynamics with analytical gradients. GRiD was designed to accelerate nonlinear trajectory optimization Through optimized code generation, GRiD provides as much as a 7.6x speedup over a state-of-the-art, multi-threaded CPU implementation and maintains as much as a 2.6x speedup when accounting for I/O overhead.
 
 tags:
 - Hardware Acceleration
@@ -41,7 +41,7 @@ featured: true
 links:
   - name: Benchmark Experiments
     url: 'https://github.com/robot-acceleration/GRiDBenchmarks'
-url_pdf: 'TBD'
+url_pdf: ''
 url_code: 'https://github.com/robot-acceleration/GRiD'
 url_dataset: ''
 url_poster: ''
