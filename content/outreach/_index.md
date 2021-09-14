@@ -6,7 +6,7 @@ type: "widget_page"  # Page type is a Widget Page
 ---
 
 ## Co-Chair:
-+ [TinyML4D: TinyML for Developing Countries working group](https://tinymlx.org/TinyML4D/). A group of academics and industry professionals from
++ [TinyML4D: TinyML for Developing Countries Working Group](https://tinymlx.org/4D/). A group of academics and industry professionals from
 around the globe working to increase global access to low-cost embedded machine learning education and research.
 
 ## Instructor:
