@@ -41,7 +41,7 @@ featured: true
 links:
   - name: Benchmark Experiments
     url: 'https://github.com/robot-acceleration/GRiDBenchmarks'
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2109.06976'
 url_code: 'https://github.com/robot-acceleration/GRiD'
 url_dataset: ''
 url_poster: ''
