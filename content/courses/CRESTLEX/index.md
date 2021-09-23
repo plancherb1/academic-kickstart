@@ -35,7 +35,7 @@ tags:
 
 featured: false
 outreach: true
-projects: [tinyMLedu]
+projects: [TinyMLedu]
 
 links:
 - name: Website
