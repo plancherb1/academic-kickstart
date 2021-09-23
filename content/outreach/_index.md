@@ -6,8 +6,7 @@ type: "widget_page"  # Page type is a Widget Page
 ---
 
 ## Co-Chair:
-+ [TinyML4D: TinyML for Developing Countries Working Group](https://tinymlx.org/4D/). A group of academics and industry professionals from
-around the globe working to increase global access to low-cost embedded machine learning education and research.
++ [The Tiny Machine Learning Open Education Initiative (tinyMLedu)](https://tinyml.seas.harvard.edu). A group of academics and industry professionals from around the globe working to increase global access to low-cost embedded machine learning education and research.
 
 ## Instructor:
 + [CRESTLEX 3.0: CReating Effective STem Learning Experiences -- Summer 2021](/courses/crestlex). A 4-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence through hands-on examples of TinyML. This program was a collaboration between Harvard, Navajo Technical University, Google, and Edge Impulse.

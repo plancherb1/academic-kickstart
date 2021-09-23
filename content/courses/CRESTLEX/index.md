@@ -35,11 +35,11 @@ tags:
 
 featured: false
 outreach: true
-projects: [TinyMLx]
+projects: [tinyMLedu]
 
 links:
 - name: Website
-  url: https://tinymlx.org/CRESTLEX3
+  url: https://tinyml.seas.harvard.edu/CRESTLEX3
 
 # Featured image -- named `featured.jpg/png` in this folder. 
 image:

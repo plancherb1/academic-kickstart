@@ -2,7 +2,7 @@
 type: "courses"
 title: "MIT MAS.863 - How to Make Almost Anything"
 position: "Teaching Assistant for the Harvard Section"
-semesters: "Fall 2017, 2018, 2019"
+semesters: "Fall 2017, 2018, 2019, 2021"
 # Code used for list order
 semesterCode: "17.0"
 date: "2017-08-27T00:00:00Z"
@@ -32,8 +32,8 @@ outreach: false
 projects: []
 
 links:
-- name: 2019 Course Website
-  url: http://fab.cba.mit.edu/classes/863.19/
+- name: Course Website
+  url: http://fab.cba.mit.edu/classes/863.21/
 - name: Embedded Programming Recitation Slides 2019
   url: 'files/HTMAA_EmbeddedProgramming.pdf'
 - name: Electronics Design Recitation Slides 2018
