@@ -5,7 +5,7 @@ listPriority: "2" # Code used for list order
 projectCode: TinyMLedu
 
 # Course Overiew Abstract.
-abstract: TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of embedded systems. Successful deployment in this field requires intimate knowledge of applications, algorithms, hardware, and software. We are working to improve global access to TinyML educational materials through our [MOOC courses](https://tinyml.seas.harvard.edu/courses), the [TinyML4D Academic Network](https://tinyml.seas.harvard.edu/4D), and a variety of other projects.
+abstract: TinyMLedu is an international group of academics and industry professionals working to improve global access to educational materials for the cutting-edge field of TinyML. TinyML brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of embedded systems. Successful deployment in this field requires knowledge of applications, algorithms, hardware, and software. TinyMLedu is hosted by the Harvard John A. Paulson School of Engineering and Applied Sciences and affiliated with the TinyML foundation.
 abstract2: To learn more about the initiative visit our website [https://tinyml.seas.harvard.edu](https://tinyml.seas.harvard.edu)!
 abstract3:
 

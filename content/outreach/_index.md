@@ -6,7 +6,7 @@ type: "widget_page"  # Page type is a Widget Page
 ---
 
 ## Co-Chair:
-+ [The Tiny Machine Learning Open Education Initiative (TinyMLedu)](https://tinyml.seas.harvard.edu). A group of academics and industry professionals from around the globe working to increase global access to low-cost embedded machine learning education and research.
++ [The Tiny Machine Learning Open Education Initiative (TinyMLedu)](https://tinyml.seas.harvard.edu). An international group of academics and industry professionals from around the globe working to increase global access to low-cost embedded machine learning education and research. TinyMLedu is hosted by the Harvard John A. Paulson School of Engineering and Applied Sciences and affiliated with the TinyML foundation.
 
 ## Instructor:
 + [CRESTLEX 3.0: CReating Effective STem Learning Experiences -- Summer 2021](/courses/crestlex). A 4-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence through hands-on examples of TinyML. This program was a collaboration between Harvard, Navajo Technical University, Google, and Edge Impulse.
