@@ -8,9 +8,12 @@ type: "widget_page"  # Page type is a Widget Page
 ## Co-Chair:
 + [The Tiny Machine Learning Open Education Initiative (TinyMLedu)](https://tinyml.seas.harvard.edu). An international group of academics and industry professionals from around the globe working to increase global access to low-cost embedded machine learning education and research. TinyMLedu is hosted by the Harvard John A. Paulson School of Engineering and Applied Sciences and affiliated with the TinyML foundation.
 
+## Co-Organizer:
++ [SciTinyML: Scientific Use of Machine Learning on Low-Power Devices](http://indico.ictp.it/event/9622/): a 5-day hands-on, virtual workshop for university students and professors exploring real-world applications of TinyML and how they can impact the developing world. 
++ [CRESTLEX 3.0: CReating Effective STem Learning Experiences](/courses/crestlex). A 4-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence through hands-on examples of TinyML. This program was a collaboration between Harvard, Navajo Technical University, Google, and Edge Impulse.
+
 ## Instructor:
-+ [CRESTLEX 3.0: CReating Effective STem Learning Experiences -- Summer 2021](/courses/crestlex). A 4-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence through hands-on examples of TinyML. This program was a collaboration between Harvard, Navajo Technical University, Google, and Edge Impulse.
-+ [MIT Beaverworks Summer Institute: Autonomous RACECAR Grad Prix -- Summer 2016,17,18,19](/coures/beaverworks). A 4-week, project-based, summer program held at MIT for rising high school juniors and seniors exploring self driving cars. Students worked in teams of 4-6 to program their own 1/10-scale self driving car powered by an NVIDIA Jetson using an onboard LIDAR, stero camera, and IMU.
++ [MIT Beaverworks Summer Institute: Autonomous RACECAR Grad Prix](/coures/beaverworks). A 4-week, project-based, summer program held at MIT for rising high school juniors and seniors exploring self driving cars. Students worked in teams of 4-6 to program their own 1/10-scale self driving car powered by an NVIDIA Jetson using an onboard LIDAR, stero camera, and IMU.
 
 ## Mentor:
 +  [Harvard College Women in Science, Technology, Engineering, and Mathematics (WiSTEM) Mentorship Program](https://hcwc.college.harvard.edu/): "A program desinged to create and maintain an environment that fosters the growth and development of women students in the science, technology, engineering, and mathematics community at Harvard College."
