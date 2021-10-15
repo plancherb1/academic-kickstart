@@ -34,9 +34,11 @@ projects: []
 links:
 - name: Course Website
   url: http://fab.cba.mit.edu/classes/863.21/
-- name: Embedded Programming Recitation Slides 2019
+- name: Electronics Slides 2021
+  url: https://fab.cba.mit.edu/classes/863.21/doc/electronicsProductionDesignRecitation2021.pdf
+- name: Embedded Programming Slides 2019
   url: 'files/HTMAA_EmbeddedProgramming.pdf'
-- name: Electronics Design Recitation Slides 2018
+- name: Electronics Slides 2018
   url: http://fab.cba.mit.edu/classes/863.18/Harvard/people/brianplancher/Electronics_Design.pdf
 - name: My Page From When I Took The Course
   url: http://fab.cba.mit.edu/classes/863.16/section.Harvard/people/Plancher/

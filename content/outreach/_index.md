@@ -13,7 +13,7 @@ type: "widget_page"  # Page type is a Widget Page
 + [CRESTLEX 3.0: CReating Effective STem Learning Experiences](/courses/crestlex). A 4-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence through hands-on examples of TinyML. This program was a collaboration between Harvard, Navajo Technical University, Google, and Edge Impulse.
 
 ## Instructor:
-+ [MIT Beaverworks Summer Institute: Autonomous RACECAR Grad Prix](/coures/beaverworks). A 4-week, project-based, summer program held at MIT for rising high school juniors and seniors exploring self driving cars. Students worked in teams of 4-6 to program their own 1/10-scale self driving car powered by an NVIDIA Jetson using an onboard LIDAR, stero camera, and IMU.
++ [MIT Beaverworks Summer Institute: Autonomous RACECAR Grad Prix](/courses/beaverworks). A 4-week, project-based, summer program held at MIT for rising high school juniors and seniors exploring self driving cars. Students worked in teams of 4-6 to program their own 1/10-scale self driving car powered by an NVIDIA Jetson using an onboard LIDAR, stero camera, and IMU.
 
 ## Mentor:
 +  [Harvard College Women in Science, Technology, Engineering, and Mathematics (WiSTEM) Mentorship Program](https://hcwc.college.harvard.edu/): "A program desinged to create and maintain an environment that fosters the growth and development of women students in the science, technology, engineering, and mathematics community at Harvard College."
