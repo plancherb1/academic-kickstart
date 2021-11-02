@@ -76,6 +76,12 @@
     {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
     {{ if and $page.Params.widget $page.Title }}<h1>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
 
+    {{ if $person.job_alert}}
+      <hr style="height:3px;color:#A6D8FF;background-color:#A6D8FF;" />
+      <b> {{ $person.job_alert | markdownify }} </b>
+      <hr style="height:3px;color:#A6D8FF;background-color:#A6D8FF;" />
+    {{ end }}
+
     {{ $person_page.Content }}
 
     <div class="row">

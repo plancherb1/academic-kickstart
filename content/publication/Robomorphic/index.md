@@ -33,7 +33,7 @@ tags:
 - Hardware-Software Co-Design
 - FPGA
 - Robotics
-featured: false
+featured: true
 
 links:
 - name: Extended Abstract

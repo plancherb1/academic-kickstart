@@ -29,7 +29,7 @@ tags:
 - Differential Dynamic Programming
 - Unscented Transform
 - Augmented Lagrangian
-featured: true
+featured: false
 
 links:
 #- name: Publication

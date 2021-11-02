@@ -29,7 +29,7 @@ tags:
 - Differential Dynamic Programming
 - Parallel Computing
 - GPU
-featured: true
+featured: false
 
 links:
 #- name: Publication

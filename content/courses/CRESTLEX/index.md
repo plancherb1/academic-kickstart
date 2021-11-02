@@ -1,7 +1,7 @@
 ---
 type: "courses"
 title: "CRESTLEX 3.0 - CReating Effective STem Learning EXperiences"
-position: "Instructor"
+position: "Co-Organizer"
 semesters: "Summer 2021"
 # Code used for list order
 semesterCode: "21.1"
