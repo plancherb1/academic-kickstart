@@ -2,7 +2,7 @@
 type: "courses"
 title: "HarvardX: Tiny Machine Learning MOOC"
 position: "Teaching Staff Lead"
-semesters: "Launched Fall 2020"
+semesters: "Launched Fall 2020 - Winter 2022"
 # Code used for list order
 semesterCode: "20.2"
 date: "2020-09-01T00:00:00Z"
@@ -38,7 +38,7 @@ tags:
 
 featured: true
 outreach: false
-projects: [TinyMLx]
+projects: [TinyMLedu]
 
 links:
 - name: Course White Paper

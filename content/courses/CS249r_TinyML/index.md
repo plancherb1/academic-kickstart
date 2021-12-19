@@ -33,7 +33,7 @@ tags:
 
 featured: false
 outreach: false
-projects: [TinyMLx]
+projects: [TinyMLedu]
 
 links:
 - name: Syllabus

@@ -11,7 +11,7 @@ authors:
 - MassimoBanzi
 - Matthew Bennett
 - Benjamin Brown
-- Sarad Chitlangia
+- Sharad Chitlangia
 - RadhikaGhosal
 - Sarah Grafman
 - Rupert Jaeger
@@ -22,7 +22,7 @@ authors:
 - MarkMazumder
 - DominicPajak
 - Dhilan Ramaprasad
-- J. Even Smith
+- J. Evan Smith
 - MatthewStewart
 - DustinTingley
 
