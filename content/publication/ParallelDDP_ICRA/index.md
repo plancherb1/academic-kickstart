@@ -22,7 +22,7 @@ publication_short: In *Online Optimal Control Workshop at ICRA 2019*
 abstract: ""
 
 # Summary. An optional shortened abstract. Can also be used as a summary for an extended abstract or poster etc.
-summary: In this extended abstract we extend our previous work by using our Parallel DDP implementation for MPC on a physical Kuka arm. We demonstrated the feasibility of this approach in the presence of model discrepancies and communication delays between the robot and GPU and found that higher control rates generally lead to better tracking performance across a range of parallelization options.
+summary: In this extended abstract we extend our [previous work](/publication/parallelddp) by using our Parallel DDP implementation for MPC on a physical Kuka arm. We demonstrated the feasibility of this approach in the presence of model discrepancies and communication delays between the robot and GPU and found that higher control rates generally lead to better tracking performance across a range of parallelization options.
 
 tags:
 - Model Predictive Control

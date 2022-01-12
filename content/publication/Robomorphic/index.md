@@ -35,6 +35,9 @@ tags:
 - Robotics
 featured: true
 
+awards:
+- IEEE Micro Top Picks 2022 Honorable Mention
+
 links:
 - name: Extended Abstract
   url: 'https://asplos-conference.org/abstracts/asplos21-paper857-extended_abstract.pdf'

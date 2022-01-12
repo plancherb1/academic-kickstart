@@ -22,6 +22,7 @@
   {{ else if .Params.publication }}
   {{- .Params.publication | markdownify -}}.
   {{ end }}
+  <br/><b><i>{{ partial "page_metadata_awards.html" . }}</i></b>
   <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
 
   {{/* MLA Style */}}
@@ -37,6 +38,7 @@
   {{- .Params.publication | markdownify -}},
   {{ end }}
   {{- .Date.Format "2006" -}}.
+  <br/><b><i>{{ partial "page_metadata_awards.html" . }}</i></b>
   <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
 
   {{ end }}

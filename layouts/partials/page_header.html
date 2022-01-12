@@ -47,6 +47,8 @@
         <p class="page-subtitle">{{ . | markdownify | emojify }}</p>
         {{end}}
 
+        <p class="page-subtitle">{{ partial "page_metadata_awards.html" $page }}</p>
+
         {{ partial "page_metadata" (dict "page" $page "is_list" 0) }}
 
         {{ partial "page_links_div.html" $page }}
@@ -70,6 +72,8 @@
   <p class="page-subtitle">{{ . | markdownify | emojify }}</p>
   {{end}}
 
+  {{ partial "page_metadata_awards.html" $page }}
+
   {{ partial "page_metadata" (dict "page" $page "is_list" 0 "share" true) }}
   {{ partial "page_links_div.html" $page }}
 </div>
@@ -87,6 +91,8 @@
   {{ with $page.Params.subtitle }}
   <p class="page-subtitle">{{ . | markdownify | emojify }}</p>
   {{end}}
+
+  {{ partial "page_metadata_awards.html" $page }}
 
   {{ if not .IsNode }}
     {{ partial "page_metadata" (dict "page" $page "is_list" 0 "share" true) }}
