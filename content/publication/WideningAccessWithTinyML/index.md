@@ -26,11 +26,11 @@ authors:
 - MatthewStewart
 - DustinTingley
 
-date: "2021-06-09T00:00:00Z"
-doi: ""
+date: "2022-01-27T00:00:00Z"
+doi: "10.1162/99608f92.762d171a"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-06-09T00:00:00Z"
+publishDate: "2022-01-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -65,7 +65,7 @@ links:
   url: https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning
 - name: MOOC Course Materials
   url: https://github.com/tinyMLx/courseware
-url_pdf: 'https://arxiv.org/pdf/2106.04008.pdf'
+url_pdf: 'https://assets.pubpub.org/32mnbrld/41643765441459.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
