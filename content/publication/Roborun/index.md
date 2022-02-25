@@ -7,7 +7,7 @@ authors:
 - admin
 - VijayJanapaReddi
 date: "2021-08-01T00:00:00Z"
-doi: ""
+doi: "10.1109/DAC18074.2021.9586280"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-08-01T00:00:00Z"
