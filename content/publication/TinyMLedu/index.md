@@ -3,11 +3,11 @@ title: "TinyMLedu: The Tiny Machine Learning Open Education Initiative"
 authors:
 - admin
 - VijayJanapaReddi
-date: "2022-03-16T00:00:00Z"
-doi: ""
+date: "2022-03-03T00:00:00Z"
+doi: "10.1145/3478432.3499093"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-03-16T00:00:00Z"
+publishDate: "2022-03-03T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
