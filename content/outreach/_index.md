@@ -20,8 +20,8 @@ type: "widget_page"  # Page type is a Widget Page
 +  [Try AI](https://www.try-ai.org/): “A program designed to introduce early undergraduate students, particularly those identifying as women, Black, Latinx, and/or Indigenous, to research in Artificial Intelligence”
 
 ## Judge:
++ 2021, 2022 [Harvard Women in STEM ENVISION Proposal-Writing Competition](https://www.envisionbywistem.com/)
 + 2021 [Harvard i3: The Harvard College Innovation Challenge](http://tech.seas.harvard.edu/harvardi3)
-+ 2020 [Harvard Women in STEM ENVISION Proposal-Writing Competition](https://www.envisionbywistem.com/)
 
 ## Member:
-+ Harvard SEAS Committee on Diversity, Inclusion, and Belonging: Post-Bachelorette Outreach Program Working Group
++ 2021 Harvard SEAS Committee on Diversity, Inclusion, and Belonging: Post-Bachelorette Outreach Program Working Group
