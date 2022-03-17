@@ -1,6 +1,7 @@
 ---
 type: "courses"
 title: "CRESTLEX 3.0 - CReating Effective STem Learning EXperiences"
+title2: "A [TinyMLedu](https://tinyml.seas.harvard.edu) Workshop"
 position: "Co-Organizer"
 semesters: "Summer 2021"
 # Code used for list order

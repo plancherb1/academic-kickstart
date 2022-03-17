@@ -31,6 +31,9 @@
     <div class="col-6">
       <div class="split-header-content">
         <h1 itemprop="name">{{ $title }}</h1>
+        {{ with $page.Params.title2 }}
+          <h2 itemprop="name">{{ . | markdownify }}</h2>
+        {{ end }}
         {{ with $page.Params.enrollmentNote }}
           <h4>{{ . | markdownify | emojify }}</h4>
         {{end}}
@@ -68,6 +71,9 @@
 
 <div class="article-container d-xl-none">
   <h1 itemprop="name">{{ $title }}</h1>
+  {{ with $page.Params.title2 }}
+    <h2 itemprop="name">{{ . | markdownify }}</h2>
+  {{ end }}
   {{ with $page.Params.enrollmentNote }}
     <h4>{{ . | markdownify | emojify }}</h4>
   {{end}}
@@ -102,6 +108,9 @@
   {{end}}
 <div class="{{$ctnr}} pt-3">
   <h1 itemprop="name">{{ $title }}</h1>
+  {{ with $page.Params.title2 }}
+    <h2 itemprop="name">{{ . | markdownify }}</h2>
+  {{ end }}
   {{ with $page.Params.enrollmentNote }}
     <h5>{{ . | markdownify | emojify }}</h5>
   {{end}}

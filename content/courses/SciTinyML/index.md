@@ -1,6 +1,7 @@
 ---
 type: "courses"
 title: "SciTinyML - Scientific Use of Machine Learning on Low-Power Devices"
+title2: "A [TinyMLedu](https://tinyml.seas.harvard.edu) Workshop"
 position: "Co-Organizer"
 semesters: "Fall 2021"
 # Code used for list order

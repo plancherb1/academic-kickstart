@@ -30,6 +30,9 @@
         <td style="border: none;">
           <div>
             <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            {{ with $page.Params.title2 }}
+              <span>{{ . | markdownify }}</span>
+            {{ end }}
             <h4> 
               {{ .Params.position | markdownify }} 
               <span style="float:right;">{{ .Params.semesters | markdownify }}</span>

@@ -1,10 +1,11 @@
 ---
 type: "courses"
-title: "Mind the Gap: Opportunities and Challenges in the Transition Between Research and Industry - an RSS 2022 Workshop"
+title: "Mind the Gap: Opportunities and Challenges in the Transition Between Research and Industry"
+title2: "An [RSS 2022](https://roboticsconference.org/) Workshop"
 position: "Lead Organizer"
 semesters: "Summer 2022"
 # Code used for list order
-semesterCode: "22.1"
+semesterCode: "22.2"
 date: "2022-03-15T00:00:00Z"
 
 # Course Overiew Abstract.
@@ -42,7 +43,7 @@ abstract3: "In addition, we are soliciting posters targeting work involving robo
 abstract4: For researchers, this workshop will help lift the curtain on the realities of academic to industry tech transfer. For industry experts, this workshop provides an opportunity to influence the direction of academic research. For both, we hope to provide an venue for integrated dialogue and identification of new potential collaborations
 
 # Summary. An optional shortened abstract.
-summary: "Mind the Gap: Opportunities and Challenges in the Transition Between Research and Industry is an [RSS 2022](https://roboticsconference.org/) Workshop aimed at bridging the gap between academia and industry. For researchers, this workshop will help lift the curtain on the realities of academic to industry tech transfer. For industry experts, this workshop provides an opportunity to influence the direction of academic research. For both, we hope to provide an venue for integrated dialogue and identification of new potential collaborations."
+summary: "Mind the Gap: Opportunities and Challenges in the Transition Between Research and Industry is aimed at bridging the gap between academia and industry. For researchers, this workshop will help lift the curtain on the realities of academic to industry tech transfer. For industry experts, this workshop provides an opportunity to influence the direction of academic research. For both, we hope to provide an venue for integrated dialogue and identification of new potential collaborations."
 
 # Roles in the course
 roles:
