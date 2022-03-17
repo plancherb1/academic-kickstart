@@ -1,0 +1,9 @@
+{{/* Display generic list. */}}
+
+<ul>
+{{ range $index, $value := . }}
+  <li>
+   {{ $value | markdownify }}
+  </li>
+{{- end -}}
+</ul>

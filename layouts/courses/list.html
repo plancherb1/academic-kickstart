@@ -43,8 +43,10 @@
     <div class="space-below" ></div>
     <div class="article-style">
       {{ .Params.summary }}
-      <h4> My Roles </h4>
-      {{ partial "page_metadata_roles.html" . }}
+      <!-- {{ if ( gt ( len .Params.roles ) 0 ) }}
+        <h4> My Roles </h4>
+        {{ partial "page_metadata_roles.html" . }}
+      {{ end }} -->
     </div>
     <div class="space-below"></div>
   </div>

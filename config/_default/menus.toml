@@ -28,6 +28,11 @@
   url = "outreach"
   weight = 50
 
+#[[main]]
+#  name = "Office Hours"
+#  url = "office_hours"
+#  weight = 55
+
 # Link to a PDF of your resume/CV from the menu.
 [[main]]
   name = "CV"

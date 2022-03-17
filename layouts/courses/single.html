@@ -5,6 +5,12 @@
   {{ partial "course_header.html" . }}
 
   <div class="article-container">
+    {{ if .Params.prerequisites }}
+    {{ if ( gt ( len .Params.prerequisites ) 0 ) }}
+      <h3>Prerequisites</h3>
+      {{ partial "page_metadata_generic_list.html" .Params.prerequisites }}
+    {{ end }}
+    {{ end }}
 
     {{ if .Params.abstract }}
       <h3>Course Overview</h3>
@@ -22,8 +28,37 @@
 
     {{ partial "page_links_div.html" . }}
 
-    <h3>My Roles</h3>
-    {{ partial "page_metadata_roles.html" . }}
+    {{ if .Params.learningOutcomes }}
+    {{ if ( gt ( len .Params.learningOutcomes ) 0 ) }}
+      <h3>Learning Outcomes</h3>
+      By the end of the semester, you will be able to:
+      {{ partial "page_metadata_generic_list.html" .Params.learningOutcomes }}
+    {{ end }}
+    {{ end }}
+
+    {{ if .Params.grading }}
+    {{ if ( gt ( len .Params.grading ) 0 ) }}
+      <h3>Grading</h3>
+      {{ partial "page_metadata_generic_list.html" .Params.grading }}
+    {{ end }}
+    {{ end }}
+
+    {{ with .Params.waitingList }}
+      <h3>Waiting List</h3>
+      {{ . | markdownify | emojify }}
+    {{ end }}
+
+    {{ with .Params.officeHours }}
+      <h3>Office Hours</h3>
+      {{ . | markdownify | emojify }}
+    {{ end }}
+
+    {{ if .Params.roles }}
+    {{ if ( gt ( len .Params.roles ) 0 ) }}
+      <h3>My Roles</h3>
+      {{ partial "page_metadata_roles.html" . }}
+    {{ end }}
+    {{ end }}
 
     <div class="space-below"></div>
 
