@@ -42,7 +42,7 @@
     </table>
     <div class="space-below" ></div>
     <div class="article-style">
-      {{ .Params.summary }}
+      {{ .Params.summary | markdownify }}
       <!-- {{ if ( gt ( len .Params.roles ) 0 ) }}
         <h4> My Roles </h4>
         {{ partial "page_metadata_roles.html" . }}

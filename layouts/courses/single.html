@@ -21,6 +21,9 @@
       {{ if .Params.abstract3 }}
         <p class="pub-abstract" itemprop="text">{{ .Params.abstract3 | markdownify }}</p>
       {{ end }}
+      {{ if .Params.abstract4 }}
+        <p class="pub-abstract" itemprop="text">{{ .Params.abstract4 | markdownify }}</p>
+      {{ end }}
     {{ else if .Params.summary }}
       <h3>Course Overview</h3>
       <p class="pub-abstract" itemprop="text">{{ .Params.summary | markdownify }}</p>
