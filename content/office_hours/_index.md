@@ -5,7 +5,7 @@ date: "2021-08-21T00:00:00Z"  # Add today's date
 type: "widget_page"  # Page type is a Widget Page
 ---
 
-Office hours are open to students in my classes, to students interested in computer science and robotics, and really to any students who would like to find some time for one-on-one, or small-group conversations, discussions, and questions. If that's you, you are welcome to drop in at any time during the office hours; no appointment needed.
+Office hours are open to students in my classes, to students interested in computer science, robotics, and STEM education, or really to any students who would like to find some time for one-on-one, or small-group conversations, discussions, and questions. If that's you, you are welcome to drop in at any time during the office hours; no appointment needed.
 
 For Fall 2022, my office hours are typically Tuesdays TBD, with some changes and cancellations due to schedule conflicts or holidays. The full schedule is below, with exceptions shown in **bold**. Changes to office hours will usually be noted at least a week in advance, except for (rare) emergency cancellations.
 
