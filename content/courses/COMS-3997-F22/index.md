@@ -4,8 +4,8 @@ title: "COMS-3997-F22: Introduction to Robotics Engineering from Bits to Electro
 position: "Instructor of Record"
 semesters: "Fall 2022"
 dayTime: "MW 6:10-7:25pm"
-room: Room TBD
-credits: 3 Credits
+room: "222 MILBANK"
+credits: "3 Credits"
 # Code used for list order
 semesterCode: "22.3"
 date: "2022-03-25T00:00:00Z"
@@ -39,7 +39,7 @@ prerequisites:
 
 enrollmentNote: Enrollment Capped at 25 Students (Instructor Managed Waiting List See Note Below)
 
-waitingList: This class is capped at 25 students. This semester, I am handling the waitlist as an instructor-controlled waiting list. Students will be admistted based on a combination of seniority, interests in the class, and contributions to a diverse set of viewpoints and experiences in the class. Half of the available slots will be reserved for Barnard students (asuming sufficient demand). To be considered for the class, please join the waiting list **AND** fill out the form at [https://bit.ly/3997-F22-Waitlist](https://bit.ly/3997-F22-Waitlist), which asks a few questions about your background and your interests in the class. Initial placements into the class will be made by the end of May based on signups and submissions received during early registration in April.
+waitingList: This class is capped at 25 students. This semester, I am handling the waitlist as an instructor-controlled waiting list. Students will be admitted based on a combination of seniority, interests in the class, and contributions to a diverse set of viewpoints and experiences in the class. Half of the available slots will be reserved for Barnard students (assuming sufficient demand). To be considered for the class, please join the waiting list **AND** fill out the form at [https://bit.ly/3997-F22-WL](https://bit.ly/3997-F22-WL), which asks a few questions about your background and your interests in the class. Initial placements into the class will be made by the end of May based on signups and submissions received during early registration in April.
 
 # officeHours: My open office hours will be typically held on Tuesdays from XXXX for the Fall 2022 semester, but/and I am always available to meet outside of the standard time frame (ideally still on Tuesdays) by appointment. I will try to respond to requests emailed to [bplancher@barnard.edu](mailto:bplancher@barnard.edu) within 24 hours during the weekdays and within 48 hours over the weekend. The most up-to-date schedule of office hours can be found [here](/office_hours).
 
