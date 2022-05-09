@@ -82,15 +82,15 @@
   <p class="page-subtitle">
     {{ with $page.Params.semesters }}
       {{ . | markdownify | emojify }}
-    {{end}} |
+    {{end}}
     {{ with $page.Params.dayTime }}
-      {{ . | markdownify | emojify }}
-    {{end}} |
+       | {{ . | markdownify | emojify }}
+    {{end}}
     {{ with $page.Params.room }}
-      {{ . | markdownify | emojify }}
-    {{end}} |
+       | {{ . | markdownify | emojify }}
+    {{end}}
     {{ with $page.Params.credits }}
-      {{ . | markdownify | emojify }}
+       | {{ . | markdownify | emojify }}
     {{end}}
   </p>
   {{end}}
@@ -119,15 +119,15 @@
   <p class="page-subtitle">
     {{ with $page.Params.semesters }}
       {{ . | markdownify | emojify }}
-    {{end}} |
+    {{end}}
     {{ with $page.Params.dayTime }}
-      {{ . | markdownify | emojify }}
-    {{end}} |
+       | {{ . | markdownify | emojify }}
+    {{end}}
     {{ with $page.Params.room }}
-      {{ . | markdownify | emojify }}
-    {{end}} |
+       | {{ . | markdownify | emojify }}
+    {{end}}
     {{ with $page.Params.credits }}
-      {{ . | markdownify | emojify }}
+       | {{ . | markdownify | emojify }}
     {{end}}
   </p>
   {{end}}

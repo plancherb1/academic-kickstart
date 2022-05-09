@@ -13,14 +13,14 @@ superuser: true
 link_to_external_url: false
 
 # Role/position
-role: brian_plancher@g.harvard.edu
+role: bplancher@barnard.edu
 
 # Organizations/Affiliations
 organizations:
-- name: Harvard University
-  url: "https://edge.seas.harvard.edu/"
-# - name: Barnard College, Columbia University
-#   url: "https://cs.barnard.edu/"
+- name: "Barnard College, Columbia University"
+  url: "https://cs.barnard.edu/"
+# - name: Harvard University
+#   url: "https://edge.seas.harvard.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -36,7 +36,7 @@ education:
   courses:
   - course: PhD in Robotics
     institution: Harvard University
-    year: 2022 (expected)
+    year: 2022
   - course: MEng in Robotics
     institution: Harvard University
     year: 2018
@@ -59,7 +59,7 @@ social:
 #   link: files/cv.pdf
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:brian_plancher@g.harvard.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:bplancher@barnard.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/plancherb1
@@ -85,6 +85,10 @@ user_groups: []
 # job_alert: I am on the academic job market this fall and looking for opportunities to research and teach at the intersection of robotics and adjacent fields. Here is my [CV](/files/Brian_Plancher_CV.pdf) as well as my [research](/files/Brian_Plancher_Research_Statement.pdf), [teaching](/files/Brian_Plancher_Teaching_Statement.pdf), and [diversity](/files/Brian_Plancher_Diversity_Statement.pdf) statements.
 ---
 
-I am currently a PhD Candidate studying Robotics at Harvard University working with [Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) and [Scott Kuindersma](https://scottk.seas.harvard.edu) and have accepted a position as an Assistant Professor of Computer Science at Barnard College, Columbia University starting Fall 2022!
+I am an Assistant Professor of Computer Science at [Barnard College, Columbia University](https://cs.barnard.edu/), co-chair of [TinyMLedu](https://tinymledu.org), and junior co-chair for the [IEEE RAS TC on Model Based Optimization for Robotics](https://www.ieee-ras.org/model-based-optimization-for-robotics).
 
-My research is focused on developing and implementing **open-source algorithms for dynamic motion planning and control** of robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such, my research is at the intersection of Robotics and Computer Architecture / Embedded Systems, Numerical Optimization, and Machine Learning. I also want to **improve the accessibility of STEM education.** I enjoy teaching and designing new interdisciplinary, project-based, open-access courses that lower the barrier to entry of cutting edge topics like [TinyML](https://tinyml.seas.harvard.edu/). I enjoy spending my free time with my wife, daughter, and [puppy](https://www.instagram.com/alvinkplancher/), and [ski racing](https://nemsracing.org/) in the winters.
+My research is focused on developing and implementing **open-source algorithms for dynamic motion planning and control** of robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such, my research is at the intersection of Robotics and Computer Architecture, Embedded Systems, Numerical Optimization, and Machine Learning. 
+
+I also want to **improve the accessibility of STEM education.** I enjoy teaching and designing new interdisciplinary, project-based, open-access courses that lower the barrier to entry of cutting edge topics like robotics and embedded machine learning.
+
+I enjoy spending my free time with my wife, daughter, and [puppy](https://www.instagram.com/alvinkplancher/), and [ski racing](https://nemsracing.org/) in the winters.

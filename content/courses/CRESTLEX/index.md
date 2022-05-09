@@ -40,7 +40,7 @@ projects: [TinyMLedu]
 
 links:
 - name: Website
-  url: https://tinyml.seas.harvard.edu/CRESTLEX3
+  url: https://tinymledu.org/CRESTLEX3
 
 # Featured image -- named `featured.jpg/png` in this folder. 
 image:
