@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Thomas Bourgeat
+name: "Víctor Mayoral-Vilches"
 
 # Username (this should match the folder name)
 authors:
-- ThomasBourgeat
+- VictorMayoralVilches
 
 # Is this the primary user of the site?
 superuser: false
 
 # Custom link to external flag
-link_to_external_url: https://dblp.org/pid/145/1652.html
+link_to_external_url: https://es.linkedin.com/in/vmayoral
 
 
 ---
