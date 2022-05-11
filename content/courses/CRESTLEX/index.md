@@ -16,7 +16,7 @@ abstract2: This first-of-its-kind, 1-week, hands-on/virtual course for high scho
 abstract3: This program is a collaboration between Navajo Technical University, Harvard John A. Paulson School of Engineering and Applied Sciences, Google, and Edge Impulse, and ran virtually from June 22 to June 25, 2021.
 
 # Summary. An optional shortened abstract.
-summary: CRESTLEX 3.0 is the first-of-its-kind, 4-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence through hands-on examples of Tiny Machine Learning (TinyML). This program is a collaboration between Navajo Technical University, the Harvard John A. Paulson School of Engineering and Applied Sciences, Google, and Edge Impulse.
+summary: CRESTLEX 3.0 was a first-of-its-kind, 4-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence through hands-on examples of Tiny Machine Learning (TinyML). This program was a collaboration between Navajo Technical University, the Harvard John A. Paulson School of Engineering and Applied Sciences, Google, and Edge Impulse.
 
 # Roles in the course
 roles:

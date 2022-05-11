@@ -16,7 +16,7 @@ abstract2: This 3-day, hands-on/virtual workshop for high school teachers and st
 abstract3: This program is a collaboration between Navajo Technical University, the Harvard John A. Paulson School of Engineering and Applied Sciences, and Barnard College, Columbia University, and will be run virtually from June 22 to June 24, 2022.
 
 # Summary. An optional shortened abstract.
-summary: EASI=22 is a 3-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence at the edge through hands-on examples of Tiny Machine Learning (TinyML). This program is a collaboration between Navajo Technical University, the Harvard John A. Paulson School of Engineering and Applied Sciences, and Barnard College, Columbia University.
+summary: EASI-22 was a 3-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence at the edge through hands-on examples of Tiny Machine Learning (TinyML). This program was a collaboration between Navajo Technical University, the Harvard John A. Paulson School of Engineering and Applied Sciences, and Barnard College, Columbia University.
 
 # Roles in the course
 roles:
