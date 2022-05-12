@@ -2,7 +2,7 @@
 title: "GPU Acceleration for Real-time, Whole-body, Nonlinear Model Predictive Control"
 authors:
 - admin
-date: "2022-05-12T00:00:00Z"
+date: "2022-04-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
