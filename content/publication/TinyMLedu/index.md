@@ -33,12 +33,12 @@ tags:
 featured: false
 
 links:
-url_pdf: ''
+url_pdf: 'files/tinyMLedu_SIGCSE_paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'files/tinyMLedu_SIGCSE_22.pdf'
+url_slides: 'files/tinyMLedu_SIGCSE_slides.pdf'
 url_source: ''
 url_video: 'https://youtu.be/ktPTvjEkqlU'
 
