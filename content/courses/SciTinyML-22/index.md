@@ -41,11 +41,11 @@ projects: [TinyMLedu]
 links:
 - name: Website
   url: https://tinymledu.org/SciTinyML-22
-- name: "Africa: Convolutions for Hands-on Computer Vision Slides"
+- name: "Africa: My 1st Session Slides" #Convolutions for Hands-on Computer Vision Slides"
   url: https://tinymledu.org/SciTinyML-22/assets/slides/Convolutions_for_Hands-on_Computer_Vision.pdf
 - name: Video
   url: https://youtu.be/Grf_21CXgo4
-- name: "Africa: Data Pre-Processing for Hands-on Keyword Spotting Slides"
+- name: "Africa: My 2nd Session Slides" #Data Pre-Processing for Hands-on Keyword Spotting Slides"
   url: https://tinymledu.org/SciTinyML-22/assets/slides/Data_Pre-Processing_for_Hands-on_Keyword_Spotting.pdf
 - name: Video
   url: https://youtu.be/inWVs5HMakY
