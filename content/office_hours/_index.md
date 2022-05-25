@@ -9,7 +9,7 @@ Office hours are open to students in my classes, to students interested in compu
 
 For Fall 2022, my office hours are typically **Tuesdays Time TBD**, with some changes and cancellations due to schedule conflicts or holidays. The full schedule is below, with exceptions shown in **bold**. Changes to office hours will usually be noted at least a week in advance, except for (rare) emergency cancellations.
 
-I plan to hold these office hours in person in my office, location TBD. If you prefer to meet via Zoom, or would like to meet at a different time, please let me know, at [bplancher@barnard.edu](mailto:bplancher@barnard.edu). I will try to respond to requests within 24 hours during the weekdays and within 48 hours over the weekend. 
+I plan to hold these office hours in person in my office, location TBD. If you prefer to meet via Zoom, or would like to meet at a different time, please schedule a meeting through [calendly](https://calendly.com/bplancher/). You can also reach me at [bplancher@barnard.edu](mailto:bplancher@barnard.edu). I will try to respond to emails within 24 hours during the weekdays and within 48 hours over the weekend. 
 <!-- I also request that any unvaccinated students (even with proper exemptions) meet me via Zoom. -->
 
 | Day of the Week | Date | Time | Zoom Link |
