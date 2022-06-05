@@ -1,5 +1,5 @@
 ---
-title: Talks
+title: Invited Talks and Seminars
 
 # View.
 #   1 = List
@@ -13,6 +13,9 @@ header:
   image: ""
 ---
 
++ "**Data Pre-Processing for Hands-on Keyword Spotting**," SciTinyML-22 Africa: African Regional Workshop on Scientific Use of Machine Learning on Low-Power Devices Workshop, Remote, April 2022. [Pre-Recorded Video](https://youtu.be/eS6d50RJ6FI) with Live Support from Marcelo Rovai and Marco Zennaro. [Slides](https://docs.google.com/presentation/d/1EsISSVZxNXeCphAd6PriBORMnM5As0w05xIzuyfs4hI/edit).
++ “**Convolutions for Hands-on Computer Vision**,” SciTinyML-22 Africa: African Regional Workshop on Scientific Use of Machine Learning on Low-Power Devices Workshop, Remote, April 2022. [Video](https://www.youtube.com/watch?v=Grf_21CXgo4). [Slides](https://docs.google.com/presentation/d/1cHjB1iUDKkLMZseuLpaoWnOJUDoMx6ygdicT-DUsGTU/edit).
+Machine Learning on Low-Power Devices Workshop, Remote, April 2022.
 + “**TinyMLedu: Widening Access to TinyML Education and Resources**,” TinyML Toronto Meetup, Remote, January 2022. [Video](https://youtu.be/VowFpOsU5m0). [Slides](/files/22.01_tinyMLtorontoMeetup_tinyMLedu_overview.pdf).
 + “**Hardware Acceleration for Realtime Robotics**,” Barnard College, New York, NY, December 2021. [Video](https://youtu.be/IFXlHAfr_v0). [Slides](/files/21.12_Hardware_Acceleration_for_Realtime_Robotics.pdf).
 + “**Introduction to Robot Motion Planning**,” Simmons College, Boston, MA, December 2021. [Slides](/files/21.12_Introduction_to_Robot_Motion_Planning.pdf).

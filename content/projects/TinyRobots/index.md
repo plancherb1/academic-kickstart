@@ -1,7 +1,7 @@
 ---
 type: "projects"
 title: "Tiny Robots"
-listPriority: "4" # Code used for list order
+listPriority: "2" # Code used for list order
 projectCode: TinyRobots
 
 # Course Overiew Abstract.

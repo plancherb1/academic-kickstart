@@ -1,7 +1,7 @@
 ---
 type: "projects"
 title: "Robust Nonlinear Trajectory Optimization"
-listPriority: "3" # Code used for list order
+listPriority: "4" # Code used for list order
 projectCode: RobustTrajopt
 
 # Course Overiew Abstract.

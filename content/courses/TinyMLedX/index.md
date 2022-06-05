@@ -38,7 +38,7 @@ tags:
 
 featured: true
 outreach: false
-projects: [TinyMLedu]
+projects: [TinyMLedu,OpenSTEM]
 
 links:
 - name: Course White Paper

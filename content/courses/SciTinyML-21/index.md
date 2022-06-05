@@ -36,7 +36,7 @@ tags:
 
 featured: false
 outreach: true
-projects: [TinyMLedu]
+projects: [TinyMLedu,OpenSTEM]
 
 links:
 - name: Website

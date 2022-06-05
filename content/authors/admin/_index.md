@@ -85,10 +85,12 @@ user_groups: []
 # job_alert: I am on the academic job market this fall and looking for opportunities to research and teach at the intersection of robotics and adjacent fields. Here is my [CV](/files/Brian_Plancher_CV.pdf) as well as my [research](/files/Brian_Plancher_Research_Statement.pdf), [teaching](/files/Brian_Plancher_Teaching_Statement.pdf), and [diversity](/files/Brian_Plancher_Diversity_Statement.pdf) statements.
 ---
 
+<!-- I am an Assistant Professor of Computer Science at [Barnard College, Columbia University](https://cs.barnard.edu/) where I lead the [A²R Lab](https://a2r-lab.org). I am also the co-chair of [TinyMLedu](https://tinymledu.org) and junior co-chair for the [IEEE RAS TC on Model Based Optimization for Robotics](https://www.ieee-ras.org/model-based-optimization-for-robotics). -->
+
 I am an incoming Assistant Professor of Computer Science at [Barnard College, Columbia University](https://cs.barnard.edu/), co-chair of [TinyMLedu](https://tinymledu.org), and junior co-chair for the [IEEE RAS TC on Model Based Optimization for Robotics](https://www.ieee-ras.org/model-based-optimization-for-robotics).
 
 My research is focused on developing and implementing **open-source algorithms for dynamic motion planning and control** of robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such, my research is at the intersection of Robotics and Computer Architecture, Embedded Systems, Numerical Optimization, and Machine Learning. 
 
-I also want to **improve the accessibility of STEM education.** I enjoy teaching and designing new interdisciplinary, project-based, open-access courses that lower the barrier to entry of cutting edge topics like robotics and embedded machine learning.
+I also want to **improve the accessibility of STEM education.** I research ways to better understand and improve diversity, equity, inclusion, and belonging in STEM education globally, as well as design and teach new interdisciplinary, project-based, open-access courses that lower the barrier to entry of cutting edge topics like robotics and embedded machine learning.
 
 I enjoy spending my free time with my wife, daughter, and [puppy](https://www.instagram.com/alvinkplancher/), and [ski racing](https://nemsracing.org/) in the winters.
