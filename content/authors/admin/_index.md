@@ -82,10 +82,11 @@ user_groups: []
 #- Researchers
 #- Visitors
 
-# job_alert: I am on the academic job market this fall and looking for opportunities to research and teach at the intersection of robotics and adjacent fields. Here is my [CV](/files/Brian_Plancher_CV.pdf) as well as my [research](/files/Brian_Plancher_Research_Statement.pdf), [teaching](/files/Brian_Plancher_Teaching_Statement.pdf), and [diversity](/files/Brian_Plancher_Diversity_Statement.pdf) statements.
+# job_alert: My lab is actively looking for XXX and XXX, check out [this link]() for more information!
+#I am on the academic job market this fall and looking for opportunities to research and teach at the intersection of robotics and adjacent fields. Here is my [CV](/files/Brian_Plancher_CV.pdf) as well as my [research](/files/Brian_Plancher_Research_Statement.pdf), [teaching](/files/Brian_Plancher_Teaching_Statement.pdf), and [diversity](/files/Brian_Plancher_Diversity_Statement.pdf) statements.
 ---
 
-<!-- I am an Assistant Professor of Computer Science at [Barnard College, Columbia University](https://cs.barnard.edu/) where I lead the [A²R Lab](https://a2r-lab.org). I am also the co-chair of [TinyMLedu](https://tinymledu.org) and junior co-chair for the [IEEE RAS TC on Model Based Optimization for Robotics](https://www.ieee-ras.org/model-based-optimization-for-robotics). -->
+<!-- I am an Assistant Professor of Computer Science at [Barnard College, Columbia University](https://cs.barnard.edu/) where I lead the [The Accessible and Accelerated Robotics Lab (A²R Lab)](https://a2r-lab.org). I am also the co-chair of [the Tiny Machine Learning Open Education Initiative (TinyMLedu)](https://tinymledu.org) and an associate co-chair for the [IEEE RAS TC on Model Based Optimization for Robotics](https://www.ieee-ras.org/model-based-optimization-for-robotics). -->
 
 I am an incoming Assistant Professor of Computer Science at [Barnard College, Columbia University](https://cs.barnard.edu/), co-chair of [TinyMLedu](https://tinymledu.org), and junior co-chair for the [IEEE RAS TC on Model Based Optimization for Robotics](https://www.ieee-ras.org/model-based-optimization-for-robotics).
 
