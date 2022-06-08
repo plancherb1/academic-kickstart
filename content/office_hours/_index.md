@@ -7,9 +7,12 @@ type: "widget_page"  # Page type is a Widget Page
 
 Office hours are open to students in my classes, to students interested in computer science, robotics, embedded machine learning, and STEM education, or really to any students who would like to find some time for one-on-one, or small-group conversations, discussions, and questions. If that's you, you are welcome to drop in at any time during the office hours; no appointment needed.
 
+**If you want to do research with me, please follow the instructions on the [A²R Lab Join](https://a2r-lab.org/join) page.**
+
 For Fall 2022, my office hours are typically **Tuesdays Time TBD**, with some changes and cancellations due to schedule conflicts or holidays. The full schedule is below, with exceptions shown in **bold**. Changes to office hours will usually be noted at least a week in advance, except for (rare) emergency cancellations.
 
-I plan to hold these office hours in person in my office, location TBD. If you prefer to meet via Zoom, or would like to meet at a different time, please schedule a meeting through [calendly](https://calendly.com/bplancher/). You can also reach me at [bplancher@barnard.edu](mailto:bplancher@barnard.edu). I will try to respond to emails within 24 hours during the weekdays and within 48 hours over the weekend. 
+I plan to hold these office hours in person in my office in Milstein 512, but will also keep a Zoom window open for hybrid meetings. If you would like to meet at a different time, please send me an email at [bplancher@barnard.edu](mailto:bplancher@barnard.edu). I will try to respond to emails within 24 hours during the weekdays and within 48 hours over the weekend. 
+
 <!-- I also request that any unvaccinated students (even with proper exemptions) meet me via Zoom. -->
 
 | Day of the Week | Date | Time | Zoom Link |
