@@ -42,9 +42,9 @@ links:
 url_pdf: 'https://arxiv.org/pdf/2109.06976.pdf'
 url_code: 'https://github.com/robot-acceleration/GRiD'
 url_dataset: ''
-url_poster: ''
+url_poster: 'files/GRiD_ICRA_poster.pdf'
 url_project: ''
-url_slides: ''
+url_slides: 'files/GRiD_ICRA_presentation.pdf'
 url_source: ''
 url_video: 'https://youtu.be/A6bcj_ZgsKw'
 
