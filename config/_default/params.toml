@@ -50,9 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "brian_plancher@g.harvard.edu"
+email = "bplancher@barnard.edu"
 phone = ""
-address = "60 Oxford Street, Room 402, Cambridge MA, 02144, USA"
+address = "Milstein Center, Room 512, 3009 Broadway, New York, NY 10027, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = "" #"""Monday 10:00 to 13:00<br>

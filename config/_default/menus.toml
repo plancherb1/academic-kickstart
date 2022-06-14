@@ -44,7 +44,7 @@
   url = "files/Brian_Plancher_CV.pdf"
   weight = 60
 
-#[[main]]
-#  name = "A²R Lab"
-#  url = "https://a2r-lab.org"
-#  weight = 70
+[[main]]
+  name = "A²R Lab"
+  url = "https://a2r-lab.org"
+  weight = 70
