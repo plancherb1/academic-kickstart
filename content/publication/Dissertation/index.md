@@ -6,7 +6,7 @@ date: "2022-04-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-07-01T00:00:00Z"
+publishDate: "2022-06-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -35,7 +35,7 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: 'files/Dissertation.pdf'
+url_pdf: 'https://nrs.harvard.edu/URN-3:HUL.INSTREPOS:37372225'
 url_code: ''
 url_dataset: ''
 url_poster: ''
