@@ -30,8 +30,8 @@ tags:
 featured: false
 
 links:
-#- name: Custom Link
-#  url: http://example.org
+- name: Harvard Political Review Writeup
+  url: https://harvardpolitics.com/hacking-the-white-house-election-fraud-in-the-digital-age/
 url_pdf: 'files/Undergrad_Thesis.pdf'
 url_code: ''
 url_dataset: ''
