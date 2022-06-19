@@ -6,6 +6,7 @@ semesters: "Fall 2020"
 # Code used for list order
 semesterCode: "20.1"
 date: "2020-08-28T00:00:00Z"
+subtype: "semester" # semester, MOOC, workshop, other
 
 # Course Overiew Abstract.
 abstract: The explosive growth in machine learning and the ease of use of platforms like TensorFlow (TF) make it an indispensable topic of study for the modern computer science student. At the same time, the pervasiveness of ultra-low power embedded devices, coupled with the introduction of embedded machine learning frameworks like TensorFlow Lite for Microcontrollers will enable the mass proliferation of AI powered IoT devices. As such we have designed an introductory course on Applied AI at the intersection of Machine Learning and Embedded IoT Devices. We provide background on both topics and then dive into the unique challenges faced at that intersection point with hands-on assignments using TensorFlow, Google Colab, and Arduino. 

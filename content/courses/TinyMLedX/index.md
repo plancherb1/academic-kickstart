@@ -6,6 +6,7 @@ semesters: "Launched Fall 2020 - Winter 2022"
 # Code used for list order
 semesterCode: "20.2"
 date: "2020-09-01T00:00:00Z"
+subtype: "MOOC" # semester, MOOC, workshop, other
 
 # Course Overiew Abstract.
 abstract: In this exciting Professional Certificate program offered by Harvard University and Google TensorFlow, you will learn about the emerging field of Tiny Machine Learning (TinyML), its real-world applications, and the future possibilities of this transformative technology. TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to the performance-constrained and power-constrained domain of embedded systems. Successful deployment in this field requires intimate knowledge of applications, algorithms, hardware, and software.

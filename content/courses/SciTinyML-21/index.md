@@ -7,6 +7,7 @@ semesters: "Fall 2021"
 # Code used for list order
 semesterCode: "21.2"
 date: "2021-10-20T00:00:00Z"
+subtype: "workshop" # semester, MOOC, workshop, other
 
 # Course Overiew Abstract.
 abstract: SciTinyML-21 is an ICTP Virtual Meeting supported by the TinyML4D Academic Network and open to all. This program is a collaboration led by the Abdus Salam International Centre for Theoretical Physics (ICTP), the Harvard John A. Paulson School of Engineering and Applied Sciences, and TinyMLedu with 216 participants from 48 countries.

@@ -7,6 +7,7 @@ semesters: "Spring/Summer 2022"
 # Code used for list order
 semesterCode: "22.2"
 date: "2022-04-25T00:00:00Z"
+subtype: "workshop" # semester, MOOC, workshop, other
 
 # Course Overiew Abstract.
 abstract: SciTinyML-22 is an ICTP Virtual Meeting supported by the TinyML4D Academic Network and open to all exploring how embedded ML (tinyML) can impact the developing world through hands-on activities using embedded hardware devices. SciTinyML-22 ran regionally in 2022 with seperate workshops for Africa (187 participants from 29 countries), Asia, and Latin America. This program is a collaboration led by the Abdus Salam International Centre for Theoretical Physics (ICTP), the Harvard John A. Paulson School of Engineering and Applied Sciences, and TinyMLedu.

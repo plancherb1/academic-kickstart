@@ -7,6 +7,7 @@ semesters: "Summer 2022"
 # Code used for list order
 semesterCode: "22.1"
 date: "2022-05-08T00:00:00Z"
+subtype: "workshop" # semester, MOOC, workshop, other
 
 # Course Overiew Abstract.
 abstract: Are you curious about how Artificial Intelligence (AI) can be used to improve your everyday life? Do you ever wonder how your cell phone understands and responds to a question that you ask it? Have you heard the term Artificial Intelligence (AI), or Machine Learning (ML), but aren’t sure about possible uses of ML or AI, or how you might prepare for a career in this field?

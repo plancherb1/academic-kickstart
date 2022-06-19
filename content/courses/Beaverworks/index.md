@@ -6,6 +6,7 @@ semesters: "Summer 2016, 2017, 2018, 2019"
 # Code used for list order
 semesterCode: "16.1"
 date: "2016-07-01T00:00:00Z"
+subtype: "other" # semester, MOOC, workshop, other
 
 # Course Overiew Abstract.
 abstract: Driverless vehicle technology has been growing at an exponential pace since the DARPA Grand and Urban Challenges pushed the state of the art to demonstrate what was already possible. Commercial interest and aggressive development are being driven by Google, Toyota, Tesla, Continental, Uber, Apple, NVidia, and many other companies. There is no single technology or “killer app” available to solve the myriad perception, understanding, localization, planning, and control problems required to achieve robust navigation in highly variable, extremely complex and dynamically changing environments. This summer, Beaver Works Summer Institute will offer nine teams of five students, each with its own MIT-designed RACECAR (Rapid Autonomous Complex Environment Competing Ackermann steeRing) robot, the opportunity to explore the broad spectrum of research in these areas, learn to collaborate, and demonstrate fast, autonomous navigation in a Mini Grand Prix to Move... Explore... Learn...Race!

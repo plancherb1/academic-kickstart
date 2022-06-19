@@ -8,53 +8,61 @@
   <div class="article-style" itemprop="articleBody">{{ . }}</div>
   {{ end }}
 
-  {{ $pages := .Data.Pages }}
-  {{ $sorted := ($pages.ByParam "semesterCode").Reverse }}
-  {{ $paginator := .Paginate $sorted }}
-  {{ range $paginator.Pages }}
-  {{ $page := . }}
-  <div>
-    <table style="border-collapse: collapse; border: none;">
-      <tr style="border: none;">
-        <td style="border: none; vertical-align:middle;">
-          <div class="ml-3">
-            {{ $resource := (.Resources.ByType "image").GetMatch "*featured*" }}
-            {{ with $resource }}
-            {{ $image := .Resize "200x" }}
-            <a href="{{ $page.RelPermalink }}">
-              <img src="{{ $image.RelPermalink }}" itemprop="image">
-            </a>
-            {{end}}
-          </div>
-        </td>
-        <td style="border: none;">
-          <div>
-            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-            {{ with $page.Params.title2 }}
-              <span>{{ . | markdownify }}</span>
-            {{ end }}
-            <h4> 
-              {{ .Params.position | markdownify }} 
-              <span style="float:right;">{{ .Params.semesters | markdownify }}</span>
-              <br/>
-              {{ partial "page_metadata_awards.html" . }}
-            </h4>
-          </div>
-        </td>
-      </tr>
-    </table>
-    <div class="space-below" ></div>
-    <div class="article-style">
-      {{ .Params.summary | markdownify }}
-      <!-- {{ if ( gt ( len .Params.roles ) 0 ) }}
-        <h4> My Roles </h4>
-        {{ partial "page_metadata_roles.html" . }}
-      {{ end }} -->
-    </div>
-    <div class="space-below"></div>
-  </div>
+  {{/* Array of distinct years. */}}
+  {{ range .Pages.ByDate.Reverse }}
+    {{ $year := print (.Date.Format "2006") }}
+    {{ $.Scratch.SetInMap "years" $year $year }}
   {{ end }}
-  {{ partial "pagination" . }}
+
+  <div class="form-row mb-4">
+    <div class="col-auto">
+      <input type="search" class="filter-search" placeholder="{{ i18n "search_placeholder" }}" autocapitalize="off"
+      autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
+    </div>
+    <div class="col-auto">
+      <select class="pub-filters pubtype-select form-control form-control-sm" data-filter-group="pubtype">
+        <option value="*">Type</option>
+        {{ $course_type_codes := slice "semester" "MOOC" "workshop" }}
+        {{ $course_type_names := slice "Semester Long Courses" "MOOCs" "Workshops / Summer Courses" }}
+        {{ range $index, $type_code := $course_type_codes }}
+        <option value=".pubtype-{{ $type_code }}">{{ index $course_type_names $index }}</option>
+        {{ end }}
+      </select>
+    </div>
+    <div class="col-auto">
+      <select class="pub-filters form-control form-control-sm" data-filter-group="year">
+        <option value="*">{{ i18n "date" }}</option>
+        {{ $years_sorted := $.Scratch.GetSortedMapValues "years" }}
+        {{ if $years_sorted }}
+        {{ range $year := sort $years_sorted "" "desc" }}
+        <option value=".year-{{ $year }}">
+          {{ $year }}
+        </option>
+        {{ end }}
+        {{ end }}
+      </select>
+    </div>
+  </div>
+
+  <div id="container-publications">
+
+  {{ $.Scratch.Set "typename" "Semester Long Courses" }}
+  {{ $.Scratch.Set "typecode" "semester" }}
+  {{ $.Scratch.Set "typecode2" "semester" }}
+  {{ partial "course_list_by_type" . }}
+
+  {{ $.Scratch.Set "typename" "MOOCs" }}
+  {{ $.Scratch.Set "typecode" "MOOC" }}
+  {{ $.Scratch.Set "typecode2" "MOOC" }}
+  {{ partial "course_list_by_type" . }}
+
+  {{ $.Scratch.Set "typename" "Workshops / Summer Courses" }}
+  {{ $.Scratch.Set "typecode" "workshop" }}
+  {{ $.Scratch.Set "typecode2" "other" }}
+  {{ partial "course_list_by_type" . }}
+
+  </div>
+
 </div>
 {{ partial "footer_container.html" . }}
 {{ partial "footer.html" . }}

@@ -7,6 +7,7 @@ semesters: "Summer 2022"
 # Code used for list order
 semesterCode: "22.2"
 date: "2022-03-15T00:00:00Z"
+subtype: "workshop" # semester, MOOC, workshop, other
 
 # Course Overiew Abstract.
 abstract: Real-world deployability has always been a foundational focus of robotics research. However, over the past 15 years, these ideas have been tested at an unprecedented scale as start-ups and new efforts in established companies have productionized robotics to offer new consumer products, expand business services, and fulfill government contracts. This workshop aims to "back-propagate" the learnings from these efforts to academic researchers across applications, algorithms, hardware, and systems who want to contextualize their work in industry trends.

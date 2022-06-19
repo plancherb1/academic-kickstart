@@ -1,0 +1,17 @@
+{{ range $index, $element := (.Pages.ByParam "semesterCode").Reverse }}
+
+  {{ if eq $index 0 }}
+    {{ if ($.Scratch.Get "typename") }}
+    <div class="grid-sizer col-lg-12 isotope-item pubtype-{{ $.Scratch.Get "typecode" }}"><h2><b>{{ $.Scratch.Get "typename" }}</b></h2></div>
+    {{ end }}
+  {{ end }}
+
+  {{ $correctType := eq .Params.subtype ($.Scratch.Get "typecode") }}
+  {{ $correctType2 := eq .Params.subtype ($.Scratch.Get "typecode2") }}
+  {{ if or $correctType $correctType2 }}
+    <div class="grid-sizer col-lg-12 isotope-item pubtype-{{ $.Scratch.Get "typecode" }} year-{{ .Date.Format "2006" }}">
+      {{ partial "li_course" . }}
+    </div>
+  {{ end }}
+
+{{ end }}

@@ -6,6 +6,7 @@ semesters: "Fall 2017, 2018, 2019, 2021"
 # Code used for list order
 semesterCode: "17.0"
 date: "2017-08-27T00:00:00Z"
+subtype: "semester" # semester, MOOC, workshop, other
 
 # Course Overiew Abstract.
 abstract: This course provides a hands-on introduction to the resources for designing and fabricating smart systems, including CAD/CAM/CAE; NC machining, 3-D printing, injection molding, laser cutting; PCB layout and fabrication; sensors and actuators; analog instrumentation; embedded digital processing; wired and wireless communications. This course also puts emphasis on learning how to use the tools as well as understand how they work. By the end of the course you will know how to make... almost anything.

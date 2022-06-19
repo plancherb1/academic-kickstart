@@ -1,0 +1,41 @@
+{{ $page := . }}
+<div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <table style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td style="border: none; vertical-align:middle;">
+        <div class="ml-3">
+          {{ $resource := ($page.Resources.ByType "image").GetMatch "*featured*" }}
+          {{ with $resource }}
+          {{ $image := .Resize "200x" }}
+          <a href="{{ $page.RelPermalink }}">
+            <img src="{{ $image.RelPermalink }}" itemprop="image">
+          </a>
+          {{end}}
+        </div>
+      </td>
+      <td style="border: none;">
+        <div>
+          <h2><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h2>
+          {{ with $page.Params.title2 }}
+            <span>{{ . | markdownify }}</span>
+          {{ end }}
+          <h4> 
+            {{ $page.Params.position | markdownify }} 
+            <span style="float:right;">{{ $page.Params.semesters | markdownify }}</span>
+            <br/>
+            {{ partial "page_metadata_awards.html" $page }}
+          </h4>
+        </div>
+      </td>
+    </tr>
+  </table>
+  <div class="space-below" ></div>
+  <div class="article-style">
+    {{ $page.Params.summary | markdownify }}
+    <!-- {{ if ( gt ( len .Params.roles ) 0 ) }}
+      <h4> My Roles </h4>
+      {{ partial "page_metadata_roles.html" . }}
+    {{ end }} -->
+  </div>
+  <div class="space-below"></div>
+</div>
