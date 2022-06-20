@@ -39,6 +39,8 @@ projects: [TinyMLedu]
 links:
 - name: Syllabus
   url: 'files/CS249_F20_Syllabus.pdf'
+- name: Intro to (tiny)ML Slides
+  url: 'files/CS249_F20_Slides.pdf'
 - name: Website
   url: https://sites.google.com/g.harvard.edu/tinyml/home
 - name: Select Lecture Videos
