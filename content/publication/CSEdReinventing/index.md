@@ -23,7 +23,7 @@ publishDate: "2022-07-07T00:00:00Z"
 publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *[27th ACM Conference on on Innovation and Technology in Computer Science Education (ITiCSE 2022)](https://iticse.acm.org/2022/)*
+publication: In *[27th ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE 2022)](https://iticse.acm.org/2022/)*
 publication_short: In *ITiCSE 2022*
 
 abstract: "Historically, computing instructors and researchers have developed a wide variety of tools to support teaching and educational research, including exam and code testing suites and data collection solutions. Many are then community or individually maintained. However, these tools often find limited adoption beyond their creators. As a result, it is common for many of the same functionalities to be re-implemented by different instructional groups within the CS Education community. We hypothesize that this is due in part to accessibility, discoverability, and adaptability challenges, among others. Further, instructors often face institutional barriers to deployment, which can include hesitance of institutions to utilize community developed solutions that often lack a centralized authority. This working group will explore what solutions are currently available, what instructors need, and reasons behind the above-mentioned phenomenon. This will be accomplished via a literature review and survey to identify the tools that have been developed by the community; the solutions that are currently available and in use by instructors; what features are needed moving forward for classroom and research use; what support for extensions is needed to support further CS Education research; and what institutional challenges instructors and researchers are currently facing or have faced in the past in developing, deploying or otherwise using community software solutions. Finally, the working group will identify factors that limit adoption of solutions and ways to integrate and improve the accessibility, discoverability, and dissemination of existing community projects, as well as manage and overcome institutional challenges."
@@ -43,7 +43,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'files/CSEdReinventing_Slides.pdf'
 url_source: ''
 url_video: ''
 

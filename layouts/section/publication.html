@@ -49,6 +49,7 @@
       </div>
 
       <div id="container-publications">
+        {{ $.Scratch.Set "titleWritten" "0" }}
 
         {{ $.Scratch.Set "typename" "Preprints" }}
         {{ $.Scratch.Set "typecode" "3" }}
@@ -62,11 +63,15 @@
         {{ $.Scratch.Set "typecode" "1" }}
         {{ partial "publication_list_by_type" . }}
 
+        {{ $.Scratch.Set "typename" "Technical Reports" }}
+        {{ $.Scratch.Set "typecode" "4" }}
+        {{ partial "publication_list_by_type" . }}
+
         {{ $.Scratch.Set "typename" "Workshop Papers / Abstracts / Posters" }}
         {{ $.Scratch.Set "typecode" "9" }}
         {{ partial "publication_list_by_type" . }}
 
-        {{ $.Scratch.Set "typename" "Theses" }}
+        {{ $.Scratch.Set "typename" "Dissertations and Theses" }}
         {{ $.Scratch.Set "typecode" "7" }}
         {{ partial "publication_list_by_type" . }}
 
