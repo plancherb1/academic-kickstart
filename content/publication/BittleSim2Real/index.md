@@ -35,7 +35,7 @@ tags:
 - Machine Learning
 - Embedded Systems
 - Robotics
-featured: true
+featured: false
 
 links:
 - name: Video
