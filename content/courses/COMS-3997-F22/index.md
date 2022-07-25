@@ -22,17 +22,15 @@ learningOutcomes:
 - Understand the language of robotics
 - Compare and contrast different robotics algorithms and understand their tradeoffs
 - Make use of the unix command line and version control software
-- Develop a simple website to document team based projects
 - Collaborate with a team to develop an open-ended final project
 - Present the results of an open-ended team based project
 
 # grading breakdown
 # grading: 
 # - 40% Four Short Projects (10% each)
-# - 20% Final Project Writeup
-# - 20% Final Project Presentation
-# - 10% Project Collaboration
-# - 10% Attendance and Participation
+# - 30% Final Project Writeup, Presentation, and Other Milestones
+# - 25% Exam
+# - 5% Attendance, Collaboration, and Participation
 
 prerequisites:
 - COMS W3134 (or equivalent)
@@ -42,7 +40,7 @@ enrollmentNote: Enrollment Capped at 25 Students (Instructor Managed Waiting Lis
 
 waitingList: This class is capped at 25 students. This semester, I am handling the waitlist as an instructor-controlled waiting list. Students will be admitted based on a combination of seniority, interests in the class, and contributions to a diverse set of viewpoints and experiences in the class. Half of the available slots will be reserved for Barnard students (assuming sufficient demand). To be considered for the class, please join the waiting list **AND** fill out the form at [https://bit.ly/3997-F22-WL](https://bit.ly/3997-F22-WL), which asks a few questions about your background and your interests in the class. Initial placements into the class will be made by the end of May based on signups and submissions received during early registration in April.
 
-# officeHours: My open office hours will be typically held on Tuesdays from XXXX for the Fall 2022 semester, but/and I am always available to meet outside of the standard time frame (ideally still on Tuesdays) by appointment. I will try to respond to requests emailed to [bplancher@barnard.edu](mailto:bplancher@barnard.edu) within 24 hours during the weekdays and within 48 hours over the weekend. The most up-to-date schedule of office hours can be found [here](/office_hours).
+officeHours: My open office hours will be typically held on Tuesdays from 1:30-3:30 PM for the Fall 2022 semester, but/and I am always available to meet outside of the standard time frame (ideally still on Tuesdays) by appointment. I will try to respond to requests emailed to [bplancher+coms3997@barnard.edu](mailto:bplancher+coms3997@barnard.edu) within 24 hours during the weekdays and within 48 hours over the weekend. The most up-to-date schedule of office hours can be found [here](/office_hours).
 
 # Roles in the course
 roles: []
