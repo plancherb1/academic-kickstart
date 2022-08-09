@@ -11,31 +11,31 @@ Office hours are open to students in my classes, to students interested in compu
 
 **If you are trying to meet me because I am your faculty advisor please come to office hours (see below) or email me to set up a different time at [bplancher+advising@barnard.edu](mailto:bplancher+advising@barnard.edu)**
 
-For Fall 2022, my office hours are typically **Tuesdays 1:30-3:30 PM EDT**, with some changes and cancellations due to schedule conflicts or holidays. The full schedule is below, with exceptions shown in **bold**. Changes to office hours will usually be noted at least a week in advance, except for (rare) emergency cancellations.
+For Fall 2022, my office hours are typically **Tuesdays 11:00am-1:00 PM EDT**, with some changes and cancellations due to schedule conflicts or holidays. The full schedule is below, with exceptions shown in **bold**. Changes to office hours will usually be noted at least a week in advance, except for (rare) emergency cancellations.
 
 I plan to hold these office hours in person in my office in Milstein 512, but will also keep a [Zoom window](
 https://columbiauniversity.zoom.us/my/bplancher) open for hybrid meetings. If you would like to meet at a different time, please send me an email at [bplancher+meeting@barnard.edu](mailto:bplancher+meeting@barnard.edu). I will try to respond to emails within 24 hours during the weekdays and within 48 hours over the weekend. 
 
 <!-- I also request that any unvaccinated students (even with proper exemptions) meet me via Zoom. -->
 
-| Day of the Week | Date             | Time |
-|-----------------|------------------|------|
-| **Wednesday**   | **September 6**  | **2:00-4:00 PM EDT** |
-| Tuesday         | September 13     | 1:30-3:30 PM EDT     |
-| Tuesday         | September 20     | 1:30-3:30 PM EDT     |
-| Tuesday         | September 27     | 1:30-3:30 PM EDT     |
-|                 |                  |                      |
-| Tuesday         | October 4        | 1:30-3:30 PM EDT     |
-| Tuesday         | October 11       | 1:30-3:30 PM EDT     |
-| Tuesday         | October 18       | 1:30-3:30 PM EDT     |
-| Tuesday         | October 25       | 1:30-3:30 PM EDT     |
-|                 |                  |                      |
-| Tuesday         | November 1       | 1:30-3:30 PM EDT     |
-| **Wednesday**   | **November 9**   | **2:00-4:00 PM EDT** |
-| Tuesday         | November 15      | 1:30-3:30 PM EDT     |
-| **Monday**      | **November 21**  | **2:00-4:00 PM EDT** |
-| Tuesday         | November 29      | 1:30-3:30 PM EDT     |
-| Tuesday         | November 29      | 1:30-3:30 PM EDT     |
-|                 |                  |                      |
-| Tuesday         | December 6       | 1:30-3:30 PM EDT     |
-| Tuesday         | December 13      | 1:30-3:30 PM EDT     |
+| Day of the Week | Date             | Time                        |
+|-----------------|------------------|-----------------------------|
+| **Wednesday**   | **September 6**  | **2:00 PM - 4:00 PM EDT**   |
+| Tuesday         | September 13     | 11:00 AM - 1:00 PM EDT      |
+| Tuesday         | September 20     | 11:00 AM - 1:00 PM EDT      |
+| Tuesday         | September 27     | 11:00 AM - 1:00 PM EDT      |
+|                 |                  |                             |
+| Tuesday         | October 4        | 11:00 AM - 1:00 PM EDT      |
+| Tuesday         | October 11       | 11:00 AM - 1:00 PM EDT      |
+| Tuesday         | October 18       | 11:00 AM - 1:00 PM EDT      |
+| Tuesday         | October 25       | 11:00 AM - 1:00 PM EDT      |
+|                 |                  |                             |
+| Tuesday         | November 1       | 11:00 AM - 1:00 PM EDT      |
+| **Wednesday**   | **November 9**   | **2:00 PM - 4:00 PM EDT**   |
+| Tuesday         | November 15      | 11:00 AM - 1:00 PM EDT      |
+| **Monday**      | **November 21**  | **2:00 PM - 4:00 PM EDT**   |
+| Tuesday         | November 29      | 11:00 AM - 1:00 PM EDT      |
+| Tuesday         | November 29      | 11:00 AM - 1:00 PM EDT      |
+|                 |                  |                             |
+| Tuesday         | December 6       | 11:00 AM - 1:00 PM EDT      |
+| Tuesday         | December 13      | 11:00 AM - 1:00 PM EDT      |
