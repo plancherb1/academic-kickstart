@@ -66,12 +66,15 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Hys8HdsAAAAJ
-#- icon: researchgate
-#  icon_pack: fab
-#  link: https://www.researchgate.net/profile/Brian_Plancher
+# - icon: researchgate
+#   icon_pack: fab
+#   link: https://www.researchgate.net/profile/Brian_Plancher
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/brianplancher
+- icon: user-circle
+  icon_pack: far
+  link: https://cs.barnard.edu/profiles/brian-plancher
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
