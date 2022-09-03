@@ -4,7 +4,7 @@ title: "COMS-3997-F22: Introduction to Robotics Engineering from Bits to Electro
 position: "Instructor of Record"
 semesters: "Fall 2022"
 dayTime: "MW 6:10-7:25pm"
-room: "222 MILBANK"
+room: "LL017 MILSTEIN"
 credits: "3 Credits"
 # Code used for list order
 semesterCode: "22.3"
