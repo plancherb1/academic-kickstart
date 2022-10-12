@@ -31,7 +31,7 @@ https://columbiauniversity.zoom.us/my/bplancher) open for hybrid meetings. If yo
 | Tuesday         | October 25       | 11:00 AM - 1:00 PM EDT      |
 |                 |                  |                             |
 | Tuesday         | November 1       | 11:00 AM - 1:00 PM EDT      |
-| **Wednesday**   | **November 9**   | **2:00 PM - 4:00 PM EDT**   |
+| **Wednesday**   | **November 9**   | **12:00 PM - 2:00 PM EDT**  |
 | Tuesday         | November 15      | 11:00 AM - 1:00 PM EDT      |
 | **Monday**      | **November 21**  | **2:00 PM - 4:00 PM EDT**   |
 | Tuesday         | November 29      | 11:00 AM - 1:00 PM EDT      |
