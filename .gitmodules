@@ -4,4 +4,3 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:plancherb1/plancherb1.github.io.git
-	branch = master
