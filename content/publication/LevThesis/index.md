@@ -26,6 +26,7 @@ summary: This thesis proposes a novel algorithm, “Reference-Guided, Value-Base
 tags:
 - Reinforcement Learning
 - Model Predictive Control
+- Robot Learning
 
 featured: false
 

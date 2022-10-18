@@ -38,6 +38,8 @@ tags:
 - Machine Learning
 - Embedded Systems
 - Robotics
+- Robot Learning
+- Reinforcement Learning
 featured: false
 
 links:

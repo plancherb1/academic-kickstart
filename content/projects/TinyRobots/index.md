@@ -5,7 +5,7 @@ listPriority: "2" # Code used for list order
 projectCode: TinyRobots
 
 # Course Overiew Abstract.
-abstract: Many emerging robotics use cases will require small, cheap robots that use embedded devices for computation. When compressing robotics algorithms to fit on these resource constrained computational devices, new challenges and opportunities emerge. We are working to unlock the full potential of these tiny robots by leverging insights from both computer architecture / embedded systems and robotics to custom tailor algorithmic solutions through hardware-software co-design. 
+abstract: Many emerging robotics use cases will require small, cheap robots that use embedded devices for computation. When compressing robotics algorithms to fit on these resource constrained computational devices, new challenges and opportunities emerge. We are working to unlock the full potential of these tiny robots by leverging insights from robotics, machine learning, and computer architecture / embedded systems to custom tailor algorithmic solutions through hardware-software co-design. 
 abstract2:
 abstract3:
 
