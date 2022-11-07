@@ -1,6 +1,6 @@
 ---
 type: "courses"
-title: "COMS-3997-F22: Introduction to Robotics Engineering from Bits to Electrons"
+title: "COMS-BC3997-F22: Introduction to Robotics Engineering from Bits to Electrons"
 position: "Instructor of Record"
 semesters: "Fall 2022"
 dayTime: "MW 6:10-7:25pm"

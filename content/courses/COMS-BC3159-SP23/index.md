@@ -1,6 +1,6 @@
 ---
 type: "courses"
-title: "COMS-3159-SP23: Parallel Optimization for Robotics"
+title: "COMS-BC3159-SP23: Parallel Optimization for Robotics"
 position: "Instructor of Record"
 semesters: "Spring 2023"
 dayTime: "TBD" #MW 1:10-2:25pm
@@ -42,7 +42,7 @@ enrollmentNote: Enrollment Capped at 35 Students (Instructor Managed Waiting Lis
 
 waitingList: This class is capped at 35 students. This semester, I am handling the waitlist as an instructor-controlled waiting list. Students will be admitted based on a combination of seniority, interests in the class, and contributions to a diverse set of viewpoints and experiences in the class. Half of the available slots will be reserved for Barnard students (assuming sufficient demand). To be considered for the class, please join the waiting list **AND** fill out the form at [https://bit.ly/COMS3159-SP23-WL](https://bit.ly/COMS3159-SP23-WL), which asks a few questions about your background and your interests in the class.
 
-officeHours: My open office hours will be typically held on Tuesdays from 11am-1pm for the Spring 2023 semester, but/and I am always available to meet outside of the standard time frame (ideally still on Tuesdays) by appointment. I will try to respond to requests emailed to [bplancher+courses@barnard.edu](mailto:bplancher+courses@barnard.edu) within 24 hours during the weekdays and within 48 hours over the weekend. The most up-to-date schedule of office hours can be found [here](/office_hours).
+officeHours: The most up-to-date schedule of office hours can be found [here](/office_hours). I will also try to respond to requests emailed to [bplancher+courses@barnard.edu](mailto:bplancher+courses@barnard.edu) within 24 hours during the weekdays and within 48 hours over the weekend.
 
 # Roles in the course
 roles: []

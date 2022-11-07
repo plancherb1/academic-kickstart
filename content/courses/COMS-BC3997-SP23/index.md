@@ -1,6 +1,6 @@
 ---
 type: "courses"
-title: "COMS-3997-SP23: Projects in Computer Science"
+title: "COMS-BC3997-SP23: Projects in Computer Science"
 position: "Instructor of Record"
 semesters: "Spring 2023"
 dayTime: "TBD" #M 6:10-8:00pm"
