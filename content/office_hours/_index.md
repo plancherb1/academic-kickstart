@@ -32,7 +32,7 @@ https://columbiauniversity.zoom.us/my/bplancher). If you want to meet via Zoom o
 | **Monday**      | **October 31**   | **7:30 PM - 9:30 PM EDT**   | **DIA LL103** |
 |                 |                  |                             |               |
 | **Wednesday**   | **November 9**   | **4:00 PM - 6:00 PM EDT**   | Milstein 512  |
-| **Monday**      | **November 14**  | **7:30 PM - 9:30 PM EDT**   | **DIA LL103** |
+| **Monday**      | **November 14**  | **7:30 PM - 9:30 PM EDT**   | **[Special Zoom](https://columbiauniversity.zoom.us/j/98588153482?pwd=dU9CUHpTZHZCRmFjS3BDTVNLMFFaZz09)** |
 | **Monday**      | **November 21**  | **2:00 PM - 4:00 PM EDT**   | Milstein 512  |
 | Tuesday         | November 29      | 2:00 PM - 4:00 PM EDT       | Milstein 512  |
 |                 |                  |                             |               |
