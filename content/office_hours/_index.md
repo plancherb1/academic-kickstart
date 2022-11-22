@@ -34,7 +34,7 @@ https://columbiauniversity.zoom.us/my/bplancher). If you want to meet via Zoom o
 | **Wednesday**   | **November 9**   | **4:00 PM - 6:00 PM EDT**   | Milstein 512  |
 | **Monday**      | **November 14**  | **7:30 PM - 9:30 PM EDT**   | **Zoom Only** |
 | **Monday**      | **November 21**  | **4:00 PM - 6:00 PM EDT**   | Milstein 512  |
-| Tuesday         | November 29      | **2-3 and 5-6 PM EDT**      | Milstein 512  |
+| Tuesday         | November 29      | **5:00 PM - 7:00 PM EDT**   | Milstein 512  |
 |                 |                  |                             |               |
 | Tuesday         | December 6       | 2:00 PM - 4:00 PM EDT       | Milstein 512  |
 | Tuesday         | December 13      | 2:00 PM - 4:00 PM EDT       | Milstein 512  |
