@@ -38,3 +38,29 @@ For Fall 2022, my office hours were originally 11:00am-1:00pm or 2:00pm-4:00pm o
 |                 |                  |                             |               |
 | Tuesday         | December 6       | **12:00 PM - 2:00 PM EDT**  | Milstein 512  |
 | Tuesday         | December 13      | **2:00 PM - 4:00 PM EDT**   | Milstein 512  |
+
+<!-- For Spring 2022, my office hours will generally be 11:00am-1:00pm on Wednesdays, with changes and cancellations due to schedule conflicts or holidays. The full schedule is below, with changes shown in **bold**. Updates to office hours will usually be noted at least a week in advance, except for (rare) emergency cancellations.
+
+| Day of the Week | Date             | Time                        | Location      |
+|-----------------|------------------|-----------------------------|---------------|
+| **Tuesday**     | **January 17**   | **4:00 PM - 6:00 PM EDT**   | Milstein 512  |
+| Wednesday       | January 25       | 11:00 AM - 1:00 PM EDT      | Milstein 512  |
+|                 |                  |                             |               |
+| Wednesday       | February 1       | 11:00 AM - 1:00 PM EDT      | Milstein 512  |
+| **Thursday**    | **February 9**   | **10:00 AM - 12:00 PM EDT** | [**Zoom**](https://columbiauniversity.zoom.us/my/bplancher)      |
+| Wednesday       | February 15      | 11:00 AM - 1:00 PM EDT      | Milstein 512  |
+| Wednesday       | February 22      | 11:00 AM - 1:00 PM EDT      | Milstein 512  |
+|                 |                  |                             |               |
+| Wednesday       | March 1          | 11:00 AM - 1:00 PM EDT      | Milstein 512  |
+| Wednesday       | March 8          | 11:00 AM - 1:00 PM EDT      | Milstein 512  |
+| *Spring Break*  | *Spring Break*   | *Spring Break*              | *Spring Break*|
+| Wednesday       | March 22         | 11:00 AM - 1:00 PM EDT      | Milstein 512  |
+| Wednesday       | March 29         | 11:00 AM - 1:00 PM EDT      | Milstein 512  |
+|                 |                  |                             |               |
+| Wednesday       | April 5          | 11:00 AM - 1:00 PM EDT      | Milstein 512  |
+| Wednesday       | April 12         | 11:00 AM - 1:00 PM EDT      | Milstein 512  |
+| Wednesday       | April 12         | 11:00 AM - 1:00 PM EDT      | Milstein 512  |
+| Wednesday       | April 19         | 11:00 AM - 1:00 PM EDT      | Milstein 512  |
+| Wednesday       | April 26         | 11:00 AM - 1:00 PM EDT      | Milstein 512  |
+|                 |                  |                             |               |
+| Wednesday       | May 3            | 11:00 AM - 1:00 PM EDT      | Milstein 512  | -->
