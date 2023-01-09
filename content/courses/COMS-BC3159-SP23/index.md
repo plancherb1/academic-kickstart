@@ -3,8 +3,8 @@ type: "courses"
 title: "COMS-BC3159-SP23: Parallel Optimization for Robotics"
 position: "Instructor of Record"
 semesters: "Spring 2023"
-dayTime: "TBD" #MW 1:10-2:25pm
-room: "TBD"
+dayTime: "MW 1:10-2:25pm"
+room: "DIA LL103"
 credits: "3 Credits"
 # Code used for list order
 semesterCode: "23.1"
