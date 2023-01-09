@@ -14,10 +14,13 @@ https://columbiauniversity.zoom.us/my/bplancher)). If you want to meet via Zoom 
 
 **If you are trying to meet me because I am your faculty advisor please come to office hours (see below) or email me to set up a different time at [bplancher+advising@barnard.edu](mailto:bplancher+advising@barnard.edu)**
 
+<!--
 For Fall 2022, my office hours were originally 11:00am-1:00pm or 2:00pm-4:00pm on Tuesdays, with some changes and cancellations due to schedule conflicts or holidays, but have moved to be a bit more sporadic to better account for student needs. The full schedule is below, with changes shown in **bold**. Updates to office hours will usually be noted at least a week in advance, except for (rare) emergency cancellations.
 
-<!-- **Note that due to personal reasons, for November, I request that students mask during OHs.** -->
+**Note that due to personal reasons, for November, I request that students mask during OHs.**
+-->
 
+<!--
 | Day of the Week | Date             | Time                        | Location      |
 |-----------------|------------------|-----------------------------|---------------|
 | **Wednesday**   | **September 7**  | **2:00 PM - 4:00 PM EDT**   | Milstein 512  |
@@ -38,8 +41,9 @@ For Fall 2022, my office hours were originally 11:00am-1:00pm or 2:00pm-4:00pm o
 |                 |                  |                             |               |
 | Tuesday         | December 6       | **12:00 PM - 2:00 PM EDT**  | Milstein 512  |
 | Tuesday         | December 13      | **2:00 PM - 4:00 PM EDT**   | Milstein 512  |
+-->
 
-<!-- For Spring 2022, my office hours will generally be 11:00am-1:00pm on Wednesdays, with changes and cancellations due to schedule conflicts or holidays. The full schedule is below, with changes shown in **bold**. Updates to office hours will usually be noted at least a week in advance, except for (rare) emergency cancellations.
+For Spring 2022, my office hours will generally be 11:00am-1:00pm on Wednesdays, with changes and cancellations due to schedule conflicts or holidays. The full schedule is below, with changes shown in **bold**. Updates to office hours will usually be noted at least a week in advance, except for (rare) emergency cancellations.
 
 | Day of the Week | Date             | Time                        | Location      |
 |-----------------|------------------|-----------------------------|---------------|
@@ -63,4 +67,4 @@ For Fall 2022, my office hours were originally 11:00am-1:00pm or 2:00pm-4:00pm o
 | Wednesday       | April 19         | 11:00 AM - 1:00 PM EDT      | Milstein 512  |
 | Wednesday       | April 26         | 11:00 AM - 1:00 PM EDT      | Milstein 512  |
 |                 |                  |                             |               |
-| Wednesday       | May 3            | 11:00 AM - 1:00 PM EDT      | Milstein 512  | -->
+| Wednesday       | May 3            | 11:00 AM - 1:00 PM EDT      | Milstein 512  |
