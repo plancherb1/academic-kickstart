@@ -59,7 +59,7 @@ For Spring 2022, my office hours will generally be 11:00am-1:00pm on Wednesdays,
 | Wednesday       | March 8          | 11:00 AM - 1:00 PM EDT      | Milstein 512  |
 | *Spring Break*  | *Spring Break*   | *Spring Break*              | *Spring Break*|
 | Wednesday       | March 22         | 11:00 AM - 1:00 PM EDT      | Milstein 512  |
-| Wednesday       | March 29         | 11:00 AM - 1:00 PM EDT      | Milstein 512  |
+| Wednesday       | March 29         | **10:00 AM - 12:00 PM EDT** | Milstein 512  |
 |                 |                  |                             |               |
 | Wednesday       | April 5          | 11:00 AM - 1:00 PM EDT      | Milstein 512  |
 | Wednesday       | April 12         | 11:00 AM - 1:00 PM EDT      | Milstein 512  |
