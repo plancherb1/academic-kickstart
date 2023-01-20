@@ -43,7 +43,7 @@ For Fall 2022, my office hours were originally 11:00am-1:00pm or 2:00pm-4:00pm o
 | Tuesday         | December 13      | **2:00 PM - 4:00 PM EDT**   | Milstein 512  |
 -->
 
-For Spring 2022, my office hours will generally be 11:00am-1:00pm on Wednesdays, with changes and cancellations due to schedule conflicts or holidays. The full schedule is below, with changes shown in **bold**. Updates to office hours will usually be noted at least a week in advance, except for (rare) emergency cancellations.
+For Spring 2022, my office hours will generally be 11:00am-1:00pm on Wednesdays, with changes and cancellations due to scheduling conflicts or holidays. The full schedule is below, with changes shown in **bold**. Updates to office hours will usually be noted at least a week in advance, except for (rare) emergency cancellations.
 
 | Day of the Week | Date             | Time                        | Location      |
 |-----------------|------------------|-----------------------------|---------------|
