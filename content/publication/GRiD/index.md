@@ -7,7 +7,7 @@ authors:
 - ScottKuindersma
 - VijayJanapaReddi
 date: "2022-02-24T00:00:00Z"
-doi: 
+doi: "10.1109/ICRA46639.2022.9812384"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-02-24T00:00:00Z"

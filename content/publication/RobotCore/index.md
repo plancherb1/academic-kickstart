@@ -6,7 +6,7 @@ authors:
 - admin
 - VijayJanapaReddi
 date: "2022-06-30T00:00:00Z"
-doi: ""
+doi: "10.1109/IROS47612.2022.9982082"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-05-08T00:00:00Z"
