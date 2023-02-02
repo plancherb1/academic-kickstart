@@ -3,7 +3,7 @@ title: "Just Round: Quantized Observation Spaces Enable Memory Efficient Learnin
 authors:
 - LevGrossman
 - admin
-date: "2022-10-18T00:00:00Z"
+date: "2023-05-29T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,11 +13,11 @@ publishDate: "2022-10-18T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-# publication: In *[2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](https://iros2022.org/)*
-# publication_short: In *IROS 2022*
+publication: In *[2023 IEEE International Conference on Robotics and Automation (ICRA)](https://www.icra2023.org/)*
+publication_short: In *ICRA 2023*
 
 abstract: "Deep reinforcement learning (DRL) is one of the most powerful tools for synthesizing complex robotic behaviors. But training DRL models is incredibly compute and memory intensive, requiring large training datasets and replay buffers to achieve performant results. This poses a challenge for the next generation of field robots that will need to learn on the edge to adapt to their environment. In this paper, we begin to address this issue through observation space quantization. We evaluate our approach using four simulated robot locomotion tasks and two state-of-the-art DRL algorithms, the on-policy Proximal Policy Optimization (PPO) and off-policy Soft Actor-Critic (SAC) and find that observation space quantization reduces overall memory costs by as much as 4.2x without impacting learning performance."
 
@@ -56,7 +56,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [TinyRobots]
+projects: []
 #- internal-project
 
 # Slides (optional).
