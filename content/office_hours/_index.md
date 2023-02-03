@@ -7,7 +7,7 @@ type: "widget_page"  # Page type is a Widget Page
 
 Office hours are open to students in my classes, to students interested in computer science, robotics, embedded machine learning, and STEM education, or really to any students who would like to find some time for one-on-one, or small-group conversations, discussions, and questions. If that's you, you are welcome to drop in at any time during the office hours; no appointment needed.
 
-I plan to hold these office hours in person in my office in Milstein 512 (unless noted below as a [Zoom](
+I plan to hold these office hours in person in my office in Milstein 512 or down the hall in Milstein 503 (unless noted below as a [Zoom](
 https://columbiauniversity.zoom.us/my/bplancher)). If you want to meet via Zoom or would like to meet at a different time, please send me an email at [bplancher+meeting@barnard.edu](mailto:bplancher+meeting@barnard.edu). I will try to respond to emails within 24 hours during the weekdays and within 48 hours over the weekend.
 
 **If you want to do research with me, please follow the instructions on the [A²R Lab Join](https://a2r-lab.org/join) page.**
@@ -50,21 +50,21 @@ For Spring 2022, my office hours will generally be 10:00am-12:00pm on Wednesdays
 | **Tuesday**     | **January 17**   | **4:00 PM - 6:00 PM EDT**   | Milstein 512  |
 | Wednesday       | January 25       | 10:00 AM - 12:00 PM EDT     | Milstein 512  |
 |                 |                  |                             |               |
-| Wednesday       | February 1       | 10:00 AM - 12:00 PM EDT     | Milstein 512  |
+| Wednesday       | February 1       | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
 | **Thursday**    | **February 9**   | **11:00 AM - 1:00 PM EDT** | [**Zoom**](https://columbiauniversity.zoom.us/my/bplancher)      |
-| Wednesday       | February 15      | 10:00 AM - 12:00 PM EDT     | Milstein 512  |
-| Wednesday       | February 22      | 10:00 AM - 12:00 PM EDT     | Milstein 512  |
+| Wednesday       | February 15      | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
+| Wednesday       | February 22      | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
 |                 |                  |                             |               |
-| Wednesday       | March 1          | 10:00 AM - 12:00 PM EDT     | Milstein 512  |
-| Wednesday       | March 8          | 10:00 AM - 12:00 PM EDT     | Milstein 512  |
+| **Tuesday**     | **February 28**  | **4:00 PM - 6:00 PM EDT**   | Milstein 503  |
+| Wednesday       | March 8          | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
 | *Spring Break*  | *Spring Break*   | *Spring Break*              | *Spring Break*|
-| Wednesday       | March 22         | 10:00 AM - 12:00 PM EDT     | Milstein 512  |
-| Wednesday       | March 29         | 10:00 AM - 12:00 PM EDT     | Milstein 512  |
+| Wednesday       | March 22         | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
+| Wednesday       | March 29         | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
 |                 |                  |                             |               |
-| Wednesday       | April 5          | 10:00 AM - 12:00 PM EDT     | Milstein 512  |
-| Wednesday       | April 12         | 10:00 AM - 12:00 PM EDT     | Milstein 512  |
-| Wednesday       | April 12         | 10:00 AM - 12:00 PM EDT     | Milstein 512  |
-| Wednesday       | April 19         | 10:00 AM - 12:00 PM EDT     | Milstein 512  |
-| Wednesday       | April 26         | 10:00 AM - 12:00 PM EDT     | Milstein 512  |
+| Wednesday       | April 5          | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
+| Wednesday       | April 12         | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
+| Wednesday       | April 12         | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
+| Wednesday       | April 19         | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
+| Wednesday       | April 26         | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
 |                 |                  |                             |               |
-| Wednesday       | May 3            | 10:00 AM - 12:00 PM EDT     | Milstein 512  |
+| Wednesday       | May 3            | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
