@@ -64,7 +64,7 @@ For Spring 2022, my office hours will generally be 10:00am-12:00pm on Wednesdays
 | Wednesday       | April 5          | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
 | Wednesday       | April 12         | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
 | Wednesday       | April 12         | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
-| Wednesday       | April 19         | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
+| **Tuesday**     | **April 18**     | **2:30 PM - 4:30 PM EDT**   | Milstein 503  |
 | Wednesday       | April 26         | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
 |                 |                  |                             |               |
 | Wednesday       | May 3            | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
