@@ -53,7 +53,8 @@ For Spring 2022, my office hours will generally be 10:00am-12:00pm on Wednesdays
 | Wednesday       | February 1       | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
 | **Thursday**    | **February 9**   | **11:00 AM - 1:00 PM EDT** | [**Zoom**](https://columbiauniversity.zoom.us/my/bplancher)      |
 | Wednesday       | February 15      | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
-| Wednesday       | February 22      | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
+| **Tuesday**     | **February 21**  | **4:30 PM - 5:30 PM EDT**   | **Milstein 512**  |
+| Wednesday       | February 22      | **11:00 AM - 12:00 PM EDT** | Milstein 503  |
 |                 |                  |                             |               |
 | **Tuesday**     | **February 28**  | **4:00 PM - 6:00 PM EDT**   | Milstein 503  |
 | Wednesday       | March 8          | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
