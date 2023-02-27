@@ -14,6 +14,33 @@ https://columbiauniversity.zoom.us/my/bplancher)). If you want to meet via Zoom 
 
 **If you are trying to meet me because I am your faculty advisor please come to office hours (see below) or email me to set up a different time at [bplancher+advising@barnard.edu](mailto:bplancher+advising@barnard.edu)**
 
+For Spring 2022, my office hours will generally be 10:00am-12:00pm on Wednesdays, with changes and cancellations due to scheduling conflicts or holidays. The full schedule is below, with changes shown in **bold**. Updates to office hours will usually be noted at least a week in advance, except for (rare) emergency cancellations.
+
+| Day of the Week | Date             | Time                        | Location      |
+|-----------------|------------------|-----------------------------|---------------|
+| **Tuesday**     | **January 17**   | **4:00 PM - 6:00 PM EDT**   | Milstein 512  |
+| Wednesday       | January 25       | 10:00 AM - 12:00 PM EDT     | Milstein 512  |
+|                 |                  |                             |               |
+| Wednesday       | February 1       | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
+| **Thursday**    | **February 9**   | **11:00 AM - 1:00 PM EDT** | [**Zoom**](https://columbiauniversity.zoom.us/my/bplancher)      |
+| Wednesday       | February 15      | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
+| **Tuesday**     | **February 21**  | **4:30 PM - 5:30 PM EDT**   | **Milstein 512**  |
+| Wednesday       | February 22      | **11-11:30 AM, 12:30-1 PM EDT** | Milstein 503  |
+|                 |                  |                             |               |
+| **Tuesday**     | **February 28**  | **4:00 PM - 6:00 PM EDT**   | Milstein 503  |
+| **Tuesday**     | **March 7**      | **2:30 PM - 4:30 PM EDT**   | Milstein 503  |
+| *Spring Break*  | *Spring Break*   | *Spring Break*              | *Spring Break*|
+| Wednesday       | March 22         | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
+| Wednesday       | March 29         | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
+|                 |                  |                             |               |
+| Wednesday       | April 5          | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
+| Wednesday       | April 12         | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
+| Wednesday       | April 12         | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
+| **Tuesday**     | **April 18**     | **2:30 PM - 4:30 PM EDT**   | Milstein 503  |
+| Wednesday       | April 26         | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
+|                 |                  |                             |               |
+| Wednesday       | May 3            | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
+
 <!--
 For Fall 2022, my office hours were originally 11:00am-1:00pm or 2:00pm-4:00pm on Tuesdays, with some changes and cancellations due to schedule conflicts or holidays, but have moved to be a bit more sporadic to better account for student needs. The full schedule is below, with changes shown in **bold**. Updates to office hours will usually be noted at least a week in advance, except for (rare) emergency cancellations.
 
@@ -42,30 +69,3 @@ For Fall 2022, my office hours were originally 11:00am-1:00pm or 2:00pm-4:00pm o
 | Tuesday         | December 6       | **12:00 PM - 2:00 PM EDT**  | Milstein 512  |
 | Tuesday         | December 13      | **2:00 PM - 4:00 PM EDT**   | Milstein 512  |
 -->
-
-For Spring 2022, my office hours will generally be 10:00am-12:00pm on Wednesdays, with changes and cancellations due to scheduling conflicts or holidays. The full schedule is below, with changes shown in **bold**. Updates to office hours will usually be noted at least a week in advance, except for (rare) emergency cancellations.
-
-| Day of the Week | Date             | Time                        | Location      |
-|-----------------|------------------|-----------------------------|---------------|
-| **Tuesday**     | **January 17**   | **4:00 PM - 6:00 PM EDT**   | Milstein 512  |
-| Wednesday       | January 25       | 10:00 AM - 12:00 PM EDT     | Milstein 512  |
-|                 |                  |                             |               |
-| Wednesday       | February 1       | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
-| **Thursday**    | **February 9**   | **11:00 AM - 1:00 PM EDT** | [**Zoom**](https://columbiauniversity.zoom.us/my/bplancher)      |
-| Wednesday       | February 15      | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
-| **Tuesday**     | **February 21**  | **4:30 PM - 5:30 PM EDT**   | **Milstein 512**  |
-| Wednesday       | February 22      | **11-11:30 AM, 12:30-1 PM EDT** | Milstein 503  |
-|                 |                  |                             |               |
-| **Tuesday**     | **February 28**  | **4:00 PM - 6:00 PM EDT**   | Milstein 503  |
-| Wednesday       | March 8          | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
-| *Spring Break*  | *Spring Break*   | *Spring Break*              | *Spring Break*|
-| Wednesday       | March 22         | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
-| Wednesday       | March 29         | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
-|                 |                  |                             |               |
-| Wednesday       | April 5          | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
-| Wednesday       | April 12         | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
-| Wednesday       | April 12         | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
-| **Tuesday**     | **April 18**     | **2:30 PM - 4:30 PM EDT**   | Milstein 503  |
-| Wednesday       | April 26         | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
-|                 |                  |                             |               |
-| Wednesday       | May 3            | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
