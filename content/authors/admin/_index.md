@@ -19,8 +19,7 @@ role: bplancher@barnard.edu
 organizations:
 - name: "Barnard College, Columbia University"
   url: "https://cs.barnard.edu/"
-# - name: Harvard University
-#   url: "https://edge.seas.harvard.edu/"
+- name: He/Him/His
 
 # Short bio (displayed in user profile at end of posts)
 bio:
