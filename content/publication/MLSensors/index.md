@@ -37,6 +37,7 @@ tags:
 - TinyML
 - Machine Learning
 - Embedded Systems
+- Privacy
 featured: false
 
 awards: []
