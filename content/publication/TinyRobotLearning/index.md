@@ -13,7 +13,7 @@ authors:
 - GuidodeCroon
 - VijayJanapaReddi
 date: "2022-06-15T00:00:00Z"
-doi: ""
+doi: "10.1109/AICAS54282.2022.9870000"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-05-11T00:00:00Z"
