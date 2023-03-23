@@ -193,6 +193,11 @@
 
   <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ site.Title }}</title>
 
+  {{/* Redirect if Applicable. */}}
+  {{ if .Params.dedicated_redirect_page }}
+    <meta http-equiv="refresh" content="0; url='{{ .Params.dedicated_redirect_url }}'" />
+  {{ end }}
+
 </head>
 <body id="top" data-spy="scroll" data-target="{{ if or .IsHome (eq .Type "widget_page") }}#navbar-main{{else}}#TableOfContents{{end}}" data-offset="71" {{ if not ($scr.Get "light") }}class="dark"{{end}}>
   {{ partial "search" . }}

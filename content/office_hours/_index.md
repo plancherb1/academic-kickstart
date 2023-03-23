@@ -7,8 +7,7 @@ type: "widget_page"  # Page type is a Widget Page
 
 Office hours are open to students in my classes, to students interested in computer science, robotics, embedded machine learning, and STEM education, or really to any students who would like to find some time for one-on-one, or small-group conversations, discussions, and questions. If that's you, you are welcome to drop in at any time during the office hours; no appointment needed.
 
-I plan to hold these office hours in person in my office in Milstein 512 or down the hall in Milstein 503 (unless noted below as a [Zoom](
-https://columbiauniversity.zoom.us/my/bplancher)). If you want to meet via Zoom or would like to meet at a different time, please send me an email at [bplancher+meeting@barnard.edu](mailto:bplancher+meeting@barnard.edu). I will try to respond to emails within 24 hours during the weekdays and within 48 hours over the weekend.
+I plan to hold these office hours in person in my office in Milstein 512 or down the hall in Milstein 503 (unless noted below as a [Zoom](/zoom)). If you want to meet via Zoom or would like to meet at a different time, please send me an email at [bplancher+meeting@barnard.edu](mailto:bplancher+meeting@barnard.edu). I will try to respond to emails within 24 hours during the weekdays and within 48 hours over the weekend.
 
 **If you want to do research with me, please follow the instructions on the [A²R Lab Join](https://a2r-lab.org/join) page.**
 
@@ -22,18 +21,18 @@ For Spring 2022, my office hours will generally be Monday 2:30-3PM and Wednesday
 | Wednesday       | January 25       | 10:00 AM - 12:00 PM EDT     | Milstein 512  |
 |                 |                  |                             |               |
 | Wednesday       | February 1       | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
-| **Thursday**    | **February 9**   | **11:00 AM - 1:00 PM EDT** | [**Zoom**](https://columbiauniversity.zoom.us/my/bplancher)      |
+| **Thursday**    | **February 9**   | **11:00 AM - 1:00 PM EDT**  | [**Zoom**](/zoom) |
 | Wednesday       | February 15      | 10:00 AM - 12:00 PM EDT     | Milstein 503  |
 | **Tuesday**     | **February 21**  | **4:30 PM - 5:30 PM EDT**   | **Milstein 512**  |
 | Wednesday       | February 22      | **11-11:30 AM, 12:30-1 PM EDT** | Milstein 503  |
 |                 |                  |                             |               |
 | **Tuesday**     | **February 28**  | **4:00 PM - 6:00 PM EDT**   | Milstein 503  |
-| **Thursday**    | **March 2**      | **5:00 PM - 5:30 PM EDT**   | [**Zoom**](https://columbiauniversity.zoom.us/my/bplancher)      |
+| **Thursday**    | **March 2**      | **5:00 PM - 5:30 PM EDT**   | [**Zoom**](/zoom) |
 | **Monday**      | **March 6**      | **2:30 PM - 3:00 PM EDT**   | **Diana LL**  |
 | **Tuesday**     | **March 7**      | **3:30-4:30, 6-7 PM EDT**   | Milstein 503  |
 | *Spring Break*  | *Spring Break*   | *Spring Break*              | *Spring Break*|
-| **Monday**      | **March 20**     | **5:00 PM - 6:00 PM EDT**   | [**Zoom**](https://columbiauniversity.zoom.us/my/bplancher)      |
-| Wednesday       | March 22         | **10:30 AM - 11:30 AM EDT** | [**Zoom**](https://columbiauniversity.zoom.us/my/bplancher)      |
+| **Monday**      | **March 20**     | **5:00 PM - 6:00 PM EDT**   | [**Zoom**](/zoom) |
+| Wednesday       | March 22         | **10:30 AM - 11:30 AM EDT** | [**Zoom**](/zoom) |
 | Monday      	  | March 27         | 2:30 PM - 3:00 PM EDT       | Milstein 512  |
 | Wednesday       | March 29         | 10:00 AM - 11:30 AM EDT     | Milstein 503  |
 |                 |                  |                             |               |
