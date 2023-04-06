@@ -172,6 +172,9 @@
 - id: pub_workshop
   translation: Workshop Paper / Abstract / Poster
 
+- id: pub_magazine
+  translation: Magazine Article
+
 # Project details
 
 - id: open_project_site

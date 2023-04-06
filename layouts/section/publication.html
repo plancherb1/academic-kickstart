@@ -63,6 +63,10 @@
         {{ $.Scratch.Set "typecode" "1" }}
         {{ partial "publication_list_by_type" . }}
 
+        {{ $.Scratch.Set "typename" "Magazine Articles" }}
+        {{ $.Scratch.Set "typecode" "10" }}
+        {{ partial "publication_list_by_type" . }}
+
         {{ $.Scratch.Set "typename" "Technical Reports" }}
         {{ $.Scratch.Set "typecode" "4" }}
         {{ partial "publication_list_by_type" . }}
