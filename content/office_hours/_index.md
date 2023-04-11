@@ -45,7 +45,7 @@ For Spring 2022, my office hours will generally be Monday 2:30-3PM and Wednesday
 | Wednesday       | April 26         | 10:00 AM - 11:30 AM EDT     | Milstein 503  |
 |                 |                  |                             |               |
 | Monday      	  | May 1            | 2:30 PM - 3:00 PM EDT       | Milstein 512  |
-| Wednesday       | May 3            | 10:00 AM - 11:30 AM EDT     | Milstein 503  |
+| **Tuesday**     | May 2            | 2:30 PM - 4:00 PM EDT       | Milstein 503  |
 
 <!--
 For Fall 2022, my office hours were originally 11:00am-1:00pm or 2:00pm-4:00pm on Tuesdays, with some changes and cancellations due to schedule conflicts or holidays, but have moved to be a bit more sporadic to better account for student needs. The full schedule is below, with changes shown in **bold**. Updates to office hours will usually be noted at least a week in advance, except for (rare) emergency cancellations.
