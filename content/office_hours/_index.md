@@ -13,7 +13,7 @@ I plan to hold these office hours in person in my office in Milstein 512 or down
 
 **If you are trying to meet me because I am your faculty advisor please come to office hours (see below) or email me to set up a different time at [bplancher+advising@barnard.edu](mailto:bplancher+advising@barnard.edu)**
 
-For Spring 2022, my office hours will generally be Monday 2:30-3PM and Wednesday 10:00am-11:30AM (originally 10-12 on Wednesdays), with changes and cancellations due to scheduling conflicts or holidays. The full schedule is below, with changes shown in **bold**. Updates to office hours will usually be noted at least a week in advance, except for (rare) emergency cancellations.
+For Spring 2022, my office hours will generally be Monday 2:30-3PM and Wednesday 10:00am-11:30AM (originally 10-12 on Wednesdays), with changes and cancellations due to scheduling conflicts or holidays. The full schedule is below, with changes shown in **bold**. Updates to office hours will usually be noted at least a 48 hours in advance, except for (rare) emergency cancellations.
 
 | Day of the Week | Date             | Time                        | Location      |
 |-----------------|------------------|-----------------------------|---------------|
@@ -41,7 +41,7 @@ For Spring 2022, my office hours will generally be Monday 2:30-3PM and Wednesday
 | Monday      	  | April 10         | **2:30 PM - 3:30 PM EDT**   | Milstein 512  |
 | **Tuesday**     | **April 11**     | **11:30 AM - 12:30 PM EDT** | Milstein 503  |
 | Monday      	  | April 17         | **8:30 PM - 9:30 PM EDT**   | Milstein 503  |
-| Monday      	  | April 24         | 2:30 PM - 3:00 PM EDT       | Milstein 512  |
+| Monday      	  | April 24         | **5:30 PM - 6:00 PM EDT**   | Milstein 512  |
 | Wednesday       | April 26         | 10:00 AM - 11:30 AM EDT     | Milstein 503  |
 |                 |                  |                             |               |
 | Monday      	  | May 1            | 2:30 PM - 3:00 PM EDT       | Milstein 512  |
