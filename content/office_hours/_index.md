@@ -7,13 +7,15 @@ type: "widget_page"  # Page type is a Widget Page
 
 Office hours are open to students in my classes, to students interested in computer science, robotics, embedded machine learning, and STEM education, or really to any students who would like to find some time for one-on-one, or small-group conversations, discussions, and questions. If that's you, you are welcome to drop in at any time during the office hours; no appointment needed.
 
-I plan to hold these office hours in person in my office in Milstein 512 or down the hall in Milstein 503 (unless noted below as a [Zoom](/zoom)). If you want to meet via Zoom or would like to meet at a different time, please send me an email at [bplancher+meeting@barnard.edu](mailto:bplancher+meeting@barnard.edu). I will try to respond to emails within 24 hours during the weekdays and within 48 hours over the weekend.
+<!-- I plan to hold these office hours in person in my office in Milstein 512 or down the hall in Milstein 503 (unless noted below as a [Zoom](/zoom)). If you want to meet via Zoom or would like to meet at a different time, please send me an email at [bplancher+meeting@barnard.edu](mailto:bplancher+meeting@barnard.edu). I will try to respond to emails within 24 hours during the weekdays and within 48 hours over the weekend. -->
 
-**If you want to do research with me, please follow the instructions on the [A²R Lab Join](https://a2r-lab.org/join) page.**
+If you want to do research with me, please follow the instructions on the [A²R Lab Join](https://a2r-lab.org/join) page.
 
-**If you are trying to meet me because I am your faculty advisor please come to office hours (see below) or email me to set up a different time at [bplancher+advising@barnard.edu](mailto:bplancher+advising@barnard.edu)**
+If you are trying to meet me because I am your faculty advisor please come to office hours (see below) or email me to set up a different time at [bplancher+advising@barnard.edu](mailto:bplancher+advising@barnard.edu)
 
-For Spring 2022, my office hours will generally be Monday 2:30-3PM and Wednesday 10:00am-11:30AM (originally 10-12 on Wednesdays), with changes and cancellations due to scheduling conflicts or holidays. The full schedule is below, with changes shown in **bold**. Updates to office hours will usually be noted at least a 48 hours in advance, except for (rare) emergency cancellations.
+**For Fall 2023, my office hours will begin the semester by appointment only and generally over [Zoom](/zoom) as I will be on parental course release.**
+
+<!-- For Spring 2023, my office hours will generally be Monday 2:30-3PM and Wednesday 10:00am-11:30AM (originally 10-12 on Wednesdays), with changes and cancellations due to scheduling conflicts or holidays. The full schedule is below, with changes shown in **bold**. Updates to office hours will usually be noted at least a 48 hours in advance, except for (rare) emergency cancellations.
 
 | Day of the Week | Date             | Time                        | Location      |
 |-----------------|------------------|-----------------------------|---------------|
@@ -45,7 +47,7 @@ For Spring 2022, my office hours will generally be Monday 2:30-3PM and Wednesday
 | Wednesday       | April 26         | 10:00 AM - 11:30 AM EDT     | Milstein 503  |
 |                 |                  |                             |               |
 | Monday      	  | May 1            | 2:30 PM - 3:00 PM EDT       | Milstein 512  |
-| **Tuesday**     | May 2            | 2:30 PM - 4:00 PM EDT       | Milstein 503  |
+| **Tuesday**     | May 2            | 2:30 PM - 4:00 PM EDT       | Milstein 503  | -->
 
 <!--
 For Fall 2022, my office hours were originally 11:00am-1:00pm or 2:00pm-4:00pm on Tuesdays, with some changes and cancellations due to schedule conflicts or holidays, but have moved to be a bit more sporadic to better account for student needs. The full schedule is below, with changes shown in **bold**. Updates to office hours will usually be noted at least a week in advance, except for (rare) emergency cancellations.
