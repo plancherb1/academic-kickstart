@@ -7,7 +7,7 @@ authors:
 - admin
 - VijayJanapaReddi
 date: "2023-06-15T00:00:00Z"
-# doi: ""
+doi: "10.1145/3579371.3589104"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-06-15T00:00:00Z"
@@ -37,7 +37,7 @@ featured: true
 links:
 # - name: 'TBD'
 #   url: ''
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3579371.3589104'
 url_code: ''
 url_dataset: ''
 url_poster: ''
