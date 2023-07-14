@@ -1,7 +1,7 @@
 ---
 type: "courses"
 title: "SciTinyML-23: Scientific Use of Machine Learning on Low-Power Devices"
-title2: "A [TinyMLedu](https://tinyml.seas.harvard.edu) Workshop"
+title2: "A [TinyMLedu](https://tinymledu.org) Workshop"
 position: "Co-Organizer"
 semesters: "Spring/Summer 2023"
 # Code used for list order
@@ -43,7 +43,7 @@ links:
 - name: Website
   url: https://tinymledu.org/SciTinyML-23
 - name: "TinyML and Sustainability: My Session Slides"
-  url: https://tinyml.seas.harvard.edu/SciTinyML-23/assets/slides/Day5-3-Brian-SustainableTinyML.pdf
+  url: https://tinymledu.org/SciTinyML-23/assets/slides/Day5-3-Brian-SustainableTinyML.pdf
 - name: Video
   url: https://youtu.be/Akj9BgnaStY
 

@@ -6,7 +6,7 @@ position: "Lead Organizer"
 semesters: "Summer 2022"
 # Code used for list order
 semesterCode: "22.2"
-date: "2022-03-15T00:00:00Z"
+date: "2022-07-01T00:00:00Z"
 subtype: "workshop" # semester, MOOC, workshop, other
 
 # Course Overiew Abstract.

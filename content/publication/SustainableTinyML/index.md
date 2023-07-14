@@ -18,11 +18,11 @@ publishDate: "2023-02-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["10"]
 
 # Publication name and optional abbreviated publication name.
-# publication: In *[2023 Communicaitons of the ACM (CACM)](https://cacm.acm.org/)*
-# publication_short: In *CACM 2023*
+publication: In *[2023 Communicaitons of the ACM (CACM)](https://cacm.acm.org/)*
+publication_short: In *CACM 2023*
 
 abstract: "The sustained growth of carbon emissions and global waste elicits significant sustainability concerns for our environment's future. The growing Internet of Things (IoT) has the potential to exacerbate this issue. However, an emerging area known as Tiny Machine Learning (TinyML) has the opportunity to help address these environmental challenges through sustainable computing practices. TinyML, the deployment of machine learning (ML) algorithms onto low-cost, low-power microcontroller systems, enables on-device sensor analytics that unlocks numerous always-on ML applications. This article discusses the potential of these TinyML applications to address critical sustainability challenges. Moreover, the footprint of this emerging technology is assessed through a complete life cycle analysis of TinyML systems. From this analysis, TinyML presents opportunities to offset its carbon emissions by enabling applications that reduce the emissions of other sectors. Nevertheless, when globally scaled, the carbon footprint of TinyML systems is not negligible, necessitating that designers factor in environmental impact when formulating new devices. Finally, research directions for enabling further opportunities for TinyML to contribute to a sustainable future are outlined."
 
