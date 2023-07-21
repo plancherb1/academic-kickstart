@@ -4,7 +4,7 @@ authors:
 - LevGrossman
 - admin
 date: "2023-05-29T00:00:00Z"
-doi: ""
+doi: "10.1109/ICRA48891.2023.10160293"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-10-18T00:00:00Z"
