@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Custom link to external flag
-link_to_external_url: https://dblp.org/pid/145/1652.html
+link_to_external_url: "https://people.csail.mit.edu/bthom/"
 
 
 ---
