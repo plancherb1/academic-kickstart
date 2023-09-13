@@ -41,7 +41,7 @@ tags:
 featured: false
 
 links:
-url_pdf: 'https://research.google/pubs/pub51093.pdf'
+url_pdf: 'https://arxiv.org/abs/1906.10513'
 url_code: 'https://github.com/harvard-edge/MAVBench'
 url_dataset: ''
 url_poster: ''
