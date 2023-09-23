@@ -35,7 +35,7 @@ tags:
 - Trajectory Optimization
 featured: false
 
-awards: []
+awards: [AcceleratingRobotics]
 
 links:
   # - name: "TBD"
