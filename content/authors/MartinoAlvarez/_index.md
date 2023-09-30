@@ -1,15 +1,15 @@
 ---
 # Display name
-name: Alejandra Martínez Fariña
+name: "Martiño Crespo-Álvarez"
 
 # Username (this should match the folder name)
 authors:
-- AlejandraFarina
+- MartinoAlvarez
 
 # Is this the primary user of the site?
 superuser: false
 
 # Custom link to external flag
-link_to_external_url: "https://es.linkedin.com/in/alejandra-martinez-farina/en"
+link_to_external_url: "https://es.linkedin.com/in/martino-crespo"
 
 ---

@@ -55,12 +55,12 @@ featured: false
 awards: []
 
 links:
-  # - name: "TBD"
-  #   url: "TBD"
+  - name: "Extended Abstract"
+    url: "files/RobotPerf_extended_abstract.pdf"
 url_pdf: 'https://arxiv.org/abs/2309.09212'
 url_code: 'https://github.com/robotperf/benchmarks'
 url_dataset: ''
-url_poster: ''
+url_poster: 'files/RobotPerf_IROS_poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
