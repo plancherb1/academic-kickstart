@@ -16,8 +16,8 @@ publishDate: "2023-09-12T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-# publication: In *[2023 Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track](https://neurips.cc/Conferences/2023)*
-# publication_short: In *NeurIPS Datasets and Benchmarks 2023*
+# publication: In *[2024 IEEE International Conference on Robotics and Automation (ICRA)](http://ieee-icra.org/)*
+# publication_short: In *ICRA 2024*
 
 abstract: "There has been a growing interest in parallel strategies for solving trajectory optimization problems. One key step in many algorithmic approaches to trajectory optimization is the solution of moderately-large and sparse linear systems. Iterative methods are particularly well-suited for parallel solves of such systems. However, fast and stable convergence of iterative methods is reliant on the application of a high-quality preconditioner that reduces the spread and increase the clustering of the eigenvalues of the target matrix. To improve the performance of these approaches, we present a new parallel-friendly symmetric stair preconditioner. We prove that our preconditioner has advantageous theoretical properties when used in conjunction with iterative methods for trajectory optimization such as a more clustered eigenvalue spectrum. Numerical experiments with typical trajectory optimization problems reveal that as compared to the best alternative parallel preconditioner from the literature, our symmetric stair preconditioner provides up to a 34% reduction in condition number and up to a 25% reduction in the number of resulting linear system solver iterations."
 
