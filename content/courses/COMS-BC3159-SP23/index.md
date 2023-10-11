@@ -59,7 +59,7 @@ tags:
 - Hardware-Software Co-Design
 - Computer Architecture
 
-featured: true
+featured: false
 outreach: false
 projects: []
 
