@@ -1,16 +1,15 @@
 ---
 # Display name
-name: Jason Jabbour
+name: "Sam Schoedel"
 
 # Username (this should match the folder name)
 authors:
-- JasonJabbour
+- SamSchoedel
 
 # Is this the primary user of the site?
 superuser: false
 
 # Custom link to external flag
-link_to_external_url: "https://jabbourjason.com/"
-
+link_to_external_url: "https://samschoedel.com/"
 
 ---

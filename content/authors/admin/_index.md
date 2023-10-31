@@ -94,4 +94,4 @@ My research is focused on developing and implementing **open-source algorithms f
 
 I also want to **improve the accessibility of STEM education.** I research ways to better understand and improve diversity, equity, inclusion, and belonging in STEM education globally, as well as design and teach new interdisciplinary, project-based, open-access courses that lower the barrier to entry of cutting edge topics like robotics and embedded machine learning.
 
-I enjoy spending my free time with my wife, daughter, and [puppy](https://www.instagram.com/alvinkplancher/), and [ski racing](https://nemsracing.org/) in the winters.
+I enjoy spending my free time with my family and skiing in the winters.
