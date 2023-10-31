@@ -2,12 +2,9 @@
 title: Projects
 summary: "Projects"  # Add a page description.
 date: "2021-08-21T00:00:00Z"  # Add today's date
-# type: "widget_page"  # Page type is a Widget Page
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view: 3
+dedicated_redirect_page: true
+dedicated_redirect_url: "https://a2r-lab.org/projects"
 ---
+
+You will be redirected to the [A2R Lab Projects Page](https://a2r-lab.org/projects) as the content has moved there!
