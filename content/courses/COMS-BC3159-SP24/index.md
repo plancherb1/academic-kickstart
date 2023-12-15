@@ -32,7 +32,7 @@ learningOutcomes:
 # - 5% Attendance, Collaboration, and Participation
 
 prerequisites:
-- COMS W3157 Advanced Programming or CSEE W3827 Fundamentals of Computer Systems (or equivalents)
+- COMS W3157 Advanced Programming or CSEE W3827 Fundamentals of Computer Systems or Prior Experience with C(++) Programming ([e.g., pointers, arrays, and memory management](https://bit.ly/3159-S23-CppReview))
 - COMS W3251 Computational Linear Algebra (or equivalents)
 - MATH UN1201 Calculus III (or equivalents)
 - Please contact the instructor if you have relevant prior experience but do not have prerequisites
