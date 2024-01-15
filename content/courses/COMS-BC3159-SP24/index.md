@@ -4,7 +4,7 @@ title: "COMS-BC3159-SP24: Parallel Optimization for Robotics"
 position: "Instructor of Record"
 semesters: "Spring 2024"
 dayTime: "MW 1:10-2:25pm"
-room: "TBD"
+room: "Milstein LL002"
 credits: "3 Credits"
 # Code used for list order
 semesterCode: "24.1"

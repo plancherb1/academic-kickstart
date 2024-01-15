@@ -26,4 +26,6 @@ If you are eligible for a letter, please send me an email to bplancher+advising@
 + Why you think I'm an ideal person to write the letter and what you'd hope I'd highlight in my letter.
 + If we did not interact regularly, a detailed summary of all of our interactions, to help prime my memory.
 
+Also, as many recommendation letters now go through formal submission systems, once I agree to write your letter, please add me to that system as soon as you can.
+
 Finally, **I will only write letters if you agree to waive your rights to see the letter**. That is the only way I can provide strong and honest letters to all students who submit requests each year.
