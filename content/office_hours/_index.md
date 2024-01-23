@@ -21,36 +21,36 @@ My Spring 2024 office hours schedule is below, with recent changes shown in **bo
 | Wednesday       | January 24       | **11:30 AM - 12:15 PM EDT** | Milstein 512  |
 | **Thursday**    | **January 25**   | **10:15 AM - 11:00 AM EDT** | [Zoom](brianplancher.com/zoom) |
 | Tuesday         | January 30       | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
-| Wednesday       | January 31       | 12:00 PM- 1:00 PM EDT       | Milstein 512  |
+| Wednesday       | January 31       | 11:30 AM- 12:30 PM EDT       | Milstein 512  |
 |                 |                  |                             |               |
 | Tuesday         | February 6       | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
-| Wednesday       | February 7       | 12:00 PM- 1:00 PM EDT       | Milstein 512  |
+| Wednesday       | February 7       | 11:30 AM- 12:30 PM EDT       | Milstein 512  |
 | Tuesday         | February 13      | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
-| Wednesday       | February 14      | 12:00 PM- 1:00 PM EDT       | Milstein 512  |
+| Wednesday       | February 14      | 11:30 AM- 12:30 PM EDT       | Milstein 512  |
 | Tuesday         | February 20      | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
-| Wednesday       | February 21      | 12:00 PM- 1:00 PM EDT       | Milstein 512  |
+| Wednesday       | February 21      | 11:30 AM- 12:30 PM EDT       | Milstein 512  |
 | Tuesday         | February 27      | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
-| Wednesday       | February 28      | 12:00 PM- 1:00 PM EDT       | Milstein 512  |
+| Wednesday       | February 28      | 11:30 AM- 12:30 PM EDT       | Milstein 512  |
 |                 |                  |                             |               |
 | Tuesday         | March 5          | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
-| Wednesday       | March 6          | 12:00 PM- 1:00 PM EDT       | Milstein 512  |
+| Wednesday       | March 6          | 11:30 AM- 12:30 PM EDT       | Milstein 512  |
 | *Spring Break*  | *Spring Break*   | *Spring Break*              | *Spring Break*|
 | Tuesday         | March 19         | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
-| Wednesday       | March 20         | 12:00 PM- 1:00 PM EDT       | Milstein 512  |
+| Wednesday       | March 20         | 11:30 AM- 12:30 PM EDT       | Milstein 512  |
 | Tuesday         | March 26         | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
-| Wednesday       | March 27         | 12:00 PM- 1:00 PM EDT       | Milstein 512  |
+| Wednesday       | March 27         | 11:30 AM- 12:30 PM EDT       | Milstein 512  |
 |                 |                  |                             |               |
 | Tuesday         | April 2          | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
-| Wednesday   	  | April 3          | 12:00 PM- 1:00 PM EDT       | Milstein 512  |
+| Wednesday   	  | April 3          | 11:30 AM- 12:30 PM EDT       | Milstein 512  |
 | Tuesday         | April 9          | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
-| Wednesday   	  | April 10         | 12:00 PM- 1:00 PM EDT       | Milstein 512  |
+| Wednesday   	  | April 10         | 11:30 AM- 12:30 PM EDT       | Milstein 512  |
 | Tuesday         | April 16         | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
-| Wednesday   	  | April 17         | 12:00 PM- 1:00 PM EDT       | Milstein 512  |
+| Wednesday   	  | April 17         | 11:30 AM- 12:30 PM EDT       | Milstein 512  |
 | Tuesday         | April 23         | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
-| Wednesday   	  | April 24         | 12:00 PM- 1:00 PM EDT       | Milstein 512  |
+| Wednesday   	  | April 24         | 11:30 AM- 12:30 PM EDT       | Milstein 512  |
 |                 |                  |                             |               |
 | Tuesday         | April 30         | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
-| Monday      	  | May 1            | 12:00 PM- 1:00 PM EDT       | Milstein 512  |
+| Monday      	  | May 1            | 11:30 AM- 12:30 PM EDT       | Milstein 512  |
 
 <!-- **For Fall 2023, my office hours will begin the semester by appointment only and generally over [Zoom](/zoom) as I will be on parental course release.** -->
 
