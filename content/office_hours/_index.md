@@ -19,7 +19,7 @@ My Spring 2024 office hours schedule is below, with recent changes shown in **bo
 |-----------------|------------------|-----------------------------|---------------|
 | **Thursday**    | **January 18**   | **2:15 PM - 3:15 PM EDT**   | Milstein 512  |
 | Wednesday       | January 24       | **11:30 AM - 12:15 PM EDT** | Milstein 512  |
-| **Thursday**    | **January 25**   | **10:15 AM - 11:00 AM EDT** | [Zoom](brianplancher.com/zoom) |
+| **Thursday**    | **January 25**   | **10:15 AM - 11:00 AM EDT** | [Zoom](https://brianplancher.com/zoom) |
 | Tuesday         | January 30       | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
 | Wednesday       | January 31       | 11:30 AM- 12:30 PM EDT      | Milstein 512  |
 |                 |                  |                             |               |
@@ -38,7 +38,7 @@ My Spring 2024 office hours schedule is below, with recent changes shown in **bo
 | Tuesday         | March 19         | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
 | Wednesday       | March 20         | 11:30 AM- 12:30 PM EDT      | Milstein 512  |
 | Tuesday         | March 26         | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
-| **Thursday**    | **March 28**     | **12:45 AM- 2:15 PM EDT**   | [Zoom](brianplancher.com/zoom) |
+| **Thursday**    | **March 28**     | **12:45 AM- 2:15 PM EDT**   | [Zoom](https://brianplancher.com/zoom) |
 |                 |                  |                             |               |
 | Tuesday         | April 2          | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
 | Wednesday       | April 3          | 11:30 AM- 12:30 PM EDT      | Milstein 512  |
