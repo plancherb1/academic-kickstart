@@ -36,7 +36,6 @@ My Spring 2024 office hours schedule is below, with recent changes shown in **bo
 | *Spring Break*  | *Spring Break*   | *Spring Break*              | *Spring Break*|
 | Tuesday         | March 19         | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
 | Wednesday       | March 20         | 11:30 AM- 12:30 PM EDT      | Milstein 512  |
-| Tuesday         | March 26         | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
 | **Thursday**    | **March 28**     | **12:45 AM- 2:15 PM EDT**   | [Zoom](https://brianplancher.com/zoom) |
 |                 |                  |                             |               |
 | Tuesday         | April 2          | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
