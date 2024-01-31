@@ -35,7 +35,7 @@ tags:
 - FPGA
 - Rigid Body Dynamics
 
-featured: true
+featured: false
 
 links:
 #- name: Publication

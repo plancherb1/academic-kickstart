@@ -13,11 +13,11 @@ publishDate: "2023-09-12T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent; 9 = Workshop / Poster; 10 = Magazine Article
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-# publication: In *[2024 IEEE International Conference on Robotics and Automation (ICRA)](http://ieee-icra.org/)*
-# publication_short: In *ICRA 2024*
+publication: In *[2024 IEEE International Conference on Robotics and Automation (ICRA)](http://ieee-icra.org/)*
+publication_short: In *ICRA 2024*
 
 abstract: "There has been a growing interest in parallel strategies for solving trajectory optimization problems. One key step in many algorithmic approaches to trajectory optimization is the solution of moderately-large and sparse linear systems. Iterative methods are particularly well-suited for parallel solves of such systems. However, fast and stable convergence of iterative methods is reliant on the application of a high-quality preconditioner that reduces the spread and increase the clustering of the eigenvalues of the target matrix. To improve the performance of these approaches, we present a new parallel-friendly symmetric stair preconditioner. We prove that our preconditioner has advantageous theoretical properties when used in conjunction with iterative methods for trajectory optimization such as a more clustered eigenvalue spectrum. Numerical experiments with typical trajectory optimization problems reveal that as compared to the best alternative parallel preconditioner from the literature, our symmetric stair preconditioner provides up to a 34% reduction in condition number and up to a 25% reduction in the number of resulting linear system solver iterations."
 

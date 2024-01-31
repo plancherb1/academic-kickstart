@@ -33,7 +33,7 @@ tags:
 - Hardware-Software Co-Design
 - FPGA
 - Robotics
-featured: true
+featured: false
 
 awards:
 - IEEE Micro Top Picks 2022 Honorable Mention
