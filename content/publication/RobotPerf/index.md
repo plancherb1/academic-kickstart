@@ -5,7 +5,6 @@ authors:
 - JasonJabbour
 - YuShunHsiao
 - ZishenWan
-- AlejandraFarina
 - MartinoAlvarez
 - MatthewStewart
 - JuanReinaMunoz
