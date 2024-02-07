@@ -26,7 +26,7 @@ My Spring 2024 office hours schedule is below, with recent changes shown in **bo
 | Tuesday         | February 6       | **10:30 AM- 11:30 AM EDT**  | Milstein 512  |
 | Wednesday       | February 7       | **2:30 PM- 3:30 PM EDT**    | Milstein 512  |
 | Tuesday         | February 13      | **11:00 AM- 1:00 PM EDT**   | Milstein 512  |
-| Tuesday         | February 20      | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
+| Tuesday         | February 20      | **2:00 PM- 3:00 PM EDT**    | Milstein 512  |
 | Wednesday       | February 21      | 11:30 AM- 12:30 PM EDT      | Milstein 512  |
 | Tuesday         | February 27      | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
 | Wednesday       | February 28      | 11:30 AM- 12:30 PM EDT      | Milstein 512  |
