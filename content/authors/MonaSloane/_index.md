@@ -1,16 +1,15 @@
 ---
 # Display name
-name: Matthew Stewart
+name: Mona Sloane
 
 # Username (this should match the folder name)
 authors:
-- MatthewStewart
+- MonaSloane
 
 # Is this the primary user of the site?
 superuser: false
 
 # Custom link to external flag
-link_to_external_url: "https://mpstewart.io/"
-
+link_to_external_url: "https://datascience.virginia.edu/people/mona-sloane"
 
 ---
