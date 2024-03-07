@@ -37,9 +37,10 @@ prerequisites:
 - MATH UN1201 Calculus III (or equivalents)
 - Please contact the instructor if you have relevant prior experience but do not have prerequisites
 
-enrollmentNote: Enrollment Capped at 75 Students (Instructor Managed Waiting List See Note Below)
+enrollmentNote: "Enrollment Capped at 85 Students (Instructor Managed Waiting List See Note Below)"
+otherNote: "COMS BC3159 can count as an AFC course for Barnard students!"
 
-waitingList: "This class is capped at 75 students. This semester, I am handling the waitlist as an instructor-controlled waiting list. Students will be admitted based on a combination of seniority, interests in the class, and contributions to a diverse set of viewpoints and experiences in the class. Half of the available slots will be reserved for Barnard students (assuming sufficient demand). To be considered for the class, please join the waiting list **AND** fill out the form at [https://bit.ly/3159-F24-WL](https://bit.ly/3159-F24-WL), which asks a few questions about your background and your interests in the class."
+waitingList: "This class is capped at 85 students. This semester, I am handling the waitlist as an instructor-controlled waiting list. Students will be admitted based on a combination of seniority, interests in the class, and contributions to a diverse set of viewpoints and experiences in the class. Half of the available slots will be reserved for Barnard students (assuming sufficient demand). To be considered for the class, please join the waiting list **AND** fill out the form at [https://bit.ly/3159-F24-WL](https://bit.ly/3159-F24-WL), which asks a few questions about your background and your interests in the class."
 
 officeHours: "The most up-to-date schedule of office hours can be found [here](/office_hours). I will also try to respond to requests emailed to [bplancher+courses@barnard.edu](mailto:bplancher+courses@barnard.edu) within 36 hours during the weekdays and within 48 hours over the weekend. Faster response time will be achieved via the course Slack."
 

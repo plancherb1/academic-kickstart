@@ -37,6 +37,9 @@
         {{ with $page.Params.enrollmentNote }}
           <h4>{{ . | markdownify | emojify }}</h4>
         {{end}}
+        {{ with $page.Params.otherNote }}
+          <h4>{{ . | markdownify | emojify }}</h4>
+        {{end}}
         
         <p class="page-subtitle" style="color:#404040;">
           {{ if (or (or (or $page.Params.semesters $page.Params.dayTime) $page.Params.room) $page.Params.credits)}}
