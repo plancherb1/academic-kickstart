@@ -59,18 +59,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:bplancher@barnard.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: github
-  icon_pack: fab
-  link: https://github.com/plancherb1
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=Hys8HdsAAAAJ
-# - icon: researchgate
-#   icon_pack: fab
-#   link: https://www.researchgate.net/profile/Brian_Plancher
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/brianplancher
+- icon: github
+  icon_pack: fab
+  link: https://github.com/plancherb1
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-0078-3653
+# - icon: researchgate
+#   icon_pack: fab
+#   link: https://www.researchgate.net/profile/Brian_Plancher
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=Hys8HdsAAAAJ
 - icon: user-circle
   icon_pack: far
   link: https://cs.barnard.edu/profiles/brian-plancher
