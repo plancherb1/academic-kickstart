@@ -33,6 +33,7 @@
     <h3 class="article-title mb-0 mt-0" itemprop="name">
       <a href="{{ $item.RelPermalink }}" itemprop="url">{{ $item.Title }}</a>
     </h3>
+    <div class="article-style" itemprop="articleBody"><i>{{ partial "page_metadata_awards.html" $item }}</i></div>
 
     {{ with $summary }}
     <div class="article-style" itemprop="articleBody">

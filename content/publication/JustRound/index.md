@@ -28,7 +28,7 @@ tags:
 - Robot Learning
 - Machine Learning
 - Reinforcement Learning
-featured: true
+featured: false
 
 awards: []
 

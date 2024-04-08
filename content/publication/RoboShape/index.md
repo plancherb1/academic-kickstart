@@ -32,7 +32,7 @@ tags:
 - Hardware-Software Co-Design
 - FPGA
 - Robotics
-featured: true
+featured: false
 
 links:
 # - name: 'TBD'

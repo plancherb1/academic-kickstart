@@ -35,7 +35,10 @@ tags:
 
 featured: true
 
-awards: []
+awards:
+- IEEE ICRA 2024 Best Paper Award in Automation Finalist
+- IEEE ICRA 2024 Best Conference Paper Award Finalist
+- IEEE ICRA 2024 Best Student Paper Award Finalist
 
 links:
   - name: "Website"
