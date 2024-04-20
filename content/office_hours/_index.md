@@ -47,8 +47,7 @@ My Spring 2024 office hours schedule is below, with recent changes shown in **bo
 | Tuesday         | April 23         | **3:30 PM- 4:00 PM EDT**    | Milstein 512  |
 | Wednesday       | April 24         | 11:30 AM- 12:30 PM EDT      | Milstein 512  |
 |                 |                  |                             |               |
-| Tuesday         | April 30         | 11:00 AM- 12:00 PM EDT      | Milstein 512  |
-| Monday          | May 1            | 11:30 AM- 12:30 PM EDT      | Milstein 512  |
+| Tuesday         | April 30         | **11:00 AM- 12:45 PM EDT**  | Milstein 512  |
 
 <!-- **For Fall 2023, my office hours will begin the semester by appointment only and generally over [Zoom](/zoom) as I will be on parental course release.** -->
 
