@@ -1,9 +1,9 @@
 ---
 title: "TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers"
 authors:
-- AnoushkaAlavilli
 - KhaiNguyen
 - SamSchoedel
+- AnoushkaAlavilli
 - admin
 - ZacharyManchester
 date: "2023-10-25T00:00:00Z"
