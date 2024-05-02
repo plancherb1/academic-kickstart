@@ -6,7 +6,7 @@ position: "Co-Organizer"
 semesters: "Fall 2023"
 # Code used for list order
 semesterCode: "23.3"
-date: "2022-07-01T00:00:00Z"
+date: "2023-07-01T00:00:00Z"
 subtype: "workshop" # semester, MOOC, workshop, other
 
 # Course Overiew Abstract.

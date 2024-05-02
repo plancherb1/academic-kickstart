@@ -8,7 +8,7 @@ room: "DIA LL103"
 credits: "3 Credits"
 # Code used for list order
 semesterCode: "23.1"
-date: "2022-10-10T00:00:00Z"
+date: "2023-01-01T00:00:00Z"
 subtype: "semester" # semester, MOOC, workshop, other
 
 # Course Overiew Abstract.

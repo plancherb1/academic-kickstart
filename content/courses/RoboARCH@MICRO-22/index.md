@@ -1,7 +1,7 @@
 ---
 type: "courses"
 title: "RoboARCH: Workshop on Robotics Acceleration with Computing Hardware"
-title2: "An [MICRO 2022](https://microarch.org/micro55/) Workshop"
+title2: "A [MICRO 2022](https://microarch.org/micro55/) Workshop"
 position: "Co-Organizer"
 semesters: "Fall 2022"
 # Code used for list order
