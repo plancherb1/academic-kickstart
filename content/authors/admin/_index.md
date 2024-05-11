@@ -91,6 +91,12 @@ user_groups: []
 #I am on the academic job market this fall and looking for opportunities to research and teach at the intersection of robotics and adjacent fields. Here is my [CV](/files/Brian_Plancher_CV.pdf) as well as my [research](/files/Brian_Plancher_Research_Statement.pdf), [teaching](/files/Brian_Plancher_Teaching_Statement.pdf), and [diversity](/files/Brian_Plancher_Diversity_Statement.pdf) statements.
 ---
 
+---
+
+**Come see my lab's work at [ICRA 2024](https://a2r-lab.org/icra-24)!**
+
+---
+
 I am an Assistant Professor of Computer Science at [Barnard College, Columbia University](https://cs.barnard.edu/) where I lead the [Accessible and Accelerated Robotics Lab (A²R Lab)](https://a2r-lab.org). I am also a co-chair for the [Tiny Machine Learning Open Education Initiative (TinyMLedu)](https://tinymledu.org) and an associate co-chair for the [IEEE RAS TC on Model Based Optimization for Robotics](https://www.ieee-ras.org/model-based-optimization-for-robotics).
 
 My research is focused on developing and implementing **open-source algorithms for dynamic motion planning and control of robots** by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such, my research is at the intersection of Robotics and Computer Architecture, Embedded Systems, Numerical Optimization, and Machine Learning. 
