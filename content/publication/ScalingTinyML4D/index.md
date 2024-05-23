@@ -43,10 +43,10 @@ authors:
 - MarcoZennaro
 - VijayJanapaReddi
 date: "2024-03-25T00:00:00Z"
-doi: ""
+doi: "10.1609/aaaiss.v3i1.31265"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-06-25T00:00:00Z"
+publishDate: "2024-05-20T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -72,6 +72,8 @@ tags:
 featured: false
 
 links:
+  - name: "TinyML4D Website"
+    url: "https://tinymledu.org/4d"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
