@@ -29,7 +29,7 @@ tags:
 - Machine Learning
 - Reinforcement Learning
 - Compressed Learning
-featured: true
+featured: false
 
 awards: []
 
