@@ -59,11 +59,11 @@
         {{ $.Scratch.Set "typecode" "2" }}
         {{ partial "publication_list_by_type" . }}
 
-        {{ $.Scratch.Set "typename" "Conference Papers" }}
+        {{ $.Scratch.Set "typename" "Conference Proceedings" }}
         {{ $.Scratch.Set "typecode" "1" }}
         {{ partial "publication_list_by_type" . }}
 
-        {{ $.Scratch.Set "typename" "Magazine Articles" }}
+        {{ $.Scratch.Set "typename" "Magazine Articles and Columns" }}
         {{ $.Scratch.Set "typecode" "10" }}
         {{ partial "publication_list_by_type" . }}
 
@@ -71,7 +71,7 @@
         {{ $.Scratch.Set "typecode" "4" }}
         {{ partial "publication_list_by_type" . }}
 
-        {{ $.Scratch.Set "typename" "Workshop Papers / Abstracts / Posters" }}
+        {{ $.Scratch.Set "typename" "Posters / Abstracts / Other" }}
         {{ $.Scratch.Set "typecode" "9" }}
         {{ partial "publication_list_by_type" . }}
 

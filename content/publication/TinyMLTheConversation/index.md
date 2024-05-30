@@ -1,7 +1,7 @@
 ---
 title: "AI in the Developing World: How ‘Tiny Machine Learning’ can have a Big Impact"
 authors:
-- PeteWarden
+- MarcoZennaro
 - admin
 - MatthewStewart
 - VijayJanapaReddi

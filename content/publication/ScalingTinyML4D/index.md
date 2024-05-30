@@ -74,6 +74,8 @@ featured: false
 links:
   - name: "TinyML4D Website"
     url: "https://tinymledu.org/4d"
+  - name: "Symposium Website"
+    url: "https://sites.google.com/uncc.edu/aaai-diversity-in-ai-education/symposium-program"
 url_pdf: ''
 url_code: ''
 url_dataset: ''

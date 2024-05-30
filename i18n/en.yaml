@@ -146,16 +146,16 @@
   translation: Uncategorized
 
 - id: pub_conf
-  translation: Conference paper
+  translation: Conference Proceedings
 
 - id: pub_journal
-  translation: Journal article
+  translation: Journal Articles
 
 - id: pub_preprint
-  translation: Preprint
+  translation: Preprints
 
 - id: pub_report
-  translation: Report
+  translation: Technical Reports
 
 - id: pub_book
   translation: Book
@@ -164,16 +164,16 @@
   translation: Book section
 
 - id: pub_thesis
-  translation: Thesis
+  translation: Dissertations and Theses
 
 - id: pub_patent
   translation: Patent
 
 - id: pub_workshop
-  translation: Workshop Paper / Abstract / Poster
+  translation: Posters / Abstracts / Other
 
 - id: pub_magazine
-  translation: Magazine Article
+  translation: Magazine Articles and Columns
 
 # Project details
 
