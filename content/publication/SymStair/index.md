@@ -39,9 +39,9 @@ links:
 url_pdf: 'https://arxiv.org/abs/2309.06427'
 url_code: 'https://github.com/A2R-Lab/SymStair/'
 url_dataset: ''
-url_poster: ''
+url_poster: 'files/2024_SymStair_ICRA_Poster_vertical.pdf'
 url_project: ''
-url_slides: ''
+url_slides: 'files/2024_ICRA_MPCGPU_SymStair_Slides.pdf'
 url_source: ''
 url_video: ''
 

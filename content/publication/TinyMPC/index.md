@@ -46,7 +46,7 @@ links:
 url_pdf: 'https://arxiv.org/abs/2310.16985'
 url_code: 'https://github.com/tinympc'
 url_dataset: ''
-url_poster: ''
+url_poster: 'files/TinyMPC_ICRA_Poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''

@@ -43,9 +43,9 @@ links:
 url_pdf: 'https://arxiv.org/abs/2309.08079'
 url_code: 'https://github.com/a2r-lab/MPCGPU'
 url_dataset: ''
-url_poster: ''
+url_poster: 'files/2024_MPCGPU_ICRA_Poster_vertical_v2.pdf'
 url_project: ''
-url_slides: ''
+url_slides: 'files/2024_ICRA_MPCGPU_SymStair_Slides.pdf'
 url_source: ''
 url_video: ''
 
