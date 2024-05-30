@@ -3,7 +3,7 @@ title: "Symmetric Stair Preconditioning of Linear Systems for Parallel Trajector
 authors:
 - XueyiBu
 - admin
-date: "2023-09-12T00:00:00Z"
+date: "2024-05-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
