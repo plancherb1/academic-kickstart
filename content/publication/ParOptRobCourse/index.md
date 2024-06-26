@@ -32,6 +32,8 @@ tags:
 featured: false
 
 links:
+  - name: "Workshop Website"
+    url: "https://tcpp.cs.gsu.edu/curriculum/?q=edupar24"
 url_pdf: 'https://tcpp.cs.gsu.edu/curriculum/sites/default/files/EduPar-02-Teaching_Parallel_Optimization_for_Robotics__EduPar_2024__Final.pdf'
 url_code: ''
 url_dataset: ''

@@ -56,6 +56,8 @@ awards: []
 links:
   - name: "Extended Abstract"
     url: "files/RobotPerf_extended_abstract.pdf"
+  - name: "Website"
+    url: "https://robotperf.net/"
 url_pdf: 'https://arxiv.org/abs/2309.09212'
 url_code: 'https://github.com/robotperf/benchmarks'
 url_dataset: ''
