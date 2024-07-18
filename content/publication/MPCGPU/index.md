@@ -35,7 +35,8 @@ tags:
 - Trajectory Optimization
 featured: true
 
-awards: []
+awards:
+- Best Poster Award at the 2024 IEEE TC on Model Based Optimization for Robotics Virtual Poster Session
 
 links:
   # - name: "TBD"

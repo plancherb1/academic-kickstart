@@ -35,7 +35,7 @@ tags:
 - Code Generation
 - Conic Constraints
 
-featured: true
+featured: false
 
 awards: []
 

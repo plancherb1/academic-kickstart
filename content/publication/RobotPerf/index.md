@@ -51,7 +51,8 @@ tags:
 - ROS2
 featured: false
 
-awards: []
+awards:
+- Best Poster Award for preliminary results at the Workshop on Methods for Objective Comparison of Results in Intelligent Robotics Research at the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (iROS)
 
 links:
   - name: "Extended Abstract"
