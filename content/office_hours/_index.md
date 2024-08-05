@@ -13,9 +13,44 @@ A few quick notes:
 3. If you are trying to meet me because I am your faculty advisor please come to office hours (see below) or email me to set up a different time at [bplancher+advising@barnard.edu](mailto:bplancher+advising@barnard.edu).
 4. I plan to hold these office hours in person in my office in Milstein 512 (unless noted below). If you want to meet via Zoom or would like to meet at a different time, please send me an email at [bplancher+meeting@barnard.edu](mailto:bplancher+meeting@barnard.edu). I will try to respond to emails within 2 business days.
 
-My Spring 2024 office hours schedule is below, with recent changes shown in **bold**. Updates to office hours will usually be noted at least one business day in advance, except for (rare) emergency cancellations.
+My Fall 2024 office hours schedule is below, with recent changes shown in **bold**. Updates to office hours will usually be noted at least one business day in advance, except for (rare) emergency cancellations.
 
 | Day of the Week | Date             | Time                        | Location      |
+|-----------------|------------------|-----------------------------|---------------|
+| Monday          | September 9      | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
+| Wednesday       | September 11     | 12:30 PM - 12:55 PM EDT     | Milstein 512  |
+| Monday          | September 16     | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
+| Wednesday       | September 18     | 12:30 PM - 12:55 PM EDT     | Milstein 512  |
+| Monday          | September 23     | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
+| Wednesday       | September 25     | 12:30 PM - 12:55 PM EDT     | Milstein 512  |
+| Monday          | September 30     | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
+|                 |                  |                             |               |
+| Wednesday       | October 2        | 12:30 PM - 12:55 PM EDT     | Milstein 512  |
+| Monday          | October 7        | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
+| Wednesday       | October 9        | 12:30 PM - 12:55 PM EDT     | Milstein 512  |
+| Monday          | October 14       | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
+| Wednesday       | October 16       | 12:30 PM - 12:55 PM EDT     | Milstein 512  |
+| Monday          | October 21       | **Canceled for Travel**     | Milstein 512  |
+| Wednesday       | October 23       | **Canceled for Travel**     | Milstein 512  |
+| Monday          | October 28       | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
+| Wednesday       | October 30       | 12:30 PM - 12:55 PM EDT     | Milstein 512  |
+|                 |                  |                             |               |
+| Monday          | November 4       | **Canceled University Holiday** | Milstein 512  |
+| Wednesday       | November 6       | 12:30 PM - 12:55 PM EDT     | Milstein 512  |
+| Monday          | November 11      | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
+| Wednesday       | November 13      | 12:30 PM - 12:55 PM EDT     | Milstein 512  |
+| Monday          | November 18      | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
+| Wednesday       | November 20      | 12:30 PM - 12:55 PM EDT     | Milstein 512  |
+| Monday          | November 25      | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
+| Wednesday       | November 27      | **Canceled University Holiday** | Milstein 512  |
+|                 |                  |                             |               |
+| Monday          | December 2       | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
+| Wednesday       | December 4       | 12:30 PM - 12:55 PM EDT     | Milstein 512  |
+| Monday          | December 2       | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
+| Wednesday       | December 4       | **Canceled Reading Period** | Milstein 512  |
+
+
+<!-- | Day of the Week | Date             | Time                        | Location      |
 |-----------------|------------------|-----------------------------|---------------|
 | **Thursday**    | **January 18**   | **2:15 PM - 3:15 PM EDT**   | Milstein 512  |
 | Wednesday       | January 24       | **11:30 AM - 12:15 PM EDT** | Milstein 512  |
@@ -47,7 +82,7 @@ My Spring 2024 office hours schedule is below, with recent changes shown in **bo
 | Tuesday         | April 23         | **3:30 PM- 4:00 PM EDT**    | Milstein 512  |
 | Wednesday       | April 24         | 11:30 AM- 12:30 PM EDT      | Milstein 512  |
 |                 |                  |                             |               |
-| Tuesday         | April 30         | **11:00 AM- 12:45 PM EDT**  | Milstein 512  |
+| Tuesday         | April 30         | **11:00 AM- 12:45 PM EDT**  | Milstein 512  | -->
 
 <!-- **For Fall 2023, my office hours will begin the semester by appointment only and generally over [Zoom](/zoom) as I will be on parental course release.** -->
 
