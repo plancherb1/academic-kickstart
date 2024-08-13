@@ -21,7 +21,7 @@ authors:
 - admin
 - VijayJanapaReddi
 date: "2024-05-13T00:00:00Z"
-doi: ""
+doi: "10.1109/ICRA57147.2024.10610841"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-17T00:00:00Z"
