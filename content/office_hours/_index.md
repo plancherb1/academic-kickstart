@@ -30,8 +30,8 @@ My Fall 2024 office hours schedule is below, with recent changes shown in **bold
 | Wednesday       | October 9        | **11:00 AM - 11:30 AM EDT** | Milstein 512  |
 | Monday          | October 14       | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
 | Wednesday       | October 16       | 12:30 PM - 12:55 PM EDT     | Milstein 512  |
-| Monday          | October 21       | **Canceled for Travel**     | Milstein 512  |
-| Wednesday       | October 23       | **Canceled for Travel**     | Milstein 512  |
+| Monday          | October 21       | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
+| Wednesday       | October 23       | **Canceled Confernece Travel** | Milstein 512  |
 | Monday          | October 28       | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
 | Wednesday       | October 30       | 12:30 PM - 12:55 PM EDT     | Milstein 512  |
 |                 |                  |                             |               |
@@ -49,8 +49,8 @@ My Fall 2024 office hours schedule is below, with recent changes shown in **bold
 | Monday          | December 2       | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
 | Wednesday       | December 4       | **Canceled Reading Period** | Milstein 512  |
 
-
-<!-- | Day of the Week | Date             | Time                        | Location      |
+<!--
+| Day of the Week | Date             | Time                        | Location      |
 |-----------------|------------------|-----------------------------|---------------|
 | **Thursday**    | **January 18**   | **2:15 PM - 3:15 PM EDT**   | Milstein 512  |
 | Wednesday       | January 24       | **11:30 AM - 12:15 PM EDT** | Milstein 512  |
@@ -82,11 +82,15 @@ My Fall 2024 office hours schedule is below, with recent changes shown in **bold
 | Tuesday         | April 23         | **3:30 PM- 4:00 PM EDT**    | Milstein 512  |
 | Wednesday       | April 24         | 11:30 AM- 12:30 PM EDT      | Milstein 512  |
 |                 |                  |                             |               |
-| Tuesday         | April 30         | **11:00 AM- 12:45 PM EDT**  | Milstein 512  | -->
+| Tuesday         | April 30         | **11:00 AM- 12:45 PM EDT**  | Milstein 512  |
+-->
 
-<!-- **For Fall 2023, my office hours will begin the semester by appointment only and generally over [Zoom](/zoom) as I will be on parental course release.** -->
+<!--
+**For Fall 2023, my office hours will begin the semester by appointment only and generally over [Zoom](/zoom) as I will be on parental course release.**
+-->
 
-<!-- For Spring 2023, my office hours will generally be Monday 2:30-3PM and Wednesday 10:00am-11:30AM (originally 10-12 on Wednesdays), with changes and cancellations due to scheduling conflicts or holidays. The full schedule is below, with changes shown in **bold**. Updates to office hours will usually be noted at least a 48 hours in advance, except for (rare) emergency cancellations.
+<!--
+For Spring 2023, my office hours will generally be Monday 2:30-3PM and Wednesday 10:00am-11:30AM (originally 10-12 on Wednesdays), with changes and cancellations due to scheduling conflicts or holidays. The full schedule is below, with changes shown in **bold**. Updates to office hours will usually be noted at least a 48 hours in advance, except for (rare) emergency cancellations.
 
 | Day of the Week | Date             | Time                        | Location      |
 |-----------------|------------------|-----------------------------|---------------|
@@ -118,7 +122,8 @@ My Fall 2024 office hours schedule is below, with recent changes shown in **bold
 | Wednesday       | April 26         | 10:00 AM - 11:30 AM EDT     | Milstein 503  |
 |                 |                  |                             |               |
 | Monday      	  | May 1            | 2:30 PM - 3:00 PM EDT       | Milstein 512  |
-| **Tuesday**     | May 2            | 2:30 PM - 4:00 PM EDT       | Milstein 503  | -->
+| **Tuesday**     | May 2            | 2:30 PM - 4:00 PM EDT       | Milstein 503  |
+-->
 
 <!--
 For Fall 2022, my office hours were originally 11:00am-1:00pm or 2:00pm-4:00pm on Tuesdays, with some changes and cancellations due to schedule conflicts or holidays, but have moved to be a bit more sporadic to better account for student needs. The full schedule is below, with changes shown in **bold**. Updates to office hours will usually be noted at least a week in advance, except for (rare) emergency cancellations.
