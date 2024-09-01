@@ -4,7 +4,7 @@ title: "COMS-BC3499-F24: Applied Computing - Research and Industry Perspectives"
 position: "Instructor of Record"
 semesters: "Fall 2024"
 dayTime: "M 6:10-8:00pm"
-room: "TBD"
+room: "Milstein 111"
 credits: "4 Credits"
 # Code used for list order
 semesterCode: "24.3"

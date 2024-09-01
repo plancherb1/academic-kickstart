@@ -17,6 +17,7 @@ My Fall 2024 office hours schedule is below, with recent changes shown in **bold
 
 | Day of the Week | Date             | Time                        | Location      |
 |-----------------|------------------|-----------------------------|---------------|
+| **Thursday**    | **September 5**  | **12:00 PM - 2:00 PM EDT**  | **At the [CU CS Reseach Fair](https://www.cs.columbia.edu/research-fair-fall-2024/) (CSB 452)** |
 | Monday          | September 9      | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
 | Wednesday       | September 11     | 12:30 PM - 12:55 PM EDT     | Milstein 512  |
 | Monday          | September 16     | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
