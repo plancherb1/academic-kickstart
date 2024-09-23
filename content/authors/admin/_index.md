@@ -87,7 +87,7 @@ user_groups: []
 #- Researchers
 #- Visitors
 
-# job_alert: My lab is actively looking for XXX and XXX, check out [this link]() for more information!
+job_alert: "My lab is **hiring for a postdoctoral researcher** with an ASAP start date to help lead our new NSF funded project: [Accessible GPU-Accelerated Edge Optimal Control Library and Benchmarks](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2411369&HistoricalAwards=false). The application will be posted shortly!"
 #I am on the academic job market this fall and looking for opportunities to research and teach at the intersection of robotics and adjacent fields. Here is my [CV](/files/Brian_Plancher_CV.pdf) as well as my [research](/files/Brian_Plancher_Research_Statement.pdf), [teaching](/files/Brian_Plancher_Teaching_Statement.pdf), and [diversity](/files/Brian_Plancher_Diversity_Statement.pdf) statements.
 ---
 
