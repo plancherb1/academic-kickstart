@@ -3,7 +3,7 @@ title: "Differentially Encoded Observation Spaces for Perceptive Reinforcement L
 authors:
 - LevGrossman
 - admin
-date: "2024-05-13T00:00:00Z"
+date: "2024-05-13T00:00:01Z"
 doi: "10.1109/ICRA57147.2024.10611215"
 
 # Schedule page publish date (NOT publication's date).

@@ -59,20 +59,20 @@
         {{ $.Scratch.Set "typecode" "2" }}
         {{ partial "publication_list_by_type" . }}
 
-        {{ $.Scratch.Set "typename" "Conference Proceedings" }}
+        {{ $.Scratch.Set "typename" "Refereed Conference Proceedings" }}
         {{ $.Scratch.Set "typecode" "1" }}
         {{ partial "publication_list_by_type" . }}
 
-        {{ $.Scratch.Set "typename" "Magazine Articles and Columns" }}
+        {{ $.Scratch.Set "typename" "Refereed Magazine Articles and Columns" }}
         {{ $.Scratch.Set "typecode" "10" }}
         {{ partial "publication_list_by_type" . }}
 
-        {{ $.Scratch.Set "typename" "Technical Reports" }}
-        {{ $.Scratch.Set "typecode" "4" }}
+        {{ $.Scratch.Set "typename" "Refereed Workshop Publications and Posters" }}
+        {{ $.Scratch.Set "typecode" "9" }}
         {{ partial "publication_list_by_type" . }}
 
-        {{ $.Scratch.Set "typename" "Posters / Abstracts / Other" }}
-        {{ $.Scratch.Set "typecode" "9" }}
+        {{ $.Scratch.Set "typename" "Other Publications and Posters" }}
+        {{ $.Scratch.Set "typecode" "11" }}
         {{ partial "publication_list_by_type" . }}
 
         {{ $.Scratch.Set "typename" "Dissertations and Theses" }}
@@ -83,6 +83,10 @@
         {{ $.Scratch.Set "typename" "Advised Theses" }}
         {{ $.Scratch.Set "typecode" "3" }}
         {{ $.Scratch.Set "advised" 1 }}
+        {{ partial "publication_list_by_type" . }}
+
+        {{ $.Scratch.Set "typename" "Technical Reports" }}
+        {{ $.Scratch.Set "typecode" "4" }}
         {{ partial "publication_list_by_type" . }}
         */}}
         

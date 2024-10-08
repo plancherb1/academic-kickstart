@@ -146,7 +146,7 @@
   translation: Uncategorized
 
 - id: pub_conf
-  translation: Conference Proceedings
+  translation: Refereed Conference Proceedings
 
 - id: pub_journal
   translation: Journal Articles
@@ -170,10 +170,13 @@
   translation: Patent
 
 - id: pub_workshop
-  translation: Posters / Abstracts / Other
+  translation: Refereed Workshop Publications and Posters
 
 - id: pub_magazine
-  translation: Magazine Articles and Columns
+  translation: Refereed Magazine Articles and Columns
+
+- id: pub_other
+  translation: Other Publications and Posters
 
 # Project details
 
