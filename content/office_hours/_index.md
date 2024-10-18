@@ -37,7 +37,7 @@ My Fall 2024 office hours schedule is below, with recent changes shown in **bold
 | Wednesday       | October 30       | 12:30 PM - 12:55 PM EDT     | Milstein 512  |
 |                 |                  |                             |               |
 | Monday          | November 4       | **Canceled University Holiday** | Milstein 512  |
-| Wednesday       | November 6       | 12:30 PM - 12:55 PM EDT     | Milstein 512  |
+| Wednesday       | November 6       | **11:30 AM - 11:55 AM EDT** | Milstein 512  |
 | Monday          | November 11      | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
 | Wednesday       | November 13      | 12:30 PM - 12:55 PM EDT     | Milstein 512  |
 | Monday          | November 18      | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
