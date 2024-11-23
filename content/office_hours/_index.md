@@ -39,20 +39,17 @@ My Fall 2024 office hours schedule is below, with recent changes shown in **bold
 | Monday          | November 4       | **Canceled University Holiday** | Milstein 512  |
 | Wednesday       | November 6       | **11:30 AM - 11:55 AM EDT** | Milstein 512  |
 | Monday          | November 11      | **2:35 PM - 3:00 PM EDT**   | Milstein 512  |
-|                 |                  | **4:00 PM - 4:30 PM EDT**   |               |
-|                 |                  | ~~5:30 PM - 6:00 PM EDT~~   |               |
+| Monday          | November 11      | **4:00 PM - 4:30 PM EDT**   | Milstein 512  |
 | Wednesday       | November 13      | 12:30 PM - 12:55 PM EDT     | Milstein 512  |
-|                 |                  | **!Last Minute Update!**    |               |
 | Monday          | November 18      | **8:00 PM - 9:30 PM EDT**   | [Zoom](https://brianplancher.com/zoom)|
-|                 |                  | **!Last Minute Update!**    |               |
 | Wednesday       | November 20      | **11:35 AM - 12:05 PM EDT** | Milstein 512  |
 | Monday          | November 25      | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
 | Wednesday       | November 27      | **Canceled University Holiday** | Milstein 512  |
 |                 |                  |                             |               |
 | Monday          | December 2       | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
-| Wednesday       | December 4       | 12:30 PM - 12:55 PM EDT     | Milstein 512  |
-| Monday          | December 2       | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
-| Wednesday       | December 4       | **Canceled Reading Period** | Milstein 512  |
+| **Tuesday**     | **December 3**   | **4:30 PM - 5:00 PM EDT**   | Milstein 512  |
+| Monday          | December 9       | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
+| Wednesday       | December 11      | **Canceled Reading Period** | Milstein 512  |
 
 <!--
 | Day of the Week | Date             | Time                        | Location      |
