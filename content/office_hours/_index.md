@@ -13,8 +13,15 @@ A few quick notes:
 3. If you are trying to meet me because I am your faculty advisor please come to office hours (see below) or email me to set up a different time at [bplancher+advising@barnard.edu](mailto:bplancher+advising@barnard.edu).
 4. I plan to hold these office hours in person in my office in Milstein 512 (unless noted below). If you want to meet via Zoom or would like to meet at a different time, please send me an email at [bplancher+meeting@barnard.edu](mailto:bplancher+meeting@barnard.edu). I will try to respond to emails within 2 business days.
 
-My Fall 2024 office hours schedule is below, with recent changes shown in **bold**. Updates to office hours will usually be noted at least one business day in advance, except for (rare) emergency cancellations.
+My Spring 2025 office hours schedule is below, with recent changes shown in **bold**. Updates to office hours will usually be noted at least one business day in advance, except for (rare) emergency cancellations.
 
+| Day of the Week | Date             | Time                        | Location      |
+|-----------------|------------------|-----------------------------|---------------|
+| Wednesday       | January 22       | 10:00 AM - 11:00 AM EDT     | Milstein 512  |
+|                 |                  |                             |               |
+**Future Weeks TBD**
+
+<!--
 | Day of the Week | Date             | Time                        | Location      |
 |-----------------|------------------|-----------------------------|---------------|
 | **Thursday**    | **September 5**  | **12:00 PM - 2:00 PM EDT**  | **At the [CU CS Reseach Fair](https://www.cs.columbia.edu/research-fair-fall-2024/) (CSB 452)** |
@@ -48,6 +55,7 @@ My Fall 2024 office hours schedule is below, with recent changes shown in **bold
 |                 |                  |                             |               |
 | Monday          | December 2       | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
 | Monday          | December 9       | 2:35 PM - 4:00 PM EDT       | Milstein 512  |
+-->
 
 <!--
 | Day of the Week | Date             | Time                        | Location      |
