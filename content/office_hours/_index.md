@@ -18,6 +18,7 @@ My Spring 2025 office hours schedule is below, with recent changes shown in **bo
 | Day of the Week | Date             | Time                        | Location      |
 |-----------------|------------------|-----------------------------|---------------|
 | Wednesday       | January 22       | 10:00 AM - 11:00 AM EDT     | Milstein 512  |
+| Wednesday       | January 22       | 8:00 PM - 9:00 PM EDT     | **A2R Lab Research Openings OH [on Zoom](https://brianplancher.com/zoom)**  |
 |                 |                  |                             |               |
 **Future Weeks TBD**
 
