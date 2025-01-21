@@ -18,9 +18,37 @@ My Spring 2025 office hours schedule is below, with recent changes shown in **bo
 | Day of the Week | Date             | Time                        | Location      |
 |-----------------|------------------|-----------------------------|---------------|
 | Wednesday       | January 22       | 10:00 AM - 11:00 AM EDT     | Milstein 512  |
-| Wednesday       | January 22       | 8:00 PM - 9:00 PM EDT     | **A2R Lab Research Openings OH [on Zoom](https://brianplancher.com/zoom)**  |
+| Wednesday       | January 22       | 8:00 PM - 9:00 PM EDT       | **A2R Lab Research Openings OH [on Zoom](https://brianplancher.com/zoom)**  |
+| Tuesday         | January 28       | 12:30 PM - 1:30 PM EDT      | Milstein 512  |
+| Wednesday       | January 29       | 10:30 AM - 11:30 AM EDT     | Milstein 512  |
 |                 |                  |                             |               |
-**Future Weeks TBD**
+| Monday          | February 3       | 7:30 PM - 9:00 PM EDT       | Milstein 512  |
+| Tuesday         | February 11      | 2:30 PM - 3:30 PM EDT       | Milstein 512  |
+| Wednesday       | February 12      | 10:30 AM - 11:30 AM EDT     | Milstein 512  |
+| Tuesday         | February 18      | 2:30 PM - 3:30 PM EDT       | Milstein 512  |
+| Wednesday       | February 19      | 10:30 AM - 11:30 AM EDT     | Milstein 512  |
+| Tuesday         | February 25      | 2:30 PM - 3:30 PM EDT       | Milstein 512  |
+| Wednesday       | February 26      | 10:30 AM - 11:30 AM EDT     | Milstein 512  |
+|                 |                  |                             |               |
+| Tuesday         | March 4          | **1:30 PM - 2:30 PM EDT**   | Milstein 512  |
+| Wednesday       | March 5          | 10:30 AM - 11:30 AM EDT     | Milstein 512  |
+| Tuesday         | March 11         | 2:30 PM - 3:30 PM EDT       | Milstein 512  |
+| Wednesday       | March 12         | 10:30 AM - 11:30 AM EDT     | Milstein 512  |
+| Tuesday         | March 25         | 2:30 PM - 3:30 PM EDT       | Milstein 512  |
+| Wednesday       | March 26         | 10:30 AM - 11:30 AM EDT     | Milstein 512  |
+|                 |                  |                             |               |
+| Tuesday         | April 1          | **1:30 PM - 2:30 PM EDT**   | Milstein 512  |
+| Wednesday       | April 2          | 10:30 AM - 11:30 AM EDT     | Milstein 512  |
+| Tuesday         | April 8          | 2:30 PM - 3:30 PM EDT       | Milstein 512  |
+| Wednesday       | April 9          | 10:30 AM - 11:30 AM EDT     | Milstein 512  |
+| Tuesday         | April 15         | 2:30 PM - 3:30 PM EDT       | Milstein 512  |
+| Wednesday       | April 16         | 10:30 AM - 11:30 AM EDT     | Milstein 512  |
+| Tuesday         | April 22         | 2:30 PM - 3:30 PM EDT       | Milstein 512  |
+| Wednesday       | April 23         | 10:30 AM - 11:30 AM EDT     | Milstein 512  |
+| Tuesday         | April 29         | 2:30 PM - 3:30 PM EDT       | Milstein 512  |
+| Wednesday       | April 30         | 10:30 AM - 11:30 AM EDT     | Milstein 512  |
+|                 |                  |                             |               |
+| Tuesday         | May 6            | **1:30 PM - 2:30 PM EDT**   | Milstein 512  |
 
 <!--
 | Day of the Week | Date             | Time                        | Location      |
