@@ -23,14 +23,14 @@ My Spring 2025 office hours schedule is below, with recent changes shown in **bo
 | Wednesday       | January 29       | 10:30 AM - 11:30 AM EDT     | Milstein 512  |
 |                 |                  |                             |               |
 | Monday          | February 3       | **7:30 PM - 8:30 PM EDT**   | Milstein 512  |
-| ~~Tuesday~~     | ~~February 11~~  | ~~1:45 PM - 2:45 PM EDT~~  | ~~Milstein 512~~ [**Cancelled**](#) |
+| ~~Tuesday~~     | ~~February 11~~  | ~~1:45 PM - 2:45 PM EDT~~   | ~~Milstein 512~~ [**Cancelled**](#) |
 | ~~Wednesday~~   | ~~February 12~~  | ~~10:30 AM - 11:30 AM EDT~~ | ~~Milstein 512~~ [**Cancelled**](#) |
 | Tuesday         | February 18      | 2:30 PM - 3:30 PM EDT       | Milstein 512  |
 | Wednesday       | February 19      | 10:30 AM - 11:30 AM EDT     | Milstein 512  |
 | Tuesday         | February 25      | 2:30 PM - 3:30 PM EDT       | Milstein 512  |
 | Wednesday       | February 26      | 10:30 AM - 11:30 AM EDT     | Milstein 512  |
 |                 |                  |                             |               |
-| Tuesday         | March 4          | **1:30 PM - 2:30 PM EDT**   | Milstein 512  |
+| Tuesday         | March 4          | **11:00 AM - 12:00 PM EDT** | Milstein 512  |
 | Wednesday       | March 5          | 10:30 AM - 11:30 AM EDT     | Milstein 512  |
 | Tuesday         | March 11         | 2:30 PM - 3:30 PM EDT       | Milstein 512  |
 | Wednesday       | March 12         | 10:30 AM - 11:30 AM EDT     | Milstein 512  |
