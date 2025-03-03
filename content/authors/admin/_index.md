@@ -102,6 +102,6 @@ I am an Assistant Professor of Computer Science at [Barnard College, Columbia Un
 
 My research is focused on **optimizing robotic systems at all scales** by developing, optimizing, implementing, and evaluating next-generation algorithms and edge computational systems, through algorithm-hardware-software co-design (e.g., [MPCGPU](/publication/mpcgpu), [GRiD](/publication/grid), [TinyMPC](/publication/tinympc)). As such, my research is at the intersection of Robotics and Computer Architecture, Embedded Systems, Numerical Optimization, and Machine Learning. 
 
-I also want to **promote a responsible, sustianable, and accessible future for robotics and edge computing**, including the development of new interdisciplinary, project-based, open-access courses that lower the barriers to entry for cutting-edge topics like robotics, parallel programming, and embedded machine learning (e.g., [Global TinyML Education](/publication/scalingtinyml4d), [Parallel Optimization for Robotics](/publication/paroptrobcourse)).
+I also want to **promote a responsible, sustainable, and accessible future for robotics and edge computing**, including the development of new interdisciplinary, project-based, open-access courses that lower the barriers to entry for cutting-edge topics like robotics, parallel programming, and embedded machine learning (e.g., [Global TinyML Education](/publication/scalingtinyml4d), [Parallel Optimization for Robotics](/publication/paroptrobcourse)).
 
 I enjoy spending my free time with my family and skiing in the winters.
