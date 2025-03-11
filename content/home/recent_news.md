@@ -50,6 +50,12 @@ title = "Recent News"
  css_class = ""
 +++
 
+<!-- **[2/24/25]** I was awarded a [Toyota Research Institute](https://www.tri.global/) Univerisity 2.0 Grant for [Uncertainty-Aware Optimization for Intelligent Control: Scaling Up by Leveraging Problem Structure and GPU Acceleration]()! -->
+
+**[2/15/25]** Registration is open for the [Optimization for Robotics Summer School](https://www.tcoptrob.org/summer-school-2025/) I am co-organizing July 14-18 at the [University of Patras](https://www.upatras.gr/en/) in Greece! Early-bird pricing is available until April 1st! Travel Awards and Fee Waivers are available due to support from an [IEEE-RAS Technical Education Program Grant](https://www.ieee-ras.org/educational-resources-outreach/technical-education-programs).
+
+**[12/23/24]** My workshop [RoboARCH: Robotics Acceleration with Computing Hardware and Systems](https://sites.google.com/view/roboarch-icra25) was accepted to the [2025 IEEE International Conference on Robotics and Automation](https://2025.ieee-icra.org/)! Consider submitting a poster (deadline April 1st)!
+
 <!-- **[9/14/24]** Come find us at the [2024 Northeast Robotics Colloquium](https://www.umass.edu/robotics/nerc2024)! We'll have a four posters and our PI will be giving a short talk! -->
 
 **[9/6/24]** I was awarded an [NSF CSSI Grant](https://new.nsf.gov/funding/opportunities/cssi-cyberinfrastructure-sustained-scientific-innovation) to build an [Accessible GPU-Accelerated Edge Optimal Control Library and Benchmarks](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2411369&HistoricalAwards=false)!
@@ -62,7 +68,7 @@ title = "Recent News"
 
 <!-- **[6/10/24]** Our lab's work was highlighted in the cover article on the Barnard website today: [Bringing Robotics to Barnard](https://barnard.edu/news/bringing-robotics-barnard)! -->
 
-**[6/7/24]** My international collaborators and I were awarded an [IEEE-RAS Technical Education Program Grant](https://www.ieee-ras.org/educational-resources-outreach/technical-education-programs) to run an "Optimization for Robotics Summer School" to be held in Summer 2025!
+<!-- **[6/7/24]** My international collaborators and I were awarded an [IEEE-RAS Technical Education Program Grant](https://www.ieee-ras.org/educational-resources-outreach/technical-education-programs) to run an "Optimization for Robotics Summer School" to be held in Summer 2025! -->
 
 **[5/16/24]** My lab's collaborative [TinyMPC](/publication/tinympc) paper won the [Best Paper in Automation](https://2024.ieee-icra.org/awards-and-finalists/) and was a finalist for Best Conference Paper and Best Student Paper at the [2024 IEEE International Conference on Robotics and Automation (ICRA)](https://2024.ieee-icra.org/)!
 
