@@ -53,7 +53,7 @@ tags:
 - Hands-on 
 - Projects
 
-featured: true
+featured: false
 outreach: false
 projects: []
 

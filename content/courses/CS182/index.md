@@ -31,7 +31,7 @@ tags:
 - Robot Motion Planning
 - Machine Learning
 
-featured: true
+featured: false
 outreach: false
 projects: []
 

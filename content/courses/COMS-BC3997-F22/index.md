@@ -58,7 +58,7 @@ tags:
 - Control
 - Machine Learning
 
-featured: true
+featured: false
 outreach: false
 projects: []
 

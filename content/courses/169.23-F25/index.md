@@ -1,14 +1,14 @@
 ---
 type: "courses"
-title: "COMS-BC3159-F24: Parallel Optimization for Robotics"
+title: "COSC 1/69.23-F25: Parallel Optimization for Robotics"
 position: "Instructor of Record"
-semesters: "Fall 2024"
-dayTime: "MW 1:10-2:25pm"
-room: "Milbank 405"
-credits: "3 Credits"
+semesters: "Fall 2025"
+dayTime: "2A"
+room: "TBD"
+credits: ""
 # Code used for list order
-semesterCode: "24.3"
-date: "2024-02-24T00:00:00Z"
+semesterCode: "25.3"
+date: "2025-05-09T00:00:00Z"
 subtype: "semester" # semester, MOOC, workshop, other
 
 # Course Overiew Abstract.
@@ -19,8 +19,8 @@ summary: "Many stages of state-of-the-art robotics pipelines rely on the solutio
 
 # learning outcomes for the course
 learningOutcomes:
-- Understand the opportunities and limitations of parallel programming on GPUs
-- Understand the opportunities and challenges of numerical optimization algorithms
+- Analyze the opportunities and limitations of parallel programming on GPUs
+- Evaluate the strengths and weaknesses of numerical optimization algorithms
 - Engage critically with recent research on parallel optimization algorithms for robotics
 - Collaborate with a team to develop and present an open-ended final project
 
@@ -32,17 +32,16 @@ learningOutcomes:
 # - 5% Attendance, Collaboration, and Participation
 
 prerequisites:
-- COMS W3157 Advanced Programming or CSEE W3827 Fundamentals of Computer Systems or Prior Experience with C(++) Programming ([e.g., pointers, arrays, and memory management](https://bit.ly/3159-S23-CppReview))
-- COMS W3251 Computational Linear Algebra (or equivalents)
-- MATH UN1201 Calculus III (or equivalents)
-- Please contact the instructor if you have relevant prior experience but do not have prerequisites
+- Multivariable Calculus (Math 8)
+- C(++) Programming (COSC 50). 
+- It would also be helpful to have prior experience with Linear Algebra/Optimization (Math 22 / COSC 70).
+- Contact the instructor if you have equivalent prior experience but do not have prerequisites ([e.g., pointers, arrays, and memory management](https://bit.ly/3159-S23-CppReview))
 
-enrollmentNote: "Enrollment Capped at 85 Students (Instructor Managed Waiting List See Note Below)"
-otherNote: "COMS BC3159 can count as an AFC course for Barnard students!"
+enrollmentNote: "Enrollment Capped at 45 Students"
 
-waitingList: "This class is capped at 85 students. This semester, I am handling the waitlist as an instructor-controlled waiting list. Students will be admitted based on a combination of seniority, interests in the class, and contributions to a diverse set of viewpoints and experiences in the class. Half of the available slots will be reserved for Barnard students (assuming sufficient demand). To be considered for the class, please join the waiting list **AND** fill out the form at [https://bit.ly/3159-F24-WL](https://bit.ly/3159-F24-WL), which asks a few questions about your background and your interests in the class."
+# waitingList: "This class is capped at 45 students. This semester, I am handling the waitlist as an instructor-controlled waiting list. Students will be admitted based on a combination of seniority, interests in the class, and contributions to a diverse set of viewpoints and experiences in the class. To be considered for the class, please join the waiting list **AND** fill out the form at [https://bit.ly/3159-F24-WL](https://bit.ly/3159-F24-WL), which asks a few questions about your background and your interests in the class."
 
-officeHours: "The most up-to-date schedule of office hours can be found [here](/office_hours). I will also try to respond to requests emailed to [bplancher+courses@barnard.edu](mailto:bplancher+courses@barnard.edu) within 36 hours during the weekdays and within 48 hours over the weekend. Faster response time will be achieved via the course Slack."
+officeHours: "The most up-to-date schedule of office hours can be found [here](/office_hours). I will also try to respond to requests emailed to [plancher+courses@dartmouth.edu](mailto:plancher+courses@dartmouth.edu) within 2 business days. Faster response time will be achieved via the course Slack."
 
 # Roles in the course
 roles: []
@@ -59,13 +58,13 @@ tags:
 - Hardware-Software Co-Design
 - Computer Architecture
 
-featured: false
+featured: true
 outreach: false
 projects: []
 
 links:
 - name: "Draft Syllabus"
-  url: "files/COMS_BC3159_F24_Syllabus.pdf"
+  url: "files/169.23_F25_Syllabus.pdf"
 
 # Featured image -- named `featured.jpg/png` in this folder. 
 image:

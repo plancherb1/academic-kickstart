@@ -50,7 +50,11 @@ title = "Recent News"
  css_class = ""
 +++
 
-<!-- **[2/24/25]** I was awarded a [Toyota Research Institute](https://www.tri.global/) Univerisity 2.0 Grant for [Uncertainty-Aware Optimization for Intelligent Control: Scaling Up by Leveraging Problem Structure and GPU Acceleration]()! -->
+**[5/11/25]** I will be moving to the [Department of Computer Science at Dartmouth College](https://web.cs.dartmouth.edu/) starting in Fall 2025!
+
+**[4/30/25]** I will be giving an [Autonomy Talk](https://gioele.science/autonomytalks.html) on May 20th at 11am Eastern!
+
+**[4/15/25]** I was awarded a [Toyota Research Institute](https://www.tri.global/) Univerisity 2.0 Grant for Uncertainty-Aware Optimization for Intelligent Control!
 
 **[2/15/25]** Registration is open for the [Optimization for Robotics Summer School](https://www.tcoptrob.org/summer-school-2025/) I am co-organizing July 14-18 at the [University of Patras](https://www.upatras.gr/en/) in Greece! Early-bird pricing is available until April 1st! Travel Awards and Fee Waivers are available due to support from an [IEEE-RAS Technical Education Program Grant](https://www.ieee-ras.org/educational-resources-outreach/technical-education-programs).
 

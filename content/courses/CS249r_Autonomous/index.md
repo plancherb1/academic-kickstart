@@ -36,7 +36,7 @@ tags:
 - Planning
 - Control
 
-featured: true
+featured: false
 outreach: false
 projects: [AcceleratingRobotics]
 

@@ -32,7 +32,7 @@ tags:
 - Women
 - Gender
 - Research
-featured: true
+featured: false
 
 awards: []
 

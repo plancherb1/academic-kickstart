@@ -13,12 +13,12 @@ superuser: true
 link_to_external_url: false
 
 # Role/position
-role: bplancher@barnard.edu
+role: plancher@dartmouth.edu
 
 # Organizations/Affiliations
 organizations:
-- name: "Barnard College, Columbia University"
-  url: "https://cs.barnard.edu/"
+- name: "Dartmouth College, Computer Science"
+  url: "https://web.cs.dartmouth.edu/"
 - name: He/Him/His
 
 # Short bio (displayed in user profile at end of posts)
@@ -58,7 +58,7 @@ social:
 #   link: files/cv.pdf
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:bplancher@barnard.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:plancher@dartmouth.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/brianplancher
@@ -74,9 +74,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Hys8HdsAAAAJ
-- icon: user-circle
-  icon_pack: far
-  link: https://cs.barnard.edu/profiles/brian-plancher
+# - icon: user-circle
+#   icon_pack: far
+#   link: https://cs.barnard.edu/profiles/brian-plancher
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -98,7 +98,7 @@ job_alert: #"My lab is **hiring for a postdoctoral researcher** with an ASAP sta
 
 ---
 -->
-I am an Assistant Professor of Computer Science at [Barnard College, Columbia University](https://cs.barnard.edu/) where I lead the [Accessible and Accelerated Robotics Lab (A²R Lab)](https://a2r-lab.org). I hold affiliate positions in the Department of [Computer Science](https://www.cs.columbia.edu/people/affiliates/) and [Electrical Engineering](https://www.ee.columbia.edu/content/brian-plancher) at the Fu Foundation School of Engineering and Applied Science, Columbia University. I am also a co-chair for the [Tiny Machine Learning Open Education Initiative (TinyMLedu)](https://tinymledu.org) and an associate co-chair for the [IEEE-RAS TC on Model Based Optimization for Robotics](https://tcoptrob.org).
+I am an incoming **Assistant Professor of Computer Science at [Dartmouth College](https://web.cs.dartmouth.edu/)** (starting Fall 2025) where I will continue to lead the [Accessible and Accelerated Robotics Lab (A²R Lab)](https://a2r-lab.org). I am currently an Assistant Professor of Computer Science at [Barnard College](https://cs.barnard.edu/) where I also hold affiliate positions in the Department of [Computer Science](https://www.cs.columbia.edu/people/affiliates/) and [Electrical Engineering](https://www.ee.columbia.edu/content/brian-plancher) at Columbia University. I am also a co-chair for the [Tiny Machine Learning Open Education Initiative (TinyMLedu)](https://tinymledu.org) and an associate co-chair for the [IEEE-RAS TC on Model Based Optimization for Robotics (TCOptRob)](https://tcoptrob.org).
 
 My research is focused on **optimizing robotic systems at all scales** by developing, optimizing, implementing, and evaluating next-generation algorithms and edge computational systems, through algorithm-hardware-software co-design (e.g., [MPCGPU](/publication/mpcgpu), [GRiD](/publication/grid), [TinyMPC](/publication/tinympc)). As such, my research is at the intersection of Robotics and Computer Architecture, Embedded Systems, Numerical Optimization, and Machine Learning. 
 

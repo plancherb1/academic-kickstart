@@ -37,7 +37,7 @@ tags:
 - MOOC
 - STEM Education
 
-featured: true
+featured: false
 outreach: false
 projects: [TinyMLedu,OpenSTEM]
 

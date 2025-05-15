@@ -53,7 +53,7 @@ tags:
 - Digital Logic
 - Computer Architecture
 
-featured: true
+featured: false
 outreach: false
 projects: []
 

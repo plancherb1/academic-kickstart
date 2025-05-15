@@ -8,14 +8,17 @@ type: "widget_page"  # Page type is a Widget Page
 Office hours are open to students in my classes, to students interested in computer science, robotics, embedded machine learning, and STEM education, or really to any students who would like to find some time for one-on-one, or small-group conversations, discussions, and questions. If that's you, you are welcome to drop in at any time during the office hours; no appointment needed.
 
 A few quick notes:
-1. If you want to do research with me, please follow the instructions on the [A²R Lab Join](https://a2r-lab.org/join) page.
-2. If you are asking for a letter of recommendation, please follow the instructions on the [FAQs](/faqs) page.
-3. If you are trying to meet me because I am your faculty advisor please come to office hours (see below) or email me to set up a different time at [bplancher+advising@barnard.edu](mailto:bplancher+advising@barnard.edu).
-4. I plan to hold these office hours in person in my office in Milstein 512 (unless noted below). If you want to meet via Zoom or would like to meet at a different time, please send me an email at [bplancher+meeting@barnard.edu](mailto:bplancher+meeting@barnard.edu). I will try to respond to emails within 2 business days.
+1. If you want to do **research** with me, please follow the instructions on the **[A²R Lab Join](https://a2r-lab.org/join) page**.
+2. If you are asking for a **letter of recommendation**, please follow the instructions on the **[FAQs](/faqs) page**.
+3. If you are trying to meet me because I am your **faculty advisor** please come to office hours (see below) or email me to set up a different time at [plancher+advising@dartmouth.edu](mailto:plancher+advising@dartmouth.edu).
+4. I plan to hold these office hours in person in my office unless noted below. If you want to meet via Zoom or would like to meet at a different time, please send me an email at [plancher+meeting@dartmouth.edu](mailto:plancher+meeting@dartmouth.edu). I will try to respond to emails within 2 business days.
 
-My Spring 2025 office hours schedule is below, with recent changes shown in **bold**. Updates to office hours will usually be noted at least one business day in advance, except for (rare) emergency cancellations.
+My Fall 2025 office hours schedule is below, with recent changes shown in **bold**. Updates to office hours will usually be noted at least one business day in advance, except for (rare) emergency cancellations.
 
 | Day of the Week | Date             | Time                        | Location      |
+|-----------------|------------------|-----------------------------|---------------|
+
+<!-- | Day of the Week | Date             | Time                        | Location      |
 |-----------------|------------------|-----------------------------|---------------|
 | Wednesday       | January 22       | 10:00 AM - 11:00 AM EDT     | Milstein 512  |
 | Wednesday       | January 22       | 8:00 PM - 9:00 PM EDT       | **A2R Lab Research Openings OH [on Zoom](https://brianplancher.com/zoom)**  |
@@ -45,7 +48,7 @@ My Spring 2025 office hours schedule is below, with recent changes shown in **bo
 | Wednesday       | April 23         | **9:00-9:30, 10:30-11:15 AM EDT**  | Milstein 512  |
 | Wednesday       | April 30         | **9:30-10:00, 10:30-11:30 AM EDT**  | Milstein 512  |
 |                 |                  |                             |               |
-| Tuesday         | May 6            | **10:00 AM - 11:00 AM EDT**   | Milstein 512  |
+| Tuesday         | May 6            | **10:00 AM - 11:00 AM EDT**   | Milstein 512  | -->
 
 <!--
 | Day of the Week | Date             | Time                        | Location      |
