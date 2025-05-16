@@ -36,7 +36,7 @@ links:
 # - name: PDF
 #   url: "https://arxiv.org/abs/2503.06757"
 url_pdf: 'https://arxiv.org/abs/2503.06757'
-url_code: ''
+url_code: 'https://github.com/CoMMALab/pRRTC'
 url_dataset: ''
 url_poster: ''
 url_project: ''
