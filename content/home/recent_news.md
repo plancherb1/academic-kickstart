@@ -50,9 +50,9 @@ title = "Recent News"
  css_class = ""
 +++
 
-**[5/11/25]** I will be moving to the [Department of Computer Science at Dartmouth College](https://web.cs.dartmouth.edu/) starting in Fall 2025!
+**[5/20/25]** I gave an [Autonomy Talk](https://gioele.science/autonomytalks.html)! You can find the [recording at this link](https://www.youtube.com/watch?v=zd-qV3XLR_k)!
 
-**[4/30/25]** I will be giving an [Autonomy Talk](https://gioele.science/autonomytalks.html) on May 20th at 11am Eastern!
+**[5/11/25]** I will be moving to the [Department of Computer Science at Dartmouth College](https://web.cs.dartmouth.edu/) starting in Fall 2025!
 
 **[4/15/25]** I was awarded a [Toyota Research Institute](https://www.tri.global/) Univerisity 2.0 Grant for Uncertainty-Aware Optimization for Intelligent Control!
 
