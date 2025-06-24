@@ -21,11 +21,11 @@ publishDate: "2025-04-24T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: #In *[2025 International Conference on Intelligent Robots and Systems](http://www.iros25.org/)*
-publication_short: #In *IROS 2025*
+publication: "In the *[2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](https://www.iros25.org/)*"
+publication_short: "In *IROS 2025*"
 
 abstract: "We present Phaser, a flexible system that directs narrow-beam laser light to moving robots for concurrent wireless power delivery and communication. We design a semi-automatic calibration procedure to enable fusion of stereo-vision-based 3D robot tracking with high-power beam steering, and a low-power optical communication scheme that reuses the laser light as a data channel. We fabricate a Phaser prototype using off-the-shelf hardware and evaluate its performance with battery-free autonomous robots. Phaser delivers optical power densities of over 110 mW/cm2 and error-free data to mobile robots at multi-meter ranges, with on-board decoding drawing 0.3 mA (97% less current than Bluetooth Low Energy). We demonstrate Phaser fully powering gram-scale battery-free robots to nearly 2x higher speeds than prior work while simultaneously controlling them to navigate around obstacles and along paths. Code, an open-source design guide, and a demonstration video of Phaser is available at https://mobilex.cs.columbia.edu/phaser."
 
