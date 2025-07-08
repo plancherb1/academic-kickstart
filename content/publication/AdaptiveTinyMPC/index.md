@@ -41,14 +41,14 @@ links:
     url: "https://tinympc.org/"
   - name: "ICRA-25 Workshop Abstract"
     url: "https://aerial-robotics-workshop-icra.com/wp-content/uploads/2025/05/Poster9.pdf"
-# url_pdf: 'https://arxiv.org/abs/2403.18149'
+url_pdf: 'http://arxiv.org/abs/2507.03231'
 url_code: 'https://github.com/tinympc'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/RUyk2p7OChg'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
