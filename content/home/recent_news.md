@@ -50,7 +50,7 @@ title = "Recent News"
  css_class = ""
 +++
 
-**[6/24/25]** I had 2 papers accepted to IROS 2025: [Robust and Efficient Embedded Convex Optimization through First-Order Adaptive Caching](/publication/adaptivetinympc/) and [Set Phasers to Stun: Beaming Power and Control to Mobile Robots with Laser Light](/publication/phaser/)! Also, I gave a talk and was on a panel at the [RSS 2025 Workshop on Fast Motion Planning and Control in the Era of Parallelism](https://sites.google.com/rice.edu/parallelized-planning-control/)! Recordings of the workshop will be posted soon.
+**[6/24/25]** I had 2 papers accepted to IROS 2025: [Robust and Efficient Embedded Convex Optimization through First-Order Adaptive Caching](/publication/adaptivetinympc/) and [Set Phasers to Stun: Beaming Power and Control to Mobile Robots with Laser Light](/publication/phaser/)! Also, I gave a talk and was on a panel at the [RSS 2025 Workshop on Fast Motion Planning and Control in the Era of Parallelism](https://sites.google.com/rice.edu/parallelized-planning-control/)! Recordings are on the workshop website.
 
 **[5/20/25]** I gave an [Autonomy Talk](https://gioele.science/autonomytalks.html)! You can find the [recording at this link](https://www.youtube.com/watch?v=zd-qV3XLR_k)!
 
