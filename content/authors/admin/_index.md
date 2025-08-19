@@ -74,9 +74,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Hys8HdsAAAAJ
-# - icon: user-circle
-#   icon_pack: far
-#   link: https://cs.barnard.edu/profiles/brian-plancher
+- icon: user-circle
+  icon_pack: far
+  link: https://faculty-directory.dartmouth.edu/brian-k-plancher
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

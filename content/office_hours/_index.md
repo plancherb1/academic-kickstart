@@ -5,9 +5,9 @@ date: "2022-05-09T00:00:00Z"  # Add today's date
 type: "widget_page"  # Page type is a Widget Page
 ---
 
-Office hours are open to students in my classes, to students interested in computer science, robotics, embedded machine learning, and STEM education, or really to any students who would like to find some time for one-on-one, or small-group conversations, discussions, and questions. If that's you, you are welcome to drop in at any time during the office hours; no appointment needed.
+Office hours are open to students in my classes, to students interested in computer science, robotics, embedded machine learning, and STEM education, or really to any students who would like to find some time for one-on-one, or small-group conversations, discussions, and questions. If that's you, you are welcome to drop in at any time during the office hours; no appointment needed. Office hours are usually held in ECSC 117 and occasionally on [Zoom](https://brianplancher.com/zoom) please see below for specific locations and times and please reach out if you have additional questions.
 
-A few quick notes:
+A few quick notes to help you make the best use of office hours:
 1. If you want to do **research** with me, please follow the instructions on the **[A²R Lab Join](https://a2r-lab.org/join) page**.
 2. If you are asking for a **letter of recommendation**, please follow the instructions on the **[FAQs](/faqs) page**.
 3. If you are trying to meet me because I am your **faculty advisor** please come to office hours (see below) or email me to set up a different time at [plancher+advising@dartmouth.edu](mailto:plancher+advising@dartmouth.edu).
@@ -15,8 +15,20 @@ A few quick notes:
 
 My Fall 2025 office hours schedule is below, with recent changes shown in **bold**. Updates to office hours will usually be noted at least one business day in advance, except for (rare) emergency cancellations.
 
-| Day of the Week | Date             | Time                        | Location      |
-|-----------------|------------------|-----------------------------|---------------|
+| Day of the Week | Date             | Time                    | Location |
+|-----------------|------------------|-------------------------|----------|
+| Wednesday       | September 17     | 10:30 AM - 11:30 AM EDT | ECSC 117 |
+| Wednesday       | September 24     | 10:30 AM - 11:30 AM EDT | ECSC 117 |
+|                 |                  |                         |          |
+| Wednesday       | October 1        | 10:30 AM - 11:30 AM EDT | ECSC 117 |
+| Wednesday       | October 8        | 10:30 AM - 11:30 AM EDT | ECSC 117 |
+| Wednesday       | October 15       | 10:30 AM - 11:30 AM EDT | ECSC 117 |
+| Wednesday       | October 22       | 10:30 AM - 11:30 AM EDT | ECSC 117 |
+| Wednesday       | October 29       | 10:30 AM - 11:30 AM EDT | ECSC 117 |
+|                 |                  |                         |          |
+| Wednesday       | November 5       | 10:30 AM - 11:30 AM EDT | ECSC 117 |
+| Wednesday       | November 12      | 10:30 AM - 11:30 AM EDT | ECSC 117 |
+| Wednesday       | November 19      | 10:30 AM - 11:30 AM EDT | ECSC 117 |
 
 <!-- | Day of the Week | Date             | Time                        | Location      |
 |-----------------|------------------|-----------------------------|---------------|

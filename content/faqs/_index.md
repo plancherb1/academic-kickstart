@@ -18,7 +18,7 @@ In order to make sure I can write good letters of recommendation, all of the fol
 
 For many students, this is easy to satisfy. For example, researchers in my lab easily satisfy all of the criteria above! If you do not qualify based on all of the criteria above, but still think I am the best person to write you a letter, exceptions may be made in some cases. Please make sure to explain in detail why you think an exception should be made!
 
-If you are eligible for a letter, please send me an email to bplancher+advising@barnard.edu with all of the following:
+If you are eligible for a letter, please send me an email to plancher+advising@dartmouth.edu with all of the following:
 + The deadline and where/how to submit the letter.
 + Details about what the letter is for, preferably a URL to whatever you're applying to.
 + Your latest transcript and CV/resume.
