@@ -5,7 +5,7 @@ date: "2022-05-09T00:00:00Z"  # Add today's date
 type: "widget_page"  # Page type is a Widget Page
 ---
 
-Office hours are open to students in my classes, to students interested in computer science, robotics, embedded machine learning, and STEM education, or really to any students who would like to find some time for one-on-one, or small-group conversations, discussions, and questions. If that's you, you are welcome to drop in at any time during the office hours; no appointment needed. Office hours are usually held in ECSC 117 and occasionally on [Zoom](https://brianplancher.com/zoom) please see below for specific locations and times and please reach out if you have additional questions.
+Office hours are open to students in my classes, to students interested in computer science, robotics, embedded machine learning, and STEM education, or really to any students who would like to find some time for one-on-one, or small-group conversations, discussions, and questions. If that's you, you are welcome to drop in at any time during the office hours; no appointment needed. Office hours are usually held in ECSC 107 and occasionally on [Zoom](https://brianplancher.com/zoom) please see below for specific locations and times and please reach out if you have additional questions.
 
 A few quick notes to help you make the best use of office hours:
 1. If you want to do **research** with me, please follow the instructions on the **[A²R Lab Join](https://a2r-lab.org/join) page**.
@@ -17,18 +17,18 @@ My Fall 2025 office hours schedule is below, with recent changes shown in **bold
 
 | Day of the Week | Date             | Time                    | Location |
 |-----------------|------------------|-------------------------|----------|
-| Wednesday       | September 17     | 10:30 AM - 11:30 AM EDT | ECSC 117 |
-| Wednesday       | September 24     | 10:30 AM - 11:30 AM EDT | ECSC 117 |
+| Wednesday       | September 17     | 10:30 AM - 11:30 AM EDT | ECSC TBD due to Office Move-In Timing |
+| Wednesday       | September 24     | 10:30 AM - 11:30 AM EDT | ECSC 107 |
 |                 |                  |                         |          |
-| Wednesday       | October 1        | 10:30 AM - 11:30 AM EDT | ECSC 117 |
-| Wednesday       | October 8        | 10:30 AM - 11:30 AM EDT | ECSC 117 |
-| Wednesday       | October 15       | 10:30 AM - 11:30 AM EDT | ECSC 117 |
-| Wednesday       | October 22       | 10:30 AM - 11:30 AM EDT | ECSC 117 |
-| Wednesday       | October 29       | 10:30 AM - 11:30 AM EDT | ECSC 117 |
+| Wednesday       | October 1        | 10:30 AM - 11:30 AM EDT | ECSC 107 |
+| Wednesday       | October 8        | 10:30 AM - 11:30 AM EDT | ECSC 107 |
+| Wednesday       | October 15       | 10:30 AM - 11:30 AM EDT | ECSC 107 |
+| Wednesday       | October 22       | 10:30 AM - 11:30 AM EDT | ECSC 107 |
+| Wednesday       | October 29       | 10:30 AM - 11:30 AM EDT | ECSC 107 |
 |                 |                  |                         |          |
-| Wednesday       | November 5       | 10:30 AM - 11:30 AM EDT | ECSC 117 |
-| Wednesday       | November 12      | 10:30 AM - 11:30 AM EDT | ECSC 117 |
-| Wednesday       | November 19      | 10:30 AM - 11:30 AM EDT | ECSC 117 |
+| Wednesday       | November 5       | 10:30 AM - 11:30 AM EDT | ECSC 107 |
+| Wednesday       | November 12      | 10:30 AM - 11:30 AM EDT | ECSC 107 |
+| Wednesday       | November 19      | 10:30 AM - 11:30 AM EDT | ECSC 107 |
 
 <!-- | Day of the Week | Date             | Time                        | Location      |
 |-----------------|------------------|-----------------------------|---------------|
