@@ -4,7 +4,7 @@ title: "COSC 1/69.23-F25: Parallel Optimization for Robotics"
 position: "Instructor of Record"
 semesters: "Fall 2025"
 dayTime: "2A"
-room: "TBD"
+room: "ECSC B10"
 credits: ""
 # Code used for list order
 semesterCode: "25.3"
