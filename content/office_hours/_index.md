@@ -17,18 +17,18 @@ My Fall 2025 office hours schedule is below, with recent changes shown in **bold
 
 | Day of the Week | Date             | Time                    | Location |
 |-----------------|------------------|-------------------------|----------|
-| Wednesday       | September 17     | 10:30 AM - 11:30 AM EDT | ECSC TBD due to Office Move-In Timing |
-| Wednesday       | September 24     | 10:30 AM - 11:30 AM EDT | ECSC 107 |
+| Thursday        | September 18     | 1:15 PM - 2:15 PM EDT   | ECSC TBD due to Office Move-In Timing |
+| Thursday        | September 25     | 1:15 PM - 2:15 PM EDT   | ECSC 107 |
 |                 |                  |                         |          |
-| Wednesday       | October 1        | 10:30 AM - 11:30 AM EDT | ECSC 107 |
-| Wednesday       | October 8        | 10:30 AM - 11:30 AM EDT | ECSC 107 |
-| Wednesday       | October 15       | 10:30 AM - 11:30 AM EDT | ECSC 107 |
-| Wednesday       | October 22       | 10:30 AM - 11:30 AM EDT | ECSC 107 |
-| Wednesday       | October 29       | 10:30 AM - 11:30 AM EDT | ECSC 107 |
+| Thursday        | October 2        | 1:15 PM - 2:15 PM EDT   | ECSC 107 |
+| Thursday        | October 9        | 1:15 PM - 2:15 PM EDT   | ECSC 107 |
+| Thursday        | October 16       | 1:15 PM - 2:15 PM EDT   | ECSC 107 |
+| Thursday        | October 23       | 1:15 PM - 2:15 PM EDT   | ECSC 107 |
+| Thursday        | October 30       | 1:15 PM - 2:15 PM EDT   | ECSC 107 |
 |                 |                  |                         |          |
-| Wednesday       | November 5       | 10:30 AM - 11:30 AM EDT | ECSC 107 |
-| Wednesday       | November 12      | 10:30 AM - 11:30 AM EDT | ECSC 107 |
-| Wednesday       | November 19      | 10:30 AM - 11:30 AM EDT | ECSC 107 |
+| Thursday        | November 6       | 1:15 PM - 2:15 PM EDT   | ECSC 107 |
+| Thursday        | November 13      | 1:15 PM - 2:15 PM EDT   | ECSC 107 |
+| Thursday        | November 20      | 1:15 PM - 2:15 PM EDT   | ECSC 107 |
 
 <!-- | Day of the Week | Date             | Time                        | Location      |
 |-----------------|------------------|-----------------------------|---------------|
