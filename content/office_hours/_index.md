@@ -17,7 +17,7 @@ My Fall 2025 office hours schedule is below, with recent changes shown in **bold
 
 | Day of the Week | Date             | Time                    | Location |
 |-----------------|------------------|-------------------------|----------|
-| Thursday        | September 18     | 1:15 PM - 2:15 PM EDT   | ECSC TBD due to Office Move-In Timing |
+| Thursday        | September 18     | 1:15 PM - 2:15 PM EDT   | ECSC 107 |
 | Thursday        | September 25     | 1:15 PM - 2:15 PM EDT   | ECSC 107 |
 |                 |                  |                         |          |
 | Thursday        | October 2        | 1:15 PM - 2:15 PM EDT   | ECSC 107 |
