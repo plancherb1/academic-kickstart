@@ -1,12 +1,14 @@
 ---
-title: "Code Generation for Conic Model-Predictive Control on Microcontrollers with TinyMPC"
+title: "Code Generation and Conic Constraints for Model-Predictive Control on Microcontrollers with Conic-TinyMPC"
 authors:
-- SamSchoedel
+- IshaanMahajan
 - KhaiNguyen
+- SamSchoedel
 - ElakhyaNedumaran
+- MoisesMata
 - admin
 - ZacharyManchester
-date: "2024-03-26T00:00:00Z"
+date: "2025-10-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,13 +21,13 @@ publishDate: "2024-03-26T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-# publication: In *[2024 IEEE Conference on Decision and Control (CDC)](https://cdc2024.ieeecss.org/)*
-# publication_short: In *CDC 2024*
+# publication: In *[2026 IEEE International Conference on Robotics and Automation (ICRA)](https://2026.ieee-icra.org/)*
+# publication_short: In *ICRA 2026*
 
-abstract: "Conic constraints appear in many important control applications like legged locomotion, robotic manipulation, and autonomous rocket landing. However, current solvers for conic optimization problems have relatively heavy computational demands in terms of both floating-point operations and memory footprint, making them impractical for use on small embedded devices. We extend TinyMPC, an open-source, high-speed solver targeting low-power embedded control applications, to handle second-order cone constraints. We also present code-generation software to enable deployment of TinyMPC on a variety of microcontrollers. We benchmark our generated code against state-of-the-art embedded QP and SOCP solvers, demonstrating a two-order-of-magnitude speed increase over ECOS while consuming less memory. Finally, we demonstrate TinyMPC's efficacy on the Crazyflie, a lightweight, resource-constrained quadrotor with fast dynamics. TinyMPC and its code-generation tools are publicly available at [tinympc.org](https://tinympc.org/)."
+abstract: "Model-predictive control (MPC) is a powerful framework for controlling dynamic systems under constraints, but it remains challenging to deploy on resource-constrained platforms, especially for problems involving conic constraints. To address this, we extend recent work developing fast, structure-exploiting, cached ADMM solvers for embedded applications, to provide support for second-order cones, as well as `C++` code generation from `Python`, `MATLAB`, and `Julia` for easy deployment. Microcontroller benchmarks show that our solver provides up to a two-order-of-magnitude speedup, ranging from 10.6x to 142.7x, over state-of-the-art embedded solvers on QP and SOCP problems, and enables us to fit order-of-magnitude larger problems in memory. We validate our solver's deployed performance through simulation and hardware experiments, including conically-constrained trajectory tracking on a 27g Crazyflie quadrotor. To get started with Conic-TinyMPC, visit our documentation, examples, and the open-source codebase at [tinympc.org](https://tinympc.org/)."
 
 # Summary. An optional shortened abstract. Can also be used as a summary for an extended abstract or poster etc.
-summary: "We extend TinyMPC, an open-source, high-speed solver targeting low-power embedded control applications, to handle second-order cone constraints. We also present code-generation software to enable deployment of TinyMPC on a variety of microcontrollers. We benchmark our generated code against state-of-the-art embedded QP and SOCP solvers, demonstrating a two-order-of-magnitude speed increase over ECOS while consuming less memory. Finally, we demonstrate TinyMPC's efficacy on the Crazyflie, a lightweight, resource-constrained quadrotor with fast dynamics. TinyMPC and its code-generation tools are publicly available at [tinympc.org](https://tinympc.org/)."
+summary: "We extend TinyMPC, an open-source, high-speed solver targeting low-power embedded control applications, to provide support for second-order cones, as well as `C++` code generation from `Python`, `MATLAB`, and `Julia` for easy deployment. Microcontroller benchmarks show that our solver provides up to a two-order-of-magnitude speedup, ranging from 10.6x to 142.7x, over state-of-the-art embedded solvers on QP and SOCP problems, and enables us to fit order-of-magnitude larger problems in memory. We validate our solver's deployed performance through simulation and hardware experiments, including conically-constrained trajectory tracking on a 27g Crazyflie quadrotor. To get started with Conic-TinyMPC, visit our documentation, examples, and the open-source codebase at [tinympc.org](https://tinympc.org/)."
 
 tags:
 - Model Predictive Control
