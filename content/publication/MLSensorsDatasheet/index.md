@@ -2,14 +2,18 @@
 title: "Datasheets for Machine Learning Sensors"
 authors:
 - MatthewStewart
+- YukeZhang
 - PeteWarden
 - YasmineOmri
 - ShvetankPrakash
+- JacobHuckelberry
 - JoaoSantos
 - ShawnHymel
 - BenjaminBrown
 - JimMacArthur
 - NatJeffries
+- EmanuelMoss
+- MonaSloane
 - admin
 - VijayJanapaReddi
 date: "2023-06-15T00:00:00Z"
@@ -28,10 +32,10 @@ publication_types: ["3"]
 # publication: In *[2023 Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track](https://neurips.cc/Conferences/2023)*
 # publication_short: In *NeurIPS Datasets and Benchmarks 2023*
 
-abstract: "Machine learning (ML) sensors offer a new paradigm for sensing that enables intelligence at the edge while empowering end-users with greater control of their data. As these ML sensors play a crucial role in the development of intelligent devices, clear documentation of their specifications, functionalities, and limitations is pivotal. This paper introduces a standard datasheet template for ML sensors and discusses its essential components inluding: the system's hardware, ML model and dataset attributes, end-to-end performance metrics, and environmental impact. We provide an example datasheet for our own ML sensor and discuss each section in detail. We highlight how these datasheets can facilitate better understanding and utilization of sensor data in ML applications, and we provide objective measures upon which system performance can be evaluated and compared. Together, ML sensors and their datasheets provide greater privacy, security, transparency, explainability, auditability, and user-friendliness for ML-enabled embedded systems. We conclude by emphasizing the need for standardization of datasheets across the broader ML community to ensure the responsible and effective use of sensor data."
+abstract: "Machine learning (ML) is becoming prevalent in embedded AI sensing systems. These 'ML sensors' enable context-sensitive, real-time data collection and decision-making across diverse applications ranging from anomaly detection in industrial settings to wildlife tracking for conservation efforts. As such, there is a need to provide transparency in the operation of such ML-enabled sensing systems through comprehensive documentation. This is needed to enable their reproducibility, to address new compliance and auditing regimes mandated in regulation and industry-specific policy, and to verify and validate the responsible nature of their operation. To address this gap, we introduce the datasheet for ML sensors framework. We provide a comprehensive template, collaboratively developed in academia-industry partnerships, that captures the distinct attributes of ML sensors, including hardware specifications, ML model and dataset characteristics, end-to-end performance metrics, and environmental impacts. Our framework addresses the continuous streaming nature of sensor data, real-time processing requirements, and embeds benchmarking methodologies that reflect real-world deployment conditions, ensuring practical viability. Aligned with the FAIR principles (Findability, Accessibility, Interoperability, and Reusability), our approach enhances the transparency and reusability of ML sensor documentation across academic, industrial, and regulatory domains. To show the application of our approach, we present two datasheets: the first for an open-source ML sensor designed in-house and the second for a commercial ML sensor developed by industry collaborators, both performing computer vision-based person detection."
 
 # Summary. An optional shortened abstract. Can also be used as a summary for an extended abstract or poster etc.
-summary: "This paper introduces a standard datasheet template for ML sensors and discusses its essential components inluding: the system's hardware, ML model and dataset attributes, end-to-end performance metrics, and environmental impact. We provide an example datasheet for our own ML sensor and discuss each section in detail. We highlight how these datasheets can facilitate better understanding and utilization of sensor data in ML applications, and we provide objective measures upon which system performance can be evaluated and compared."
+summary: "We introduce the datasheet for ML sensors framework. We provide a comprehensive template, collaboratively developed in academia-industry partnerships, that captures the distinct attributes of ML sensors, including hardware specifications, ML model and dataset characteristics, end-to-end performance metrics, and environmental impacts. Our framework addresses the continuous streaming nature of sensor data, real-time processing requirements, and embeds benchmarking methodologies that reflect real-world deployment conditions, ensuring practical viability."
 
 tags:
 - ML Sensors
