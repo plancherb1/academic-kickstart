@@ -27,7 +27,7 @@ My Fall 2025 office hours schedule is below, with recent changes shown in **bold
 | Thursday        | October 30       | 1:15 PM - 2:15 PM EDT   | ECSC 107 |
 |                 |                  |                         |          |
 | **Wednesday**   | **November 5**   | **4:30 PM - 5:30 PM EDT** | ECSC 107 |
-| Thursday        | November 13      | 1:15 PM - 2:15 PM EDT   | ECSC 107 |
+| ~~Thursday~~        | ~~November 13~~      | ~~1:15 PM - 2:15 PM EDT~~   | ~~ECSC 107~~ **Canceled Sick Kids!**|
 | Thursday        | November 20      | 1:15 PM - 2:15 PM EDT   | ECSC 107 |
 
 <!-- | Day of the Week | Date             | Time                        | Location      |
