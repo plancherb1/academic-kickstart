@@ -5,6 +5,12 @@ date: "2022-05-09T00:00:00Z"  # Add today's date
 type: "widget_page"  # Page type is a Widget Page
 ---
 
+---
+
+**I will be on parental leave for much of both the Winter and Spring 2026 terms. As such I will not have formal office hours during those terms. Please email me if you would like to get in touch and apologies for the potential delay in response. Regular office hours will start back up in Fall 2026.**
+
+---
+
 Office hours are open to students in my classes, to students interested in computer science, robotics, embedded machine learning, and STEM education, or really to any students who would like to find some time for one-on-one, or small-group conversations, discussions, and questions. If that's you, you are welcome to drop in at any time during the office hours; no appointment needed. Office hours are usually held in ECSC 107 and occasionally on [Zoom](https://brianplancher.com/zoom) please see below for specific locations and times and please reach out if you have additional questions.
 
 A few quick notes to help you make the best use of office hours:
@@ -13,9 +19,9 @@ A few quick notes to help you make the best use of office hours:
 3. If you are trying to meet me because I am your **faculty advisor** please come to office hours (see below) or email me to set up a different time at [plancher+advising@dartmouth.edu](mailto:plancher+advising@dartmouth.edu).
 4. I plan to hold these office hours in person in my office unless noted below. If you want to meet via Zoom or would like to meet at a different time, please send me an email at [plancher+meeting@dartmouth.edu](mailto:plancher+meeting@dartmouth.edu). I will try to respond to emails within 2 business days.
 
-My Fall 2025 office hours schedule is below, with recent changes shown in **bold**. Updates to office hours will usually be noted at least one business day in advance, except for (rare) emergency cancellations.
+<!-- My Fall 2025 office hours schedule is below, with recent changes shown in **bold**. Updates to office hours will usually be noted at least one business day in advance, except for (rare) emergency cancellations. -->
 
-| Day of the Week | Date             | Time                    | Location |
+<!-- | Day of the Week | Date             | Time                    | Location |
 |-----------------|------------------|-------------------------|----------|
 | Thursday        | September 18     | 1:15 PM - 2:15 PM EDT   | ECSC 107 |
 | Thursday        | September 25     | 1:15 PM - 2:15 PM EDT   | ECSC 107 |
@@ -28,7 +34,7 @@ My Fall 2025 office hours schedule is below, with recent changes shown in **bold
 |                 |                  |                         |          |
 | **Wednesday**   | **November 5**   | **4:30 PM - 5:30 PM EDT** | ECSC 107 |
 | ~~Thursday~~        | ~~November 13~~      | ~~1:15 PM - 2:15 PM EDT~~   | ~~ECSC 107~~ **Canceled Sick Kids!**|
-| Thursday        | November 20      | 1:15 PM - 2:15 PM EDT   | ECSC 107 |
+| Thursday        | November 20      | 1:15 PM - 2:15 PM EDT   | ECSC 107 | -->
 
 <!-- | Day of the Week | Date             | Time                        | Location      |
 |-----------------|------------------|-----------------------------|---------------|
