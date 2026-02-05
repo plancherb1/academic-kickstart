@@ -5,7 +5,7 @@ authors:
 - EmreAdabag
 - GabrielBravo
 - admin
-date: "2025-10-09T10:00:00Z"
+date: "2026-06-01T10:00:01Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,11 +15,11 @@ publishDate: "2025-10-09T10:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: #In *[2026 International Conference on Robotics and Automation (ICRA)](https://2026.ieee-icra.org/)*
-publication_short: #In *ICRA 2026*
+publication: In *[2026 International Conference on Robotics and Automation (ICRA)](https://2026.ieee-icra.org/)*
+publication_short: In *ICRA 2026*
 
 abstract: "While Model Predictive Control (MPC) delivers strong performance across robotics applications, solving the underlying (batches of) nonlinear trajectory optimization (TO) problems online remains computationally demanding. Existing GPU-accelerated approaches typically (i) parallelize a single solve to meet real-time deadlines, (ii) scale to very large batches at slower-than-real-time rates, or (iii) achieve speed by restricting model generality (e.g., point-mass dynamics or a single linearization). This leaves a large gap in solver performance for many state-of-the-art MPC applications that require real-time batches of tens to low-hundreds of solves. As such, we present GATO, an open source, GPU-accelerated, batched TO solver co-designed across algorithm, software, and computational hardware to deliver real-time throughput for these moderate batch size regimes. Our approach leverages a combination of block-, warp-, and thread-level parallelism within and across solves for ultra-high performance. We demonstrate the effectiveness of our approach through a combination of: simulated benchmarks showing speedups of 18-21x over CPU baselines and 1.4-16x over GPU baselines as batch size increases; case studies highlighting improved disturbance rejection and convergence behavior; and finally a validation on hardware using an industrial manipulator. We open source GATO to support reproducibility and adoption."
 

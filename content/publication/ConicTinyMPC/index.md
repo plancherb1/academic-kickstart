@@ -8,7 +8,7 @@ authors:
 - MoisesMata
 - admin
 - ZacharyManchester
-date: "2025-10-06T00:00:00Z"
+date: "2026-06-01T10:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,11 +18,11 @@ publishDate: "2024-03-26T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent; 9 = Workshop / Poster; 10 = Magazine Article
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-# publication: In *[2026 IEEE International Conference on Robotics and Automation (ICRA)](https://2026.ieee-icra.org/)*
-# publication_short: In *ICRA 2026*
+publication: In *[2026 IEEE International Conference on Robotics and Automation (ICRA)](https://2026.ieee-icra.org/)*
+publication_short: In *ICRA 2026*
 
 abstract: "Model-predictive control (MPC) is a powerful framework for controlling dynamic systems under constraints, but it remains challenging to deploy on resource-constrained platforms, especially for problems involving conic constraints. To address this, we extend recent work developing fast, structure-exploiting, cached ADMM solvers for embedded applications, to provide support for second-order cones, as well as `C++` code generation from `Python`, `MATLAB`, and `Julia` for easy deployment. Microcontroller benchmarks show that our solver provides up to a two-order-of-magnitude speedup, ranging from 10.6x to 142.7x, over state-of-the-art embedded solvers on QP and SOCP problems, and enables us to fit order-of-magnitude larger problems in memory. We validate our solver's deployed performance through simulation and hardware experiments, including conically-constrained trajectory tracking on a 27g Crazyflie quadrotor. To get started with Conic-TinyMPC, visit our documentation, examples, and the open-source codebase at [tinympc.org](https://tinympc.org/)."
 

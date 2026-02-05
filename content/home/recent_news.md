@@ -49,6 +49,12 @@ title = "Recent News"
  # CSS class.
  css_class = ""
 +++
+**[1/31/26]** I had 5 papers accepted to ICRA 2026 (including an RA-L transfer)!
++ [GATO: GPU-Accelerated and Batched Trajectory Optimization for Scalable Edge Model Predictive Control](/publication/gato/)
++ [pRRTC: GPU-Parallel RRT-Connect for Fast, Consistent, and Low-Cost Motion Planning](/publication/prrtc/)
++ [Code Generation and Conic Constraints for Model-Predictive Control on Microcontrollers with Conic-TinyMPC](/publication/conictinympc/)
++ [TAG-K: Tail-Averaged Greedy Kaczmarz for Computationally Efficient and Performant Online Inertial Parameter Estimation](/publication/kaczmarz/)
++ [RoboPrec: Enabling Reliable Embedded Computing for Robotics by Providing Accuracy Guarantees Across Mixed-Precision Datatypes (RA-L Transfer)](/publication/roboprec/)
 
 **[10/24/25]** I was awarded a [Toyota Research Institute](https://www.tri.global/) Univerisity 3.0 Grant to continue and expand our project on Real-Time Uncertainty-Aware Optimization for Intelligent Control!
 

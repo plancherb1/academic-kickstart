@@ -8,7 +8,7 @@ authors:
 - IshaanMahajan
 - GabrielBravo
 - admin
-date: "2025-10-06T00:00:00Z"
+date: "2026-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,11 +18,11 @@ publishDate: "2025-10-06T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent; 9 = Workshop / Poster; 10 = Magazine Article
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-# publication: In *[2026 IEEE International Conference on Robotics and Automation (ICRA)](https://2026.ieee-icra.org/)*
-# publication_short: In *ICRA 2026*
+publication: In *[2026 IEEE International Conference on Robotics and Automation (ICRA)](https://2026.ieee-icra.org/)*
+publication_short: In *ICRA 2026*
 
 abstract: "Accurate online inertial parameter estimation is essential for adaptive robotic control, enabling real-time adjustment to payload changes, environmental interactions, and system wear. Traditional methods such as Recursive Least Squares (RLS) and the Kalman Filter (KF) often struggle to track abrupt parameter shifts or incur high computational costs, limiting their effectiveness in dynamic environments and for computationally constrained robotic systems. As such, we introduce TAG-K, a lightweight extension of the Kaczmarz method that combines greedy randomized row selection for rapid convergence with tail averaging for robustness under noise and inconsistency. This design enables fast, stable parameter adaptation while retaining the low per-iteration complexity inherent to the Kaczmarz framework. We evaluate TAG-K in synthetic benchmarks and quadrotor tracking tasks against RLS, KF, and other Kaczmarz variants. TAG-K achieves 1.5x-1.9x faster solve times on laptop-class CPUs and 4.8x-20.7x faster solve times on embedded microcontrollers. More importantly, these speedups are paired with improved resilience to measurement noise and a 25% reduction in estimation error, leading to nearly 2x better end-to-end tracking performance."
 
