@@ -39,8 +39,8 @@ featured: false
 awards: []
 
 links:
-#   - name: "Website"
-#     url: "https://tinympc.org/"
+  - name: "Project Website"
+    url: "https://a2r-lab.org/TAG-K/"
 url_pdf: 'https://arxiv.org/abs/2510.04839'
 url_code: 'https://github.com/a2r-lab/TAG-K'
 url_dataset: ''
