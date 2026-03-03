@@ -12,7 +12,7 @@ authors:
 - admin
 - XiaZhou
 date: "2025-04-24T00:00:00Z"
-doi: ""
+doi: "10.1109/IROS60139.2025.11247512"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-04-24T00:00:00Z"

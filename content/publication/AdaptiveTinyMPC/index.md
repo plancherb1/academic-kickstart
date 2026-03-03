@@ -4,7 +4,7 @@ authors:
 - IshaanMahajan
 - admin
 date: "2025-06-20T00:00:00Z"
-doi: ""
+doi: "10.1109/IROS60139.2025.11246255"
 
 # Schedule page publish date (NOT publication's date).
 date: "2025-06-20T00:00:00Z"
