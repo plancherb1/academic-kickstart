@@ -5,7 +5,7 @@ authors:
 - MarcusGreiff
 - JohnSubosits
 - admin
-date: "2025-11-11T00:00:00Z"
+date: "2026-07-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,11 +15,11 @@ publishDate: "2025-11-11T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: #In *[2026 European Control Conference (ECC)](https://ecc26.euca-ecc.org/)*
-publication_short: #In *ECC 2026*
+publication: In *[2026 European Control Conference (ECC)](https://ecc26.euca-ecc.org/)*
+publication_short: In *ECC 2026*
 
 abstract: "Proximal methods such as the Alternating Direction Method of Multipliers (ADMM) are effective at solving constrained quadratic programs (QPs). To tackle infeasible QPs, slack variables are often introduced to ensure feasibility, which changes the structure of the problem, increases its size, and slows down numerical resolution. In this letter, we propose a simple ADMM scheme to tackle QPs with slack variables without increasing the size of the original problem. The only modification is a slightly different projection in the z-update, while the rest of the algorithm remains standard. We prove that the method is equivalent to applying ADMM to the QP with additional slack variables, even though slack variables are not added. Numerical experiments show speedups of the approach."
 
