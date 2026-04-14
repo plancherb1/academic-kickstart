@@ -4,8 +4,8 @@ authors:
 - JonathanKent
 - ElianaStefani
 - admin
-date: "2025-12-02T00:00:00Z"
-doi: ""
+date: "2026-04-09T00:00:00Z"
+doi: "10.1109/LRA.2026.3682525"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-12-02T00:00:00Z"
@@ -14,19 +14,21 @@ publishDate: "2025-12-02T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: #In *[Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l)*
-publication_short: #In *RA-L 2026*
+publication: In *[Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l)*
+publication_short: In *RA-L 2026*
 
-abstract: "Fast, efficient, robust communication during wildfire and other emergency responses is critical. One way to achieve this is by coordinating swarms of autonomous aerial vehicles carrying communications equipment to form an ad-hoc network connecting emergency response personnel to both each other and central command. However, operating in such extreme environments may lead to individual networking agents being damaged or rendered inoperable, which could bring down the network and interrupt communications. To overcome this challenge and enable multi-agent UAV networking in difficult environments, this paper introduces and formalizes the problem of Robust Task Networking Under Attrition (RTNUA), which extends connectivity maintenance in multi-robot systems to explicitly address proactive redundancy and attrition recovery. We introduce Physics-Informed Robust Employment of Multi-Agent Networks (ΦIREMAN), a topological algorithm leveraging physics-inspired potential fields to solve this problem. Through simulation across 25 problem configurations, ΦIREMAN consistently outperforms the DCCRS baseline, and on large-scale problems with up to 100 tasks and 500 drones, maintains >99.9% task uptime despite substantial attrition, demonstrating both effectiveness and scalability."
+abstract: "Coordinating emergency responses in extreme environments, such as wildfires, requires resilient and high-bandwidth communication backbones. While autonomous aerial swarms can establish ad-hoc networks to provide this connectivity, the high risk of individual node attrition in these settings often leads to network fragmentation and mission-critical downtime. To overcome this challenge, we introduce and formalize the problem of Robust Task Networking Under Attrition (RTNUA), which extends connectivity maintenance in multi-robot systems to explicitly address proactive redundancy and attrition recovery. We then introduce Physics-Informed Robust Employment of Multi-Agent Networks (ΦIREMAN), a topological algorithm leveraging physics-inspired potential fields to solve this problem. In our evaluations, ΦIREMAN consistently outperforms baselines, and is able to maintain greater than 99.9% task uptime despite substantial attrition in simulations with up to 100 tasks and 500 drones, demonstrating both effectiveness and scalability."
 
 # Summary. An optional shortened abstract. Can also be used as a summary for an extended abstract or poster etc.
-summary: "This paper introduces and formalizes the problem of Robust Task Networking Under Attrition (RTNUA), which extends connectivity maintenance in multi-robot systems to explicitly address proactive redundancy and attrition recovery. We introduce Physics-Informed Robust Employment of Multi-Agent Networks (ΦIREMAN), a topological algorithm leveraging physics-inspired potential fields to solve this problem. Through simulation across 25 problem configurations, ΦIREMAN consistently outperforms the DCCRS baseline, and on large-scale problems with up to 100 tasks and 500 drones, maintains >99.9% task uptime despite substantial attrition, demonstrating both effectiveness and scalability."
+summary: "This paper introduces and formalizes the problem of Robust Task Networking Under Attrition (RTNUA), which extends connectivity maintenance in multi-robot systems to explicitly address proactive redundancy and attrition recovery. We then introduce Physics-Informed Robust Employment of Multi-Agent Networks (ΦIREMAN), a topological algorithm leveraging physics-inspired potential fields to solve this problem. In our evaluations, ΦIREMAN consistently outperforms baselines, and is able to maintain greater than 99.9% task uptime despite substantial attrition in simulations with up to 100 tasks and 500 drones, demonstrating both effectiveness and scalability."
 
 tags:
 - Multi-Agent Systems
+- Distributed Robot Systems
+- Aerial Systems
 - Communication
 featured: false
 
@@ -74,4 +76,3 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}} -->
 
 <!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->
-
