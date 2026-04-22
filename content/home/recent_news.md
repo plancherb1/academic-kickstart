@@ -49,6 +49,11 @@ title = "Recent News"
  # CSS class.
  css_class = ""
 +++
+**[4/22/26]** I had 3 more papers accepted recently!
++ To RA-L: [Robust Geospatial Coordination of Multi-Agent Communications Networks Under Attrition](/publication/phireman/)
++ To ECC 2026: [Solving Quadratic Programs with Slack Variables via ADMM without Increasing the Problem Size](/publication/admmslack)
++ To IFAC WC 2026: [Parallel Dynamic Programming for Conic Linear Quadratic Control]()
+
 **[1/31/26]** I had 5 papers accepted to ICRA 2026 (including an RA-L transfer)!
 + [GATO: GPU-Accelerated and Batched Trajectory Optimization for Scalable Edge Model Predictive Control](/publication/gato/)
 + [pRRTC: GPU-Parallel RRT-Connect for Fast, Consistent, and Low-Cost Motion Planning](/publication/prrtc/)
@@ -62,19 +67,19 @@ title = "Recent News"
 
 **[5/20/25]** I gave an [Autonomy Talk](https://gioele.science/autonomytalks.html)! You can find the [recording at this link](https://www.youtube.com/watch?v=zd-qV3XLR_k)!
 
-**[5/11/25]** I will be moving to the [Department of Computer Science at Dartmouth College](https://web.cs.dartmouth.edu/) starting in Fall 2025!
+<!-- **[5/11/25]** I will be moving to the [Department of Computer Science at Dartmouth College](https://web.cs.dartmouth.edu/) starting in Fall 2025! -->
 
-**[4/15/25]** I was awarded a [Toyota Research Institute](https://www.tri.global/) Univerisity 2.0 Grant for Uncertainty-Aware Optimization for Intelligent Control!
+<!-- **[4/15/25]** I was awarded a [Toyota Research Institute](https://www.tri.global/) Univerisity 2.0 Grant for Uncertainty-Aware Optimization for Intelligent Control! -->
 
-**[2/15/25]** Registration is open for the [Optimization for Robotics Summer School](https://www.tcoptrob.org/summer-school-2025/) I am co-organizing July 14-18 at the [University of Patras](https://www.upatras.gr/en/) in Greece! Early-bird pricing is available until April 1st! Travel Awards and Fee Waivers are available due to support from an [IEEE-RAS Technical Education Program Grant](https://www.ieee-ras.org/educational-resources-outreach/technical-education-programs).
+<!-- **[2/15/25]** Registration is open for the [Optimization for Robotics Summer School](https://www.tcoptrob.org/summer-school-2025/) I am co-organizing July 14-18 at the [University of Patras](https://www.upatras.gr/en/) in Greece! Early-bird pricing is available until April 1st! Travel Awards and Fee Waivers are available due to support from an [IEEE-RAS Technical Education Program Grant](https://www.ieee-ras.org/educational-resources-outreach/technical-education-programs). -->
 
-**[12/23/24]** My workshop [RoboARCH: Robotics Acceleration with Computing Hardware and Systems](https://sites.google.com/view/roboarch-icra25) was accepted to the [2025 IEEE International Conference on Robotics and Automation](https://2025.ieee-icra.org/)! Consider submitting a poster (deadline April 1st)!
+<!-- **[12/23/24]** My workshop [RoboARCH: Robotics Acceleration with Computing Hardware and Systems](https://sites.google.com/view/roboarch-icra25) was accepted to the [2025 IEEE International Conference on Robotics and Automation](https://2025.ieee-icra.org/)! Consider submitting a poster (deadline April 1st)! -->
 
 <!-- **[9/14/24]** Come find us at the [2024 Northeast Robotics Colloquium](https://www.umass.edu/robotics/nerc2024)! We'll have a four posters and our PI will be giving a short talk! -->
 
-**[9/6/24]** I was awarded an [NSF CSSI Grant](https://new.nsf.gov/funding/opportunities/cssi-cyberinfrastructure-sustained-scientific-innovation) to build an [Accessible GPU-Accelerated Edge Optimal Control Library and Benchmarks](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2411369&HistoricalAwards=false)!
+<!-- **[9/6/24]** I was awarded an [NSF CSSI Grant](https://new.nsf.gov/funding/opportunities/cssi-cyberinfrastructure-sustained-scientific-innovation) to build an [Accessible GPU-Accelerated Edge Optimal Control Library and Benchmarks](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2411369&HistoricalAwards=false)! -->
 
-**[7/16/24]** My lab's [MPCGPU](/publication/mpcgpu) paper won the [Best Poster Award](https://www.tcoptrob.org/news/2024-07-16/) at the [IEEE-RAS TC on Model-Based Optimization for Robotics](https://tcoptrob.org/) Virtual Poster Session!
+<!-- **[7/16/24]** My lab's [MPCGPU](/publication/mpcgpu) paper won the [Best Poster Award](https://www.tcoptrob.org/news/2024-07-16/) at the [IEEE-RAS TC on Model-Based Optimization for Robotics](https://tcoptrob.org/) Virtual Poster Session! -->
 
 <!-- **[6/29/24]** Come find us at the ["Frontiers of Optimization for Robotics"](https://sites.google.com/robotics.utias.utoronto.ca/frontiers-optimization-rss24/home) workshop at [Robotics Science and Systems 2024](https://roboticsconference.org/) where we've been selected to give a lightning talk! -->
 
@@ -84,6 +89,6 @@ title = "Recent News"
 
 <!-- **[6/7/24]** My international collaborators and I were awarded an [IEEE-RAS Technical Education Program Grant](https://www.ieee-ras.org/educational-resources-outreach/technical-education-programs) to run an "Optimization for Robotics Summer School" to be held in Summer 2025! -->
 
-**[5/16/24]** My lab's collaborative [TinyMPC](/publication/tinympc) paper won the [Best Paper in Automation](https://2024.ieee-icra.org/awards-and-finalists/) and was a finalist for Best Conference Paper and Best Student Paper at the [2024 IEEE International Conference on Robotics and Automation (ICRA)](https://2024.ieee-icra.org/)!
+<!-- **[5/16/24]** My lab's collaborative [TinyMPC](/publication/tinympc) paper won the [Best Paper in Automation](https://2024.ieee-icra.org/awards-and-finalists/) and was a finalist for Best Conference Paper and Best Student Paper at the [2024 IEEE International Conference on Robotics and Automation (ICRA)](https://2024.ieee-icra.org/)! -->
 
 <!-- **[5/1/24]** Come find us at the [2024 IEEE International Conference on Robotics and Automation](https://2024.ieee-icra.org/)! Learn more about our 5 papers and workshop panel on our [ICRA-24 page](/ICRA-24)! -->
