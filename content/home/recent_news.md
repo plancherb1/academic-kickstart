@@ -49,7 +49,8 @@ title = "Recent News"
  # CSS class.
  css_class = ""
 +++
-**[4/22/26]** I had 3 more papers accepted recently!
+**[4/28/26]** I had 4 more papers accepted recently!
++ To RSS 2026: [TinySDP: Real Time Semidefinite Optimization for Certifiable and Agile Edge Robotics](/publication/tinysdp/)
 + To RA-L: [Robust Geospatial Coordination of Multi-Agent Communications Networks Under Attrition](/publication/phireman/)
 + To ECC 2026: [Solving Quadratic Programs with Slack Variables via ADMM without Increasing the Problem Size](/publication/admmslack)
 + To IFAC WC 2026: [Parallel Dynamic Programming for Conic Linear Quadratic Control]()
