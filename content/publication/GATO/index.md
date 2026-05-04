@@ -36,8 +36,8 @@ tags:
 featured: false
 
 links:
-# - name: TBD
-#   url: "TBD"
+- name: Website
+  url: "https://a2r-lab.org/GATO"
 url_pdf: 'https://arxiv.org/abs/2510.07625'
 url_code: 'https://github.com/a2r-lab/GATO'
 url_dataset: ''

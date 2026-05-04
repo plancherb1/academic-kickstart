@@ -39,7 +39,7 @@ featured: false
 awards: []
 
 links:
-  - name: "Project Website"
+  - name: "Website"
     url: "https://a2r-lab.org/TAG-K/"
 url_pdf: 'https://arxiv.org/abs/2510.04839'
 url_code: 'https://github.com/a2r-lab/TAG-K'

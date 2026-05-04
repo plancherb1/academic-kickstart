@@ -33,8 +33,8 @@ tags:
 featured: false
 
 links:
-# - name: PDF
-#   url: "https://arxiv.org/abs/2503.06757"
+- name: Website
+  url: "https://commalab.org/papers/pRRTC/"
 url_pdf: 'https://arxiv.org/abs/2503.06757'
 url_code: 'https://github.com/CoMMALab/pRRTC'
 url_dataset: ''
