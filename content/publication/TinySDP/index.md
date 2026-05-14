@@ -42,7 +42,7 @@ awards: []
 links:
   - name: "Website"
     url: "https://a2r-lab.org/TinySDP/"
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2605.13748'
 url_code: 'https://github.com/a2r-lab/tinysdp'
 url_dataset: ''
 url_poster: ''
