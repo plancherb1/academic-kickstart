@@ -44,7 +44,7 @@
   url = "https://web.cs.dartmouth.edu/"
   weight = 80
 
-[[main]]
-  name = "Dartmouth AI"
-  url = "https://ai.dartmouth.edu/"
-  weight = 85
+#[[main]]
+#  name = "Dartmouth AI"
+#  url = "https://ai.dartmouth.edu/"
+#  weight = 85

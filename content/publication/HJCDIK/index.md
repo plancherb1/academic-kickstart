@@ -2,9 +2,10 @@
 title: "HJCD-IK: GPU-Accelerated Inverse Kinematics through Batched Hybrid Jacobian Coordinate Descent"
 authors:
 - CaelYasutake
+- AndrewLiu
 - ZacharyKingston
 - admin
-date: "2025-10-09T00:00:00Z"
+date: "2026-09-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -14,21 +15,22 @@ publishDate: "2025-10-09T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: #In *[2026 International Conference on Robotics and Automation (ICRA)](https://2026.ieee-icra.org/)*
-publication_short: #In *ICRA 2026*
+publication: In *[2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](https://2026.ieee-iros.org/)*
+publication_short: In *IROS 2026*
 
-abstract: "Inverse Kinematics (IK) is a core problem in robotics, in which joint configurations are found to achieve a desired end-effector pose. Although analytical solvers are fast and efficient, they are limited to systems with low degrees-of-freedom and specific topological structures. Numerical optimization-based approaches are more general, but suffer from high computational costs and frequent convergence to spurious local minima. Recent efforts have explored the use of GPUs to combine sampling and optimization to enhance both the accuracy and speed of IK solvers. We build on this recent literature and introduce HJCD-IK, a GPU-accelerated, sampling-based hybrid solver that combines an orientation-aware greedy coordinate descent initialization scheme with a Jacobian-based polishing routine. This design enables our solver to improve both convergence speed and overall accuracy as compared to the state-of-the-art, consistently finding solutions along the accuracy-latency Pareto frontier and often achieving order-of-magnitude gains. In addition, our method produces a broad distribution of high-quality samples, yielding the lowest maximum mean discrepancy. We release our code open-source for the benefit of the community."
+abstract: "Inverse Kinematics (IK) is a core problem in robotics, in which joint configurations are found to achieve a (collision free) desired end-effector pose. Modern IK solvers face a fundamental trade-off: analytical methods are fast but lack generality, while numerical optimization-based methods are broadly applicable but prone to local minima and high computational costs. To overcome this challenge, we introduce HJCD-IK, a GPU-accelerated, sampling-based hybrid solver. By pairing a novel orientation-aware greedy coordinate descent initialization with Jacobian-based polishing and a parallel collision filter, our method achieves up to order-of-magnitude gains in speed and accuracy over state-of-the-art solvers, consistently finding collision-free solutions on the accuracy-latency Pareto frontier, while producing a diverse distribution of high-quality samples. We validate our solver on a physical Franka manipulator and release our code open-source."
 
 # Summary. An optional shortened abstract. Can also be used as a summary for an extended abstract or poster etc.
-summary: "We introduce HJCD-IK, a GPU-accelerated, sampling-based hybrid Inverse Kinematics (IK) solver that combines an orientation-aware greedy coordinate descent initialization scheme with a Jacobian-based polishing routine. This design enables our solver to improve both convergence speed and overall accuracy as compared to the state-of-the-art, consistently finding solutions along the accuracy-latency Pareto frontier and often achieving order-of-magnitude gains. In addition, our method produces a broad distribution of high-quality samples, yielding the lowest maximum mean discrepancy. We release our code open-source for the benefit of the community."
+summary: "We introduce HJCD-IK, a GPU-accelerated, sampling-based hybrid solver. By pairing a novel orientation-aware greedy coordinate descent initialization with Jacobian-based polishing and a parallel collision filter, our method achieves up to order-of-magnitude gains in speed and accuracy over state-of-the-art solvers, consistently finding collision-free solutions on the accuracy-latency Pareto frontier, while producing a diverse distribution of high-quality samples. We validate our solver on a physical Franka manipulator and release our code open-source."
 
 tags:
 - Motion Planning
 - Parallel Computing
 - GPU
+- Inverse Kinematics
 featured: false
 
 links:
