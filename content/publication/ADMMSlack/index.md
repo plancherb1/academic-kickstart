@@ -6,7 +6,7 @@ authors:
 - JohnSubosits
 - admin
 date: "2026-07-28T00:00:00Z"
-doi: ""
+doi: "10.1016/j.ejcon.2026.101557"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-11-11T00:00:00Z"

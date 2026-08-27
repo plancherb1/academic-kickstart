@@ -64,7 +64,7 @@ projects: []
 
 links:
 - name: "Draft Syllabus"
-  url: "files/169.23_F25_Syllabus.pdf"
+  url: "files/COSC_169.23_F25_Syllabus.pdf"
 
 # Featured image -- named `featured.jpg/png` in this folder. 
 image:

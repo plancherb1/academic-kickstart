@@ -49,6 +49,10 @@ title = "Recent News"
  # CSS class.
  css_class = ""
 +++
+**[7/28/26]** I had 2 more paper updates recently!
++ [Solving Quadratic Programs with Slack Variables via ADMM without Increasing the Problem Size](/publication/admmslack) was accepted to the Special Issue of the European Journal of Control (EJC) for the Best Papers from the 2026 European Control Conference (ECC)
++ [HJCD-IK: GPU-Accelerated Inverse Kinematics through Batched Hybrid Jacobian Coordinate Descent](/publication/hjcdik) was accepted to IROS 2026
+
 **[4/28/26]** I had 4 more papers accepted recently!
 + To RSS 2026: [TinySDP: Real Time Semidefinite Optimization for Certifiable and Agile Edge Robotics](/publication/tinysdp/)
 + To RA-L: [Robust Geospatial Coordination of Multi-Agent Communications Networks Under Attrition](/publication/phireman/)
