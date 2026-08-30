@@ -7,7 +7,20 @@ type: "widget_page"  # Page type is a Widget Page
 
 ---
 
-**I will be on parental leave for much of both the Winter and Spring 2026 terms. As such I will not have formal office hours during those terms. Please email me if you would like to get in touch and apologies for the potential delay in response. Regular office hours will start back up in Fall 2026.**
+| Day of the Week | Date             | Time                      | Location |
+|-----------------|------------------|---------------------------|----------|
+| Wednesday       | September 16     | 5:30 PM - 6:30 PM EDT     | ECSC 107 |
+| Wednesday       | September 23     | 5:30 PM - 6:30 PM EDT     | ECSC 107 |
+| ~~Wednesday~~   | ~~September 30~~ | ~~5:30 PM - 6:30 PM EDT~~ | ~~ECSC 107~~ **Cancled Due to [IROS](https://2026.ieee-iros.org/) Travel** |
+|                 |                  |                           |          |
+| Wednesday       | October 7        | **6:30 PM - 7:30 PM EDT** | ECSC 107 |
+| Wednesday       | October 14       | 5:30 PM - 6:30 PM EDT     | ECSC 107 |
+| Wednesday       | October 21       | 5:30 PM - 6:30 PM EDT     | ECSC 107 |
+| Wednesday       | October 28       | 5:30 PM - 6:30 PM EDT     | ECSC 107 |
+|                 |                  |                           |          |
+| Wednesday       | November 4       | 5:30 PM - 6:30 PM EDT     | ECSC 107 |
+| Wednesday       | November 11      | 5:30 PM - 6:30 PM EDT     | ECSC 107 |
+| Wednesday       | November 18      | 5:30 PM - 6:30 PM EDT     | ECSC 107 |
 
 ---
 
