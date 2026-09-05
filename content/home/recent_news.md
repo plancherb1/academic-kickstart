@@ -49,6 +49,12 @@ title = "Recent News"
  # CSS class.
  css_class = ""
 +++
+**[9/4/26]** [MPC-Injection: Biasing Off-Policy Locomotion RL Toward Controller-Induced Behavior Basins](/publication/mpcinjection/) was accepted to CoRL 2026!
+
+**[9/1/26]** I was awarded 2 grants by the National Science Foundation (NSF)!
++ [Scalable Cross-Layer Co-Design for Stable Mixed-Precision Acceleration](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2621699) working with [Sabrina M. Neuman](https://sites.bu.edu/sneuman/) and the [Boston University Robomorphic Computing Laboratory](https://sites.bu.edu/robomorphic/)
++ [Safe Multi-Task Learning and Control for Autonomy at the Edge](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2535096) working with [James Anderson](https://www.columbia.edu/~ja3451/) and his team in the [Columbia University Department of Electrical Engineering](https://www.ee.columbia.edu/).
+
 **[7/28/26]** I had 2 more paper updates recently!
 + [Solving Quadratic Programs with Slack Variables via ADMM without Increasing the Problem Size](/publication/admmslack) was accepted to the Special Issue of the European Journal of Control (EJC) for the Best Papers from the 2026 European Control Conference (ECC)
 + [HJCD-IK: GPU-Accelerated Inverse Kinematics through Batched Hybrid Jacobian Coordinate Descent](/publication/hjcdik) was accepted to IROS 2026

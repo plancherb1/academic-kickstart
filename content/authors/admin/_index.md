@@ -87,7 +87,7 @@ user_groups: []
 #- Researchers
 #- Visitors
 
-job_alert: 
+job_alert: "My lab is recruiting for PhD researchers for Fall 2028 starts through the [Dartmouth CS PhD program](https://graduate.dartmouth.edu/academics/programs/computer-science). Deadline: December 15th! [More Info](https://a2r-lab.org/join)"
 # "[Come find me throughout the week at ICRA-26!](https://a2r-lab.org/icra-26) and [Wednesday at SIAM OP26!](https://meetings.siam.org/sess/dsp_talk.cfm?p=156579)"
 # "My lab is hiring for a postdoctoral researcher to start as soon as April 2026 for our project with [Toyota Research Institute](https://www.tri.global/) on real-time, uncertainty-aware optimal control, targeting autonomous driving at the limits of handling, validated through real-world deployments! [Learn more and apply here!](https://a2r-lab.org/triuniversity3postdocadd/)"
 #"I am recruiting for PhD researchers for Fall 2026 starts. Please apply to the [Dartmouth CS PhD program](https://graduate.dartmouth.edu/academics/programs/computer-science) at the Guarini School of Graduate and Advanced Studies and mention your interest in [my lab](https://a2r-lab.org) to ensure full consideration. Applications are due December 15, 2025!"
