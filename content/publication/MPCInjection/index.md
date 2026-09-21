@@ -35,10 +35,10 @@ featured: false
 awards: []
 
 links:
-  # - name: "TBD"
-  #   url: "TBD"
+  - name: "Website"
+    url: "https://a2r-lab.org/MPC-Injection/"
 url_pdf: 'https://arxiv.org/abs/2606.26392'
-url_code: ''
+url_code: 'https://github.com/A2R-Lab/MPC-Injection'
 url_dataset: ''
 url_poster: ''
 url_project: ''

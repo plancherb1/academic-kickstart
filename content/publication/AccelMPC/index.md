@@ -38,6 +38,12 @@ links:
   #   url: "https://sites.google.com/robotics.utias.utoronto.ca/icra26-frontiers-optimization/home"
   # - name: "Workshop PDF"
   #   url: "https://openreview.net/pdf?id=rWyuDxXkeE"
+  - name: "FPGA Code"
+    url: "https://github.com/A2R-Lab/ADMM_FPGA"
+  - name: "PCB Design Files"
+    url: "https://github.com/A2R-Lab/Crazyflie_FPGA_Deck"
+  - name: "Crazyflie FPGA Firmware"
+    urk: "https://github.com/A2R-Lab/crazyflie_fpga_firmware"
 url_pdf: 'https://arxiv.org/abs/2609.09380'
 url_code: ''
 url_dataset: ''

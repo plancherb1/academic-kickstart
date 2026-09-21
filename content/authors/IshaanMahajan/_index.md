@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Custom link to external flag
-link_to_external_url: "https://scholar.google.com/citations?user=HMDSXuMAAAAJ&hl=en"
+link_to_external_url: "https://ishaanmahajan.com/"
 
 # Abusing the role tag for interests
 # role: "Tiny Robots"
