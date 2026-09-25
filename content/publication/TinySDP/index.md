@@ -45,7 +45,7 @@ links:
 url_pdf: 'https://arxiv.org/abs/2605.13748'
 url_code: 'https://github.com/a2r-lab/tinysdp'
 url_dataset: ''
-url_poster: ''
+url_poster: 'files/tinysdp-rss-poster_compressed.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
