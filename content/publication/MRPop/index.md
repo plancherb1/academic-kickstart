@@ -41,6 +41,8 @@ links:
   #   url: "https://sites.google.com/robotics.utias.utoronto.ca/icra26-frontiers-optimization/home"
   # - name: "Project Website"
   #   url: "https://commalab.org/papers/pRRTC/"
+  - name: "ICRA 2026 Workshop Abstract"
+    url: "https://openreview.net/pdf?id=CNzM4vPY0H"
 url_pdf: 'https://arxiv.org/abs/2609.30644'
 url_code: 'https://github.com/CoMMALab/MR.POP'
 url_dataset: ''
@@ -48,7 +50,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/TOUWF6pqbAw'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
