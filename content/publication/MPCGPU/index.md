@@ -39,8 +39,8 @@ awards:
 - Best Poster Award at the 2024 IEEE TC on Model Based Optimization for Robotics Virtual Poster Session
 
 links:
-  # - name: "TBD"
-  #   url: "TBD"
+  - name: "Website"
+    url: "https://a2r-lab.org/MPCGPU/"
 url_pdf: 'https://arxiv.org/abs/2309.08079'
 url_code: 'https://github.com/a2r-lab/MPCGPU'
 url_dataset: ''
