@@ -16,7 +16,7 @@ type: "widget_page"  # Page type is a Widget Page
 | Wednesday       | October 7        | **6:30 PM - 7:30 PM EDT** | ECSC 107 |
 | Wednesday       | October 14       | 5:30 PM - 6:30 PM EDT     | ECSC 107 |
 | Wednesday       | October 21       | 5:30 PM - 6:30 PM EDT     | ECSC 107 |
-| Wednesday       | October 28       | 5:30 PM - 6:30 PM EDT     | ECSC 107 |
+| Wednesday       | October 28       | **6:30 PM - 7:30 PM EDT** | ECSC 107 |
 |                 |                  |                           |          |
 | Wednesday       | November 4       | 5:30 PM - 6:30 PM EDT     | ECSC 107 |
 | Wednesday       | November 11      | 5:30 PM - 6:30 PM EDT     | ECSC 107 |
