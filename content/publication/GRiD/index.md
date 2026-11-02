@@ -37,10 +37,10 @@ tags:
 featured: true
 
 links:
-  - name: Benchmark Experiments
-    url: 'https://github.com/robot-acceleration/GRiDBenchmarks'
+  - name: "Archived Paper-Era Code"
+    url: 'https://github.com/robot-acceleration/GRiD'
 url_pdf: 'https://arxiv.org/pdf/2109.06976.pdf'
-url_code: 'https://github.com/robot-acceleration/GRiD'
+url_code: 'https://github.com/a2r-lab/GRiD'
 url_dataset: ''
 url_poster: 'files/GRiD_ICRA_poster.pdf'
 url_project: ''
